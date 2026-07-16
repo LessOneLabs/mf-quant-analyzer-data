@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-15T05:25:16.607942",
+ "generated_at": "2026-07-16T03:01:25.380619",
  "count": 1638,
  "funds": {
   "119550": {
@@ -10015,7 +10015,7 @@
   "154316": {
    "fund_name": "Kotak Multi Asset Active FOF - Direct - Growth",
    "isin": "INF174KA1ZO0",
-   "classification": "OTHER",
+   "classification": "HYB-OTHER",
    "amfi_category": "Fund of Funds Scheme (Domestic)",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
@@ -12050,7 +12050,7 @@
   "152509": {
    "fund_name": "Helios Balanced Advantage Fund- Direct Plan- Growth Option",
    "isin": "INF0R8701145",
-   "classification": "OTHER",
+   "classification": "HYB-EQUITY",
    "amfi_category": "Balanced Advantage Fund/ Dynamic Asset Allocation",
    "amc": "Helios Mutual Fund",
    "ter_pct": null,
@@ -12270,7 +12270,7 @@
   "119739": {
    "fund_name": "Kotak Bond Short Term Plan-(Growth) - Direct",
    "isin": "INF174K01JI7",
-   "classification": "OTHER",
+   "classification": "DEBT-SHORT",
    "amfi_category": "Short Term Fund",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
@@ -12281,7 +12281,7 @@
   "119750": {
    "fund_name": "Kotak Savings Fund-Growth - Direct",
    "isin": "INF174K01JP2",
-   "classification": "OTHER",
+   "classification": "DEBT-SHORT",
    "amfi_category": "Ultra Short Term Fund",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
@@ -12292,7 +12292,7 @@
   "153736": {
    "fund_name": "Aditya Birla Sun Life BSE 500 Momentum 50 Index Fund-Direct Growth",
    "isin": "INF209KC1589",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
@@ -12303,7 +12303,7 @@
   "153740": {
    "fund_name": "Aditya Birla Sun Life BSE 500 Quality 50 Index Fund - Direct Growth",
    "isin": "INF209KC1613",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
@@ -12314,7 +12314,7 @@
   "153081": {
    "fund_name": "Aditya Birla Sun Life BSE India Infrastructure Index Fund-Direct Growth",
    "isin": "INF209KC1332",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
@@ -12325,7 +12325,7 @@
   "148962": {
    "fund_name": "Aditya Birla Sun Life Nifty 50 Equal Weight Index Fund-Direct Growth",
    "isin": "INF209KB1Z71",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.4,
@@ -12336,7 +12336,7 @@
   "152798": {
    "fund_name": "Aditya Birla Sun Life Nifty India Defence Index Fund-Direct Growth",
    "isin": "INF209KC1183",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.31,
@@ -12347,7 +12347,7 @@
   "148807": {
    "fund_name": "Aditya Birla Sun Life Nifty Midcap 150 Index Fund-Direct Growth",
    "isin": "INF209KB1W74",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.44,
@@ -12358,7 +12358,7 @@
   "149838": {
    "fund_name": "Aditya Birla Sun Life Nifty Next 50 Index Fund-Direct Growth",
    "isin": "INF209KB10G3",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.33,
@@ -12369,7 +12369,7 @@
   "148815": {
    "fund_name": "Aditya Birla Sun Life Nifty Smallcap 50 Index Fund-Direct Growth",
    "isin": "INF209KB1W17",
-   "classification": "OTHER",
+   "classification": "EQ-INDEX",
    "amfi_category": "Equity Funds",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.46,
@@ -17594,7 +17594,7 @@
   "149291": {
    "fund_name": "Aditya Birla Sun Life US Equity Passive FOF-Direct-Growth",
    "isin": "INF209KB18C5",
-   "classification": "OTHER",
+   "classification": "EQ-OTHER",
    "amfi_category": "Fund of Funds investing overseas",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
