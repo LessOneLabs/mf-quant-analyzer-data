@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T03:14:45.874570",
+ "generated_at": "2026-07-18T03:27:30.762140",
  "count": 1638,
  "funds": {
   "119550": {
@@ -3914,8 +3914,8 @@
    "amfi_category": "Equity Scheme - Contra Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": 0.58,
-   "data_points": 3337,
-   "last_updated": "2026-07-16",
+   "data_points": 3338,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "151165": {
@@ -4750,8 +4750,8 @@
    "amfi_category": "Equity Scheme - Flexi Cap Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": 0.82,
-   "data_points": 3334,
-   "last_updated": "2026-07-16",
+   "data_points": 3335,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "144905": {
@@ -5124,8 +5124,8 @@
    "amfi_category": "Equity Scheme - Focused Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 3337,
-   "last_updated": "2026-07-16",
+   "data_points": 3338,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "149533": {
@@ -5476,8 +5476,8 @@
    "amfi_category": "Equity Scheme - Large & Mid Cap Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 3337,
-   "last_updated": "2026-07-16",
+   "data_points": 3338,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "119566": {
@@ -8853,8 +8853,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 3338,
-   "last_updated": "2026-07-16",
+   "data_points": 3339,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "119700": {
@@ -8908,8 +8908,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 99,
-   "last_updated": "2026-07-16",
+   "data_points": 100,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "153154": {
@@ -8930,8 +8930,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "SBI Mutual Fund",
    "ter_pct": 0.84,
-   "data_points": 3331,
-   "last_updated": "2026-07-16",
+   "data_points": 3332,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "153076": {
@@ -11944,8 +11944,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "Samco Mutual Fund",
    "ter_pct": null,
-   "data_points": 380,
-   "last_updated": "2026-07-16",
+   "data_points": 381,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "119843": {
@@ -13154,8 +13154,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 199,
-   "last_updated": "2026-07-16",
+   "data_points": 200,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "119788": {
@@ -13748,8 +13748,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 1233,
-   "last_updated": "2026-07-16",
+   "data_points": 1234,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "119602": {
@@ -17664,8 +17664,8 @@
    "amfi_category": "Childrens Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 1429,
-   "last_updated": "2026-07-16",
+   "data_points": 1430,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "119719": {
