@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T09:05:51.187286",
+ "generated_at": "2026-07-18T09:14:50.860771",
  "count": 1638,
  "funds": {
   "119550": {
@@ -1450,8 +1450,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Capitalmind Mutual Fund",
    "ter_pct": null,
-   "data_points": 187,
-   "last_updated": "2026-07-18",
+   "data_points": 188,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "119125": {
