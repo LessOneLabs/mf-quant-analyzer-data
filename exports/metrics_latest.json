@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T05:19:21.932106",
+  "generated_at": "2026-07-18T08:34:51.513646",
   "funds_processed": 1638,
   "errors": 10,
   "discovered_category_map": {
@@ -5128,7 +5128,7 @@
         "roll_stability": 0.7794
       },
       "scores": {
-        "sc_1y_return": 0.7347,
+        "sc_1y_return": 0.7342,
         "sc_3y_return": 0.9296,
         "sc_5y_return": 0.7393,
         "sc_alpha": null,
@@ -5144,7 +5144,7 @@
         "sc_downside_freq": 0.6924,
         "sc_ter": 0.5,
         "sc_avg_roll": 0.8312,
-        "sc_roll_stability": 0.8334
+        "sc_roll_stability": 0.8332
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5191,11 +5191,11 @@
         "roll_stability": 0.7286
       },
       "scores": {
-        "sc_1y_return": 0.9419,
+        "sc_1y_return": 0.9412,
         "sc_3y_return": 1.0,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.5293,
+        "sc_volatility": 0.5292,
         "sc_drawdown": 1.0,
         "sc_momentum": 0.0,
         "sc_outperformance": 0.7077,
@@ -5207,7 +5207,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.5633,
         "sc_avg_roll": 0.7457,
-        "sc_roll_stability": 0.7716
+        "sc_roll_stability": 0.7714
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -5255,11 +5255,11 @@
         "roll_stability": 0.7399
       },
       "scores": {
-        "sc_1y_return": 0.9302,
+        "sc_1y_return": 0.9295,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.7491,
         "sc_alpha": null,
-        "sc_volatility": 0.7996,
+        "sc_volatility": 0.7995,
         "sc_drawdown": 0.7597,
         "sc_momentum": 0.2472,
         "sc_outperformance": 0.7963,
@@ -5271,7 +5271,7 @@
         "sc_downside_freq": 0.5015,
         "sc_ter": null,
         "sc_avg_roll": 0.5113,
-        "sc_roll_stability": 0.7853
+        "sc_roll_stability": 0.7851
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5319,7 +5319,7 @@
         "roll_stability": 0.7088
       },
       "scores": {
-        "sc_1y_return": 0.5136,
+        "sc_1y_return": 0.5132,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.7999,
         "sc_alpha": null,
@@ -5335,7 +5335,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.4684,
         "sc_avg_roll": 0.5615,
-        "sc_roll_stability": 0.7475
+        "sc_roll_stability": 0.7473
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5382,7 +5382,7 @@
         "roll_stability": 0.7504
       },
       "scores": {
-        "sc_1y_return": 0.8958,
+        "sc_1y_return": 0.8951,
         "sc_3y_return": 1.0,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
@@ -5398,7 +5398,7 @@
         "sc_downside_freq": 0.7018,
         "sc_ter": 0.5,
         "sc_avg_roll": 0.6207,
-        "sc_roll_stability": 0.7981
+        "sc_roll_stability": 0.7979
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5445,7 +5445,7 @@
         "roll_stability": 0.7782
       },
       "scores": {
-        "sc_1y_return": 0.7871,
+        "sc_1y_return": 0.7865,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.9617,
         "sc_alpha": null,
@@ -5461,7 +5461,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": 0.4051,
         "sc_avg_roll": 0.8349,
-        "sc_roll_stability": 0.8319
+        "sc_roll_stability": 0.8317
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5524,7 +5524,7 @@
         "sc_downside_freq": 0.4,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.9594,
-        "sc_roll_stability": 0.8226
+        "sc_roll_stability": 0.8225
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5571,11 +5571,11 @@
         "roll_stability": 0.7058
       },
       "scores": {
-        "sc_1y_return": 0.8177,
+        "sc_1y_return": 0.8171,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.9425,
         "sc_alpha": null,
-        "sc_volatility": 0.5824,
+        "sc_volatility": 0.5823,
         "sc_drawdown": 1.0,
         "sc_momentum": 0.0879,
         "sc_outperformance": 0.8451,
@@ -5587,7 +5587,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.6905,
-        "sc_roll_stability": 0.7438
+        "sc_roll_stability": 0.7437
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5635,7 +5635,7 @@
         "roll_stability": 0.7151
       },
       "scores": {
-        "sc_1y_return": 0.4928,
+        "sc_1y_return": 0.4925,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.6917,
         "sc_alpha": null,
@@ -5651,7 +5651,7 @@
         "sc_downside_freq": 0.1,
         "sc_ter": null,
         "sc_avg_roll": 0.8671,
-        "sc_roll_stability": 0.7551
+        "sc_roll_stability": 0.755
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5699,7 +5699,7 @@
         "roll_stability": 0.7896
       },
       "scores": {
-        "sc_1y_return": 0.8902,
+        "sc_1y_return": 0.8896,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.7941,
         "sc_alpha": null,
@@ -5715,7 +5715,7 @@
         "sc_downside_freq": 0.5235,
         "sc_ter": 0.3734,
         "sc_avg_roll": 0.451,
-        "sc_roll_stability": 0.8458
+        "sc_roll_stability": 0.8456
       },
       "missing_metrics": [
         "sc_alpha",
@@ -5762,7 +5762,7 @@
         "roll_stability": 0.8056
       },
       "scores": {
-        "sc_1y_return": 0.6435,
+        "sc_1y_return": 0.643,
         "sc_3y_return": 0.9483,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -5778,7 +5778,7 @@
         "sc_downside_freq": 0.73,
         "sc_ter": null,
         "sc_avg_roll": 0.6192,
-        "sc_roll_stability": 0.8652
+        "sc_roll_stability": 0.865
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -5827,7 +5827,7 @@
         "roll_stability": 0.7514
       },
       "scores": {
-        "sc_1y_return": 0.6815,
+        "sc_1y_return": 0.681,
         "sc_3y_return": 0.7221,
         "sc_5y_return": 0.3183,
         "sc_alpha": null,
@@ -5843,7 +5843,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.4818,
-        "sc_roll_stability": 0.7993
+        "sc_roll_stability": 0.7991
       },
       "missing_metrics": [
         "sc_alpha",
@@ -7734,7 +7734,7 @@
         "roll_stability": 0.7708
       },
       "scores": {
-        "sc_1y_return": 0.7711,
+        "sc_1y_return": 0.7705,
         "sc_3y_return": 0.4784,
         "sc_5y_return": 0.2833,
         "sc_alpha": null,
@@ -7750,7 +7750,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.3195,
-        "sc_roll_stability": 0.8229
+        "sc_roll_stability": 0.8227
       },
       "missing_metrics": [
         "sc_alpha",
@@ -7885,7 +7885,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.5633,
         "sc_avg_roll": 0.5208,
-        "sc_roll_stability": 0.7917
+        "sc_roll_stability": 0.7916
       },
       "missing_metrics": [
         "sc_alpha",
@@ -7948,7 +7948,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.7532,
         "sc_avg_roll": 0.5533,
-        "sc_roll_stability": 0.8037
+        "sc_roll_stability": 0.8035
       },
       "missing_metrics": [
         "sc_alpha",
@@ -7995,7 +7995,7 @@
         "roll_stability": 0.945
       },
       "scores": {
-        "sc_1y_return": 0.9586,
+        "sc_1y_return": 0.958,
         "sc_3y_return": 0.5823,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -8059,7 +8059,7 @@
         "roll_stability": 0.7528
       },
       "scores": {
-        "sc_1y_return": 0.9686,
+        "sc_1y_return": 0.9679,
         "sc_3y_return": 0.554,
         "sc_5y_return": 0.9259,
         "sc_alpha": null,
@@ -8075,7 +8075,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.4956,
-        "sc_roll_stability": 0.801
+        "sc_roll_stability": 0.8008
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8123,7 +8123,7 @@
         "roll_stability": 0.7542
       },
       "scores": {
-        "sc_1y_return": 0.9058,
+        "sc_1y_return": 0.9051,
         "sc_3y_return": 0.6054,
         "sc_5y_return": 0.5095,
         "sc_alpha": null,
@@ -8139,7 +8139,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.5422,
-        "sc_roll_stability": 0.8027
+        "sc_roll_stability": 0.8025
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8187,7 +8187,7 @@
         "roll_stability": 0.7551
       },
       "scores": {
-        "sc_1y_return": 0.9163,
+        "sc_1y_return": 0.9157,
         "sc_3y_return": 0.5678,
         "sc_5y_return": 0.7422,
         "sc_alpha": null,
@@ -8203,7 +8203,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.6899,
         "sc_avg_roll": 0.5155,
-        "sc_roll_stability": 0.8038
+        "sc_roll_stability": 0.8036
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8250,7 +8250,7 @@
         "roll_stability": 0.7529
       },
       "scores": {
-        "sc_1y_return": 0.8993,
+        "sc_1y_return": 0.8987,
         "sc_3y_return": 0.6029,
         "sc_5y_return": 0.4134,
         "sc_alpha": null,
@@ -8266,7 +8266,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.8481,
         "sc_avg_roll": 0.5325,
-        "sc_roll_stability": 0.8011
+        "sc_roll_stability": 0.8009
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8281,16 +8281,16 @@
       "amfi_category": "Debt Scheme - Liquid Fund",
       "amc": "Capitalmind Mutual Fund",
       "ter_pct": null,
-      "data_points": 186,
-      "last_updated": "2026-07-17",
+      "data_points": 187,
+      "last_updated": "2026-07-18",
       "error": "",
       "metrics": {
-        "cagr_1m": 7.0185719272688685,
-        "cagr_6m": 6.873687543915374,
+        "cagr_1m": 6.947847216655467,
+        "cagr_6m": 6.875550738339875,
         "cagr_1y": null,
         "cagr_3y": null,
         "cagr_5y": null,
-        "std_dev": 0.2284,
+        "std_dev": 0.2279,
         "max_drawdown": -0.006459879297307859,
         "beta": null,
         "alpha": null,
@@ -8317,7 +8317,7 @@
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.9717,
+        "sc_volatility": 0.9718,
         "sc_drawdown": 0.0072,
         "sc_momentum": null,
         "sc_outperformance": 0.6692,
@@ -8400,7 +8400,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.9114,
         "sc_avg_roll": 0.5043,
-        "sc_roll_stability": 0.8072
+        "sc_roll_stability": 0.807
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8415,27 +8415,27 @@
       "amfi_category": "Debt Scheme - Liquid Fund",
       "amc": "Edelweiss Mutual Fund",
       "ter_pct": 0.08,
-      "data_points": 3026,
-      "last_updated": "2026-07-17",
+      "data_points": 3027,
+      "last_updated": "2026-07-18",
       "error": "",
       "metrics": {
-        "cagr_1m": 7.045496610421931,
-        "cagr_6m": 7.247519426099691,
-        "cagr_1y": 6.642164512883997,
-        "cagr_3y": 6.8857081403659315,
-        "cagr_5y": 7.008495734424125,
-        "std_dev": 4.328,
+        "cagr_1m": 7.029598232644818,
+        "cagr_6m": 7.2742473366086635,
+        "cagr_1y": 6.641123259830617,
+        "cagr_3y": 6.884275035402676,
+        "cagr_5y": 7.010753485734855,
+        "std_dev": 4.3273,
         "max_drawdown": -0.015851087596931997,
         "beta": null,
         "alpha": null,
-        "sharpe": 0.0328,
-        "sortino": 0.4183,
-        "calmar": 419.0353,
-        "momentum": -0.2435,
-        "return_divergence": -0.2435,
-        "avg_roll_1y": 1773.2794,
-        "min_roll_1y": 3.3623,
-        "max_roll_1y": 27785.0949,
+        "sharpe": 0.0326,
+        "sortino": 0.4152,
+        "calmar": 418.9696,
+        "momentum": -0.2432,
+        "return_divergence": -0.2432,
+        "avg_roll_1y": 1780.4732,
+        "min_roll_1y": 3.3598,
+        "max_roll_1y": 27785.5441,
         "outperformance_pct": 52.6639,
         "positive_return_pct": 99.2828,
         "persistence_score": 52.3438,
@@ -8448,7 +8448,7 @@
       },
       "scores": {
         "sc_1y_return": 1.0,
-        "sc_3y_return": 0.5453,
+        "sc_3y_return": 0.5445,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
         "sc_volatility": 0.0,
@@ -8526,7 +8526,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.5235,
-        "sc_roll_stability": 0.8008
+        "sc_roll_stability": 0.8006
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8574,7 +8574,7 @@
         "roll_stability": 0.7458
       },
       "scores": {
-        "sc_1y_return": 0.9681,
+        "sc_1y_return": 0.9674,
         "sc_3y_return": 0.5923,
         "sc_5y_return": 0.8013,
         "sc_alpha": null,
@@ -8590,7 +8590,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.523,
-        "sc_roll_stability": 0.7925
+        "sc_roll_stability": 0.7923
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8638,7 +8638,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.9525,
+        "sc_1y_return": 0.9518,
         "sc_3y_return": 0.5269,
         "sc_5y_return": 0.9554,
         "sc_alpha": null,
@@ -8701,7 +8701,7 @@
         "roll_stability": 0.7559
       },
       "scores": {
-        "sc_1y_return": 0.9458,
+        "sc_1y_return": 0.9451,
         "sc_3y_return": 0.5678,
         "sc_5y_return": 0.9182,
         "sc_alpha": null,
@@ -8717,7 +8717,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.5268,
-        "sc_roll_stability": 0.8048
+        "sc_roll_stability": 0.8046
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8765,7 +8765,7 @@
         "roll_stability": 0.7552
       },
       "scores": {
-        "sc_1y_return": 0.9386,
+        "sc_1y_return": 0.9379,
         "sc_3y_return": 0.5545,
         "sc_5y_return": 0.9525,
         "sc_alpha": null,
@@ -8781,7 +8781,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.5949,
         "sc_avg_roll": 0.502,
-        "sc_roll_stability": 0.8039
+        "sc_roll_stability": 0.8037
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8828,7 +8828,7 @@
         "roll_stability": 0.7492
       },
       "scores": {
-        "sc_1y_return": 0.9751,
+        "sc_1y_return": 0.9744,
         "sc_3y_return": 0.5641,
         "sc_5y_return": 0.8659,
         "sc_alpha": null,
@@ -8844,7 +8844,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.7532,
         "sc_avg_roll": 0.5101,
-        "sc_roll_stability": 0.7966
+        "sc_roll_stability": 0.7964
       },
       "missing_metrics": [
         "sc_alpha",
@@ -8891,7 +8891,7 @@
         "roll_stability": 0.7962
       },
       "scores": {
-        "sc_1y_return": 0.7238,
+        "sc_1y_return": 0.7233,
         "sc_3y_return": 0.4516,
         "sc_5y_return": 0.5926,
         "sc_alpha": null,
@@ -8907,7 +8907,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.943,
         "sc_avg_roll": 0.0431,
-        "sc_roll_stability": 0.8538
+        "sc_roll_stability": 0.8536
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9021,7 +9021,7 @@
         "roll_stability": 0.7507
       },
       "scores": {
-        "sc_1y_return": 0.9171,
+        "sc_1y_return": 0.9164,
         "sc_3y_return": 0.5007,
         "sc_5y_return": 0.8556,
         "sc_alpha": null,
@@ -9037,7 +9037,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.5087,
-        "sc_roll_stability": 0.7984
+        "sc_roll_stability": 0.7983
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9296,7 +9296,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.2407,
-        "sc_roll_stability": 0.8724
+        "sc_roll_stability": 0.8722
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9409,7 +9409,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.9523,
+        "sc_1y_return": 0.9516,
         "sc_3y_return": 0.566,
         "sc_5y_return": 0.9139,
         "sc_alpha": null,
@@ -9440,27 +9440,27 @@
       "amfi_category": "Debt Scheme - Liquid Fund",
       "amc": "LIC Mutual Fund",
       "ter_pct": null,
-      "data_points": 4259,
-      "last_updated": "2026-07-18",
+      "data_points": 4260,
+      "last_updated": "2026-07-19",
       "error": "",
       "metrics": {
-        "cagr_1m": 7.064217510280035,
-        "cagr_6m": 7.102321074550821,
-        "cagr_1y": 6.560192079773786,
-        "cagr_3y": 6.827760448067677,
-        "cagr_5y": 6.910332343111003,
-        "std_dev": 3.6496,
+        "cagr_1m": 7.079340532377931,
+        "cagr_6m": 7.118337983754208,
+        "cagr_1y": 6.563871940996235,
+        "cagr_3y": 6.820404851672768,
+        "cagr_5y": 6.910039614523655,
+        "std_dev": 3.6491,
         "max_drawdown": -0.01450346288854603,
         "beta": null,
         "alpha": null,
-        "sharpe": 0.0165,
-        "sortino": 0.0905,
-        "calmar": 452.319,
-        "momentum": -0.2676,
-        "return_divergence": -0.2676,
-        "avg_roll_1y": 242.5402,
-        "min_roll_1y": 3.3042,
-        "max_roll_1y": 45035.7294,
+        "sharpe": 0.0175,
+        "sortino": 0.0961,
+        "calmar": 452.5727,
+        "momentum": -0.2565,
+        "return_divergence": -0.2565,
+        "avg_roll_1y": 242.5537,
+        "min_roll_1y": 3.3035,
+        "max_roll_1y": 45038.2346,
         "outperformance_pct": 46.2848,
         "positive_return_pct": 99.5686,
         "persistence_score": 23.5294,
@@ -9472,9 +9472,9 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.9925,
-        "sc_3y_return": 0.5122,
-        "sc_5y_return": 0.9789,
+        "sc_1y_return": 0.9945,
+        "sc_3y_return": 0.508,
+        "sc_5y_return": 0.9786,
         "sc_alpha": null,
         "sc_volatility": 0.0,
         "sc_drawdown": 0.0161,
@@ -9536,7 +9536,7 @@
         "roll_stability": 0.8192
       },
       "scores": {
-        "sc_1y_return": 0.8827,
+        "sc_1y_return": 0.8821,
         "sc_3y_return": 0.6107,
         "sc_5y_return": 0.5557,
         "sc_alpha": null,
@@ -9552,7 +9552,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.3102,
-        "sc_roll_stability": 0.8818
+        "sc_roll_stability": 0.8816
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9600,7 +9600,7 @@
         "roll_stability": 0.7764
       },
       "scores": {
-        "sc_1y_return": 0.9178,
+        "sc_1y_return": 0.9171,
         "sc_3y_return": 0.5411,
         "sc_5y_return": 0.8963,
         "sc_alpha": null,
@@ -9616,7 +9616,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.943,
         "sc_avg_roll": 0.4796,
-        "sc_roll_stability": 0.8297
+        "sc_roll_stability": 0.8295
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9663,7 +9663,7 @@
         "roll_stability": 0.7993
       },
       "scores": {
-        "sc_1y_return": 0.6135,
+        "sc_1y_return": 0.6131,
         "sc_3y_return": 0.3782,
         "sc_5y_return": 0.1339,
         "sc_alpha": null,
@@ -9679,7 +9679,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0036,
-        "sc_roll_stability": 0.8576
+        "sc_roll_stability": 0.8574
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9727,7 +9727,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.4371,
+        "sc_1y_return": 0.4368,
         "sc_3y_return": 0.2711,
         "sc_5y_return": 0.0,
         "sc_alpha": null,
@@ -9808,7 +9808,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.5153,
-        "sc_roll_stability": 0.8016
+        "sc_roll_stability": 0.8014
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9824,27 +9824,27 @@
       "amfi_category": "Debt Scheme - Liquid Fund",
       "amc": "PGIM India Mutual Fund",
       "ter_pct": 0.12,
-      "data_points": 3303,
-      "last_updated": "2026-07-17",
+      "data_points": 3304,
+      "last_updated": "2026-07-18",
       "error": "",
       "metrics": {
-        "cagr_1m": 6.874909626540648,
-        "cagr_6m": 7.234960420977399,
-        "cagr_1y": 6.612315950562642,
-        "cagr_3y": 6.866390204680117,
-        "cagr_5y": 7.016311461898206,
-        "std_dev": 0.1719,
+        "cagr_1m": 6.887469460777407,
+        "cagr_6m": 7.248704821818164,
+        "cagr_1y": 6.615386988013872,
+        "cagr_3y": 6.860049197242835,
+        "cagr_5y": 7.016242614451995,
+        "std_dev": 0.1718,
         "max_drawdown": -0.03109326443440462,
         "beta": null,
         "alpha": null,
-        "sharpe": 0.6534,
-        "sortino": 0.2908,
-        "calmar": 212.6607,
-        "momentum": -0.2541,
-        "return_divergence": -0.2541,
+        "sharpe": 0.6716,
+        "sortino": 0.2987,
+        "calmar": 212.7595,
+        "momentum": -0.2447,
+        "return_divergence": -0.2447,
         "avg_roll_1y": 6.1729,
-        "min_roll_1y": 3.2867,
-        "max_roll_1y": 7.6828,
+        "min_roll_1y": 3.2833,
+        "max_roll_1y": 7.6817,
         "outperformance_pct": 50.8279,
         "positive_return_pct": 99.4689,
         "persistence_score": 30.4965,
@@ -9853,11 +9853,11 @@
         "recovery_months": 0.0,
         "recovery_score": 1.0,
         "downside_freq": 0.0,
-        "roll_stability": 0.822
+        "roll_stability": 0.8219
       },
       "scores": {
         "sc_1y_return": 1.0,
-        "sc_3y_return": 0.5343,
+        "sc_3y_return": 0.5306,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
         "sc_volatility": 0.9879,
@@ -9872,7 +9872,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.8481,
         "sc_avg_roll": 0.3181,
-        "sc_roll_stability": 0.8852
+        "sc_roll_stability": 0.8849
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9919,7 +9919,7 @@
         "roll_stability": 0.8172
       },
       "scores": {
-        "sc_1y_return": 0.9099,
+        "sc_1y_return": 0.9093,
         "sc_3y_return": 0.4323,
         "sc_5y_return": 0.3518,
         "sc_alpha": null,
@@ -9935,7 +9935,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.1149,
-        "sc_roll_stability": 0.8793
+        "sc_roll_stability": 0.8791
       },
       "missing_metrics": [
         "sc_alpha",
@@ -9983,7 +9983,7 @@
         "roll_stability": 0.7827
       },
       "scores": {
-        "sc_1y_return": 0.6319,
+        "sc_1y_return": 0.6314,
         "sc_3y_return": 0.4901,
         "sc_5y_return": 0.5248,
         "sc_alpha": null,
@@ -9999,7 +9999,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.4051,
         "sc_avg_roll": 0.6356,
-        "sc_roll_stability": 0.8374
+        "sc_roll_stability": 0.8372
       },
       "missing_metrics": [
         "sc_alpha",
@@ -10014,27 +10014,27 @@
       "amfi_category": "Debt Scheme - Liquid Fund",
       "amc": "Quantum Mutual Fund",
       "ter_pct": null,
-      "data_points": 6012,
-      "last_updated": "2026-07-18",
+      "data_points": 6013,
+      "last_updated": "2026-07-19",
       "error": "",
       "metrics": {
-        "cagr_1m": 6.2301792494388275,
-        "cagr_6m": 6.130132334803684,
-        "cagr_1y": 5.863219246540496,
-        "cagr_3y": 6.544060118378092,
-        "cagr_5y": 6.1073192558060985,
+        "cagr_1m": 6.229164631900086,
+        "cagr_6m": 6.101399258558171,
+        "cagr_1y": 5.860639826870195,
+        "cagr_3y": 6.542354229738301,
+        "cagr_5y": 6.109539382677998,
         "std_dev": 0.2081,
         "max_drawdown": -0.04166753474029634,
         "beta": null,
         "alpha": null,
-        "sharpe": -3.06,
-        "sortino": -0.6237,
-        "calmar": 140.7143,
-        "momentum": -0.6808,
-        "return_divergence": -0.6808,
-        "avg_roll_1y": 6.798,
-        "min_roll_1y": 3.0703,
-        "max_roll_1y": 9.6344,
+        "sharpe": -3.0724,
+        "sortino": -0.6262,
+        "calmar": 140.6524,
+        "momentum": -0.6817,
+        "return_divergence": -0.6817,
+        "avg_roll_1y": 6.7987,
+        "min_roll_1y": 3.0655,
+        "max_roll_1y": 9.6366,
         "outperformance_pct": 27.7034,
         "positive_return_pct": 99.4851,
         "persistence_score": 0.0,
@@ -10043,16 +10043,16 @@
         "recovery_months": 0.0,
         "recovery_score": 1.0,
         "downside_freq": 0.0,
-        "roll_stability": 0.7586
+        "roll_stability": 0.7584
       },
       "scores": {
-        "sc_1y_return": 0.4699,
-        "sc_3y_return": 0.35,
-        "sc_5y_return": 0.136,
+        "sc_1y_return": 0.4677,
+        "sc_3y_return": 0.349,
+        "sc_5y_return": 0.1383,
         "sc_alpha": null,
         "sc_volatility": 0.9775,
         "sc_drawdown": 0.0463,
-        "sc_momentum": 0.7624,
+        "sc_momentum": 0.7618,
         "sc_outperformance": 0.014,
         "sc_positive_return": 0.9796,
         "sc_persistence": 0.0,
@@ -10061,8 +10061,8 @@
         "sc_recovery": 1.0,
         "sc_downside_freq": 1.0,
         "sc_ter": null,
-        "sc_avg_roll": 0.5114,
-        "sc_roll_stability": 0.8081
+        "sc_avg_roll": 0.5116,
+        "sc_roll_stability": 0.8076
       },
       "missing_metrics": [
         "sc_alpha",
@@ -10110,7 +10110,7 @@
         "roll_stability": 0.7543
       },
       "scores": {
-        "sc_1y_return": 0.9934,
+        "sc_1y_return": 0.9927,
         "sc_3y_return": 0.4875,
         "sc_5y_return": 0.9728,
         "sc_alpha": null,
@@ -10126,7 +10126,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.5223,
-        "sc_roll_stability": 0.8028
+        "sc_roll_stability": 0.8026
       },
       "missing_metrics": [
         "sc_alpha",
@@ -10174,7 +10174,7 @@
         "roll_stability": 0.9673
       },
       "scores": {
-        "sc_1y_return": 0.8539,
+        "sc_1y_return": 0.8533,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -10257,7 +10257,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.8165,
         "sc_avg_roll": 0.5168,
-        "sc_roll_stability": 0.9759
+        "sc_roll_stability": 0.9757
       },
       "missing_metrics": [
         "sc_alpha",
@@ -10304,7 +10304,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.9682,
+        "sc_1y_return": 0.9675,
         "sc_3y_return": 0.5796,
         "sc_5y_return": 0.93,
         "sc_alpha": null,
@@ -10407,27 +10407,27 @@
       "amfi_category": "Debt Scheme - Liquid Fund",
       "amc": "Trust Mutual Fund",
       "ter_pct": null,
-      "data_points": 1591,
-      "last_updated": "2026-07-17",
+      "data_points": 1592,
+      "last_updated": "2026-07-19",
       "error": "",
       "metrics": {
-        "cagr_1m": 7.028625933554378,
-        "cagr_6m": 6.834876909692267,
-        "cagr_1y": 6.443379582810227,
-        "cagr_3y": 6.83449640916709,
-        "cagr_5y": 6.807064428089515,
+        "cagr_1m": 6.893452705412395,
+        "cagr_6m": 6.828102393038615,
+        "cagr_1y": 6.4451745591298515,
+        "cagr_3y": 6.83187777192813,
+        "cagr_5y": 6.807400762701077,
         "std_dev": 0.3312,
         "max_drawdown": -0.48855989476931483,
         "beta": null,
         "alpha": null,
-        "sharpe": -0.171,
-        "sortino": -0.0208,
-        "calmar": 13.1885,
-        "momentum": -0.3911,
-        "return_divergence": -0.3911,
-        "avg_roll_1y": 6.3391,
-        "min_roll_1y": 3.4169,
-        "max_roll_1y": 7.431,
+        "sharpe": -0.1655,
+        "sortino": -0.0202,
+        "calmar": 13.1922,
+        "momentum": -0.3867,
+        "return_divergence": -0.3867,
+        "avg_roll_1y": 6.3413,
+        "min_roll_1y": 3.4191,
+        "max_roll_1y": 7.4295,
         "outperformance_pct": 42.7838,
         "positive_return_pct": 99.4869,
         "persistence_score": 0.0,
@@ -10436,16 +10436,16 @@
         "recovery_months": 0.0,
         "recovery_score": 1.0,
         "downside_freq": 0.0,
-        "roll_stability": 0.8417
+        "roll_stability": 0.8419
       },
       "scores": {
-        "sc_1y_return": 0.9049,
-        "sc_3y_return": 0.516,
-        "sc_5y_return": 0.8705,
+        "sc_1y_return": 0.9056,
+        "sc_3y_return": 0.5145,
+        "sc_5y_return": 0.8708,
         "sc_alpha": null,
         "sc_volatility": 0.9423,
         "sc_drawdown": 0.5434,
-        "sc_momentum": 0.9631,
+        "sc_momentum": 0.9662,
         "sc_outperformance": 0.3774,
         "sc_positive_return": 0.9796,
         "sc_persistence": 0.0,
@@ -10454,8 +10454,8 @@
         "sc_recovery": 1.0,
         "sc_downside_freq": 1.0,
         "sc_ter": null,
-        "sc_avg_roll": 0.3695,
-        "sc_roll_stability": 0.9091
+        "sc_avg_roll": 0.3702,
+        "sc_roll_stability": 0.9092
       },
       "missing_metrics": [
         "sc_alpha",
@@ -10471,27 +10471,27 @@
       "amfi_category": "Debt Scheme - Liquid Fund",
       "amc": "Unifi Mutual Fund",
       "ter_pct": null,
-      "data_points": 347,
-      "last_updated": "2026-07-17",
+      "data_points": 348,
+      "last_updated": "2026-07-19",
       "error": "",
       "metrics": {
-        "cagr_1m": 5.481642538377018,
-        "cagr_6m": 6.13357545562887,
-        "cagr_1y": 5.972113181328598,
+        "cagr_1m": 5.5802507706647075,
+        "cagr_6m": 6.139480483160642,
+        "cagr_1y": 5.975021164199701,
         "cagr_3y": null,
         "cagr_5y": null,
-        "std_dev": 0.1753,
+        "std_dev": 0.1757,
         "max_drawdown": 0.0,
         "beta": null,
         "alpha": null,
-        "sharpe": -3.0113,
+        "sharpe": -2.9879,
         "sortino": null,
         "calmar": null,
         "momentum": null,
         "return_divergence": null,
-        "avg_roll_1y": 6.0784,
-        "min_roll_1y": 5.9721,
-        "max_roll_1y": 6.1747,
+        "avg_roll_1y": 6.0793,
+        "min_roll_1y": 5.975,
+        "max_roll_1y": 6.1848,
         "outperformance_pct": 48.3965,
         "positive_return_pct": 100.0,
         "persistence_score": 0.0,
@@ -10500,14 +10500,14 @@
         "recovery_months": 0.0,
         "recovery_score": 1.0,
         "downside_freq": 0.0,
-        "roll_stability": 0.9917
+        "roll_stability": 0.9914
       },
       "scores": {
-        "sc_1y_return": 0.5516,
+        "sc_1y_return": 0.5534,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.9869,
+        "sc_volatility": 0.9868,
         "sc_drawdown": 0.0,
         "sc_momentum": null,
         "sc_outperformance": 0.5126,
@@ -10518,7 +10518,7 @@
         "sc_recovery": 1.0,
         "sc_downside_freq": 1.0,
         "sc_ter": null,
-        "sc_avg_roll": 0.2889,
+        "sc_avg_roll": 0.2892,
         "sc_roll_stability": 1.0
       },
       "missing_metrics": [
@@ -10586,7 +10586,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.4405,
-        "sc_roll_stability": 0.7472
+        "sc_roll_stability": 0.7471
       },
       "missing_metrics": [
         "sc_alpha",
@@ -10633,7 +10633,7 @@
         "roll_stability": 0.7952
       },
       "scores": {
-        "sc_1y_return": 0.8129,
+        "sc_1y_return": 0.8124,
         "sc_3y_return": 0.5369,
         "sc_5y_return": 0.3463,
         "sc_alpha": null,
@@ -10649,7 +10649,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0794,
-        "sc_roll_stability": 0.8526
+        "sc_roll_stability": 0.8524
       },
       "missing_metrics": [
         "sc_alpha",
@@ -11392,7 +11392,7 @@
         "roll_stability": 0.7857
       },
       "scores": {
-        "sc_1y_return": 0.7964,
+        "sc_1y_return": 0.7958,
         "sc_3y_return": 0.8688,
         "sc_5y_return": 0.7252,
         "sc_alpha": null,
@@ -11408,7 +11408,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.8528,
-        "sc_roll_stability": 0.841
+        "sc_roll_stability": 0.8408
       },
       "missing_metrics": [
         "sc_alpha",
@@ -11455,7 +11455,7 @@
         "roll_stability": 0.7841
       },
       "scores": {
-        "sc_1y_return": 0.7955,
+        "sc_1y_return": 0.795,
         "sc_3y_return": 0.8785,
         "sc_5y_return": 0.6037,
         "sc_alpha": null,
@@ -11471,7 +11471,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": 0.1203,
         "sc_avg_roll": 0.7654,
-        "sc_roll_stability": 0.8391
+        "sc_roll_stability": 0.8389
       },
       "missing_metrics": [
         "sc_alpha",
@@ -11590,7 +11590,7 @@
         "roll_stability": 0.7576
       },
       "scores": {
-        "sc_1y_return": 0.6037,
+        "sc_1y_return": 0.6032,
         "sc_3y_return": 0.7034,
         "sc_5y_return": 0.2597,
         "sc_alpha": null,
@@ -11606,7 +11606,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": null,
         "sc_avg_roll": 0.6955,
-        "sc_roll_stability": 0.8068
+        "sc_roll_stability": 0.8067
       },
       "missing_metrics": [
         "sc_alpha",
@@ -11654,7 +11654,7 @@
         "roll_stability": 0.8883
       },
       "scores": {
-        "sc_1y_return": 0.8409,
+        "sc_1y_return": 0.8403,
         "sc_3y_return": 0.8524,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -11670,7 +11670,7 @@
         "sc_downside_freq": 0.6885,
         "sc_ter": 0.2468,
         "sc_avg_roll": 0.7016,
-        "sc_roll_stability": 0.9658
+        "sc_roll_stability": 0.9656
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -11718,7 +11718,7 @@
         "roll_stability": 0.7637
       },
       "scores": {
-        "sc_1y_return": 0.7102,
+        "sc_1y_return": 0.7096,
         "sc_3y_return": 0.7568,
         "sc_5y_return": 0.2669,
         "sc_alpha": null,
@@ -11734,7 +11734,7 @@
         "sc_downside_freq": 0.8,
         "sc_ter": 0.1835,
         "sc_avg_roll": 0.638,
-        "sc_roll_stability": 0.8143
+        "sc_roll_stability": 0.8141
       },
       "missing_metrics": [
         "sc_alpha",
@@ -11781,7 +11781,7 @@
         "roll_stability": 0.7321
       },
       "scores": {
-        "sc_1y_return": 0.6076,
+        "sc_1y_return": 0.6072,
         "sc_3y_return": 0.719,
         "sc_5y_return": 0.3191,
         "sc_alpha": null,
@@ -11797,7 +11797,7 @@
         "sc_downside_freq": 0.8809,
         "sc_ter": 0.2785,
         "sc_avg_roll": 0.589,
-        "sc_roll_stability": 0.7758
+        "sc_roll_stability": 0.7756
       },
       "missing_metrics": [
         "sc_alpha",
@@ -11844,7 +11844,7 @@
         "roll_stability": 0.9647
       },
       "scores": {
-        "sc_1y_return": 0.7308,
+        "sc_1y_return": 0.7302,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -11994,7 +11994,7 @@
         "sc_downside_freq": 0.0139,
         "sc_ter": null,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.3269
+        "sc_roll_stability": 0.3268
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12042,7 +12042,7 @@
         "roll_stability": 0.7877
       },
       "scores": {
-        "sc_1y_return": 0.806,
+        "sc_1y_return": 0.8054,
         "sc_3y_return": 0.9238,
         "sc_5y_return": 0.7231,
         "sc_alpha": null,
@@ -12058,7 +12058,7 @@
         "sc_downside_freq": 0.7,
         "sc_ter": null,
         "sc_avg_roll": 0.7774,
-        "sc_roll_stability": 0.8435
+        "sc_roll_stability": 0.8433
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12106,11 +12106,11 @@
         "roll_stability": 0.8895
       },
       "scores": {
-        "sc_1y_return": 0.8313,
+        "sc_1y_return": 0.8307,
         "sc_3y_return": 1.0,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.8016,
+        "sc_volatility": 0.8015,
         "sc_drawdown": 0.2506,
         "sc_momentum": 0.1358,
         "sc_outperformance": 0.9374,
@@ -12122,7 +12122,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.9539,
-        "sc_roll_stability": 0.9673
+        "sc_roll_stability": 0.9671
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -12171,7 +12171,7 @@
         "roll_stability": 0.7577
       },
       "scores": {
-        "sc_1y_return": 0.9169,
+        "sc_1y_return": 0.9163,
         "sc_3y_return": 0.9574,
         "sc_5y_return": 0.7134,
         "sc_alpha": null,
@@ -12187,7 +12187,7 @@
         "sc_downside_freq": 0.7,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.8026,
-        "sc_roll_stability": 0.807
+        "sc_roll_stability": 0.8068
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12234,11 +12234,11 @@
         "roll_stability": 0.7549
       },
       "scores": {
-        "sc_1y_return": 0.639,
+        "sc_1y_return": 0.6385,
         "sc_3y_return": 0.7235,
         "sc_5y_return": 0.2615,
         "sc_alpha": null,
-        "sc_volatility": 0.8334,
+        "sc_volatility": 0.8333,
         "sc_drawdown": 0.4486,
         "sc_momentum": 0.4659,
         "sc_outperformance": 0.9274,
@@ -12250,7 +12250,7 @@
         "sc_downside_freq": 0.8,
         "sc_ter": 0.2152,
         "sc_avg_roll": 0.7098,
-        "sc_roll_stability": 0.8035
+        "sc_roll_stability": 0.8034
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12368,7 +12368,7 @@
         "roll_stability": -0.4592
       },
       "scores": {
-        "sc_1y_return": 0.7405,
+        "sc_1y_return": 0.74,
         "sc_3y_return": 0.7718,
         "sc_5y_return": 0.324,
         "sc_alpha": null,
@@ -12432,11 +12432,11 @@
         "roll_stability": 0.7765
       },
       "scores": {
-        "sc_1y_return": 0.8832,
+        "sc_1y_return": 0.8826,
         "sc_3y_return": 0.9382,
         "sc_5y_return": 0.7048,
         "sc_alpha": null,
-        "sc_volatility": 0.801,
+        "sc_volatility": 0.8009,
         "sc_drawdown": 0.6783,
         "sc_momentum": 0.4315,
         "sc_outperformance": 1.0,
@@ -12448,7 +12448,7 @@
         "sc_downside_freq": 0.6453,
         "sc_ter": null,
         "sc_avg_roll": 0.7821,
-        "sc_roll_stability": 0.8298
+        "sc_roll_stability": 0.8296
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12496,11 +12496,11 @@
         "roll_stability": 0.6712
       },
       "scores": {
-        "sc_1y_return": 0.8453,
+        "sc_1y_return": 0.8447,
         "sc_3y_return": 0.8069,
         "sc_5y_return": 0.3778,
         "sc_alpha": null,
-        "sc_volatility": 0.4583,
+        "sc_volatility": 0.4582,
         "sc_drawdown": 0.3605,
         "sc_momentum": 0.5555,
         "sc_outperformance": 0.9542,
@@ -12512,7 +12512,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": null,
         "sc_avg_roll": 0.6279,
-        "sc_roll_stability": 0.7017
+        "sc_roll_stability": 0.7016
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12560,7 +12560,7 @@
         "roll_stability": 0.7866
       },
       "scores": {
-        "sc_1y_return": 0.9568,
+        "sc_1y_return": 0.9561,
         "sc_3y_return": 0.9158,
         "sc_5y_return": 0.5713,
         "sc_alpha": null,
@@ -12576,7 +12576,7 @@
         "sc_downside_freq": 0.8566,
         "sc_ter": null,
         "sc_avg_roll": 0.5398,
-        "sc_roll_stability": 0.8421
+        "sc_roll_stability": 0.8419
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12624,7 +12624,7 @@
         "roll_stability": 0.7975
       },
       "scores": {
-        "sc_1y_return": 0.8777,
+        "sc_1y_return": 0.8771,
         "sc_3y_return": 0.8811,
         "sc_5y_return": 0.4889,
         "sc_alpha": null,
@@ -12640,7 +12640,7 @@
         "sc_downside_freq": 0.7,
         "sc_ter": 0.4367,
         "sc_avg_roll": 0.5766,
-        "sc_roll_stability": 0.8554
+        "sc_roll_stability": 0.8552
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12687,7 +12687,7 @@
         "roll_stability": 0.7869
       },
       "scores": {
-        "sc_1y_return": 0.9119,
+        "sc_1y_return": 0.9113,
         "sc_3y_return": 0.8881,
         "sc_5y_return": 0.7072,
         "sc_alpha": null,
@@ -12703,7 +12703,7 @@
         "sc_downside_freq": 0.7,
         "sc_ter": null,
         "sc_avg_roll": 0.7558,
-        "sc_roll_stability": 0.8425
+        "sc_roll_stability": 0.8423
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12751,7 +12751,7 @@
         "roll_stability": 0.7834
       },
       "scores": {
-        "sc_1y_return": 0.5393,
+        "sc_1y_return": 0.5389,
         "sc_3y_return": 0.775,
         "sc_5y_return": 0.4311,
         "sc_alpha": null,
@@ -12767,7 +12767,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": null,
         "sc_avg_roll": 0.6914,
-        "sc_roll_stability": 0.8382
+        "sc_roll_stability": 0.838
       },
       "missing_metrics": [
         "sc_alpha",
@@ -12815,7 +12815,7 @@
         "roll_stability": 0.877
       },
       "scores": {
-        "sc_1y_return": 0.6522,
+        "sc_1y_return": 0.6517,
         "sc_3y_return": 0.8074,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -12831,7 +12831,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.6687,
-        "sc_roll_stability": 0.9521
+        "sc_roll_stability": 0.9519
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -12879,11 +12879,11 @@
         "roll_stability": 0.7022
       },
       "scores": {
-        "sc_1y_return": 0.791,
+        "sc_1y_return": 0.7904,
         "sc_3y_return": 0.7823,
         "sc_5y_return": 0.3872,
         "sc_alpha": null,
-        "sc_volatility": 0.6439,
+        "sc_volatility": 0.6438,
         "sc_drawdown": 0.5345,
         "sc_momentum": 0.5352,
         "sc_outperformance": 0.9475,
@@ -12895,7 +12895,7 @@
         "sc_downside_freq": 0.8,
         "sc_ter": 0.4684,
         "sc_avg_roll": 0.565,
-        "sc_roll_stability": 0.7394
+        "sc_roll_stability": 0.7393
       },
       "missing_metrics": [
         "sc_alpha",
@@ -13013,7 +13013,7 @@
         "roll_stability": 0.4656
       },
       "scores": {
-        "sc_1y_return": 0.7323,
+        "sc_1y_return": 0.7318,
         "sc_3y_return": 0.7674,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
@@ -13029,7 +13029,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": 0.057,
         "sc_avg_roll": 0.5455,
-        "sc_roll_stability": 0.4516
+        "sc_roll_stability": 0.4515
       },
       "missing_metrics": [
         "sc_alpha",
@@ -14926,7 +14926,7 @@
         "roll_stability": 0.7842
       },
       "scores": {
-        "sc_1y_return": 0.8113,
+        "sc_1y_return": 0.8107,
         "sc_3y_return": 0.84,
         "sc_5y_return": 0.5795,
         "sc_alpha": null,
@@ -14942,7 +14942,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.5316,
         "sc_avg_roll": 0.7147,
-        "sc_roll_stability": 0.8392
+        "sc_roll_stability": 0.839
       },
       "missing_metrics": [
         "sc_alpha",
@@ -14989,7 +14989,7 @@
         "roll_stability": 0.8136
       },
       "scores": {
-        "sc_1y_return": 0.8159,
+        "sc_1y_return": 0.8153,
         "sc_3y_return": 0.8624,
         "sc_5y_return": 0.6087,
         "sc_alpha": null,
@@ -15005,7 +15005,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.7215,
         "sc_avg_roll": 0.3695,
-        "sc_roll_stability": 0.875
+        "sc_roll_stability": 0.8748
       },
       "missing_metrics": [
         "sc_alpha",
@@ -15052,7 +15052,7 @@
         "roll_stability": 0.9332
       },
       "scores": {
-        "sc_1y_return": 0.8235,
+        "sc_1y_return": 0.8229,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -15119,7 +15119,7 @@
         "roll_stability": 0.7688
       },
       "scores": {
-        "sc_1y_return": 0.8435,
+        "sc_1y_return": 0.8429,
         "sc_3y_return": 0.8384,
         "sc_5y_return": 0.4989,
         "sc_alpha": null,
@@ -15135,7 +15135,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.6255,
-        "sc_roll_stability": 0.8205
+        "sc_roll_stability": 0.8203
       },
       "missing_metrics": [
         "sc_alpha",
@@ -15183,7 +15183,7 @@
         "roll_stability": 0.9671
       },
       "scores": {
-        "sc_1y_return": 0.8911,
+        "sc_1y_return": 0.8905,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -15250,7 +15250,7 @@
         "roll_stability": 0.7764
       },
       "scores": {
-        "sc_1y_return": 0.8207,
+        "sc_1y_return": 0.8201,
         "sc_3y_return": 0.7299,
         "sc_5y_return": 0.2258,
         "sc_alpha": null,
@@ -15266,7 +15266,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.1679,
-        "sc_roll_stability": 0.8297
+        "sc_roll_stability": 0.8295
       },
       "missing_metrics": [
         "sc_alpha",
@@ -15314,7 +15314,7 @@
         "roll_stability": 0.7299
       },
       "scores": {
-        "sc_1y_return": 0.8475,
+        "sc_1y_return": 0.8469,
         "sc_3y_return": 0.7317,
         "sc_5y_return": 0.2949,
         "sc_alpha": null,
@@ -15330,7 +15330,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": 0.4367,
         "sc_avg_roll": 0.5418,
-        "sc_roll_stability": 0.7731
+        "sc_roll_stability": 0.773
       },
       "missing_metrics": [
         "sc_alpha",
@@ -15377,7 +15377,7 @@
         "roll_stability": 0.4091
       },
       "scores": {
-        "sc_1y_return": 0.8083,
+        "sc_1y_return": 0.8078,
         "sc_3y_return": 0.7722,
         "sc_5y_return": 0.2772,
         "sc_alpha": null,
@@ -15393,7 +15393,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.7532,
         "sc_avg_roll": 0.5243,
-        "sc_roll_stability": 0.3829
+        "sc_roll_stability": 0.3828
       },
       "missing_metrics": [
         "sc_alpha",
@@ -15440,7 +15440,7 @@
         "roll_stability": 0.7654
       },
       "scores": {
-        "sc_1y_return": 0.801,
+        "sc_1y_return": 0.8004,
         "sc_3y_return": 0.8293,
         "sc_5y_return": 0.4497,
         "sc_alpha": null,
@@ -15456,7 +15456,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": 0.7848,
         "sc_avg_roll": 0.7035,
-        "sc_roll_stability": 0.8163
+        "sc_roll_stability": 0.8161
       },
       "missing_metrics": [
         "sc_alpha",
@@ -15574,7 +15574,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.8167,
+        "sc_1y_return": 0.8161,
         "sc_3y_return": 0.829,
         "sc_5y_return": 0.5471,
         "sc_alpha": null,
@@ -15637,7 +15637,7 @@
         "roll_stability": 0.9341
       },
       "scores": {
-        "sc_1y_return": 0.7694,
+        "sc_1y_return": 0.7688,
         "sc_3y_return": 0.7717,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -15702,7 +15702,7 @@
         "roll_stability": 0.7917
       },
       "scores": {
-        "sc_1y_return": 0.782,
+        "sc_1y_return": 0.7814,
         "sc_3y_return": 0.8213,
         "sc_5y_return": 0.5065,
         "sc_alpha": null,
@@ -15718,7 +15718,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.6729,
-        "sc_roll_stability": 0.8483
+        "sc_roll_stability": 0.8481
       },
       "missing_metrics": [
         "sc_alpha",
@@ -15766,7 +15766,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.7497,
+        "sc_1y_return": 0.7492,
         "sc_3y_return": 0.7391,
         "sc_5y_return": 0.2797,
         "sc_alpha": null,
@@ -15833,7 +15833,7 @@
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.8962,
+        "sc_volatility": 0.8961,
         "sc_drawdown": 0.236,
         "sc_momentum": null,
         "sc_outperformance": 0.8525,
@@ -15916,7 +15916,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.2934,
-        "sc_roll_stability": 0.9303
+        "sc_roll_stability": 0.9301
       },
       "missing_metrics": [
         "sc_3y_return",
@@ -15967,7 +15967,7 @@
         "roll_stability": 0.963
       },
       "scores": {
-        "sc_1y_return": 0.9163,
+        "sc_1y_return": 0.9156,
         "sc_3y_return": 0.4813,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -16032,7 +16032,7 @@
         "roll_stability": 0.8406
       },
       "scores": {
-        "sc_1y_return": 0.7437,
+        "sc_1y_return": 0.7432,
         "sc_3y_return": 0.8246,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -16048,7 +16048,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.6582,
         "sc_avg_roll": 0.5514,
-        "sc_roll_stability": 0.9078
+        "sc_roll_stability": 0.9076
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -16096,7 +16096,7 @@
         "roll_stability": 0.7892
       },
       "scores": {
-        "sc_1y_return": 0.8018,
+        "sc_1y_return": 0.8012,
         "sc_3y_return": 0.8443,
         "sc_5y_return": 0.592,
         "sc_alpha": null,
@@ -16112,7 +16112,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.6854,
-        "sc_roll_stability": 0.8453
+        "sc_roll_stability": 0.8451
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16160,7 +16160,7 @@
         "roll_stability": 0.8215
       },
       "scores": {
-        "sc_1y_return": 0.6901,
+        "sc_1y_return": 0.6896,
         "sc_3y_return": 0.718,
         "sc_5y_return": 0.4435,
         "sc_alpha": null,
@@ -16176,7 +16176,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.5949,
         "sc_avg_roll": 0.3039,
-        "sc_roll_stability": 0.8846
+        "sc_roll_stability": 0.8844
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16223,7 +16223,7 @@
         "roll_stability": 0.784
       },
       "scores": {
-        "sc_1y_return": 0.6905,
+        "sc_1y_return": 0.69,
         "sc_3y_return": 0.7905,
         "sc_5y_return": 0.5018,
         "sc_alpha": null,
@@ -16239,7 +16239,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.7138,
-        "sc_roll_stability": 0.839
+        "sc_roll_stability": 0.8388
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16358,7 +16358,7 @@
         "roll_stability": 0.7967
       },
       "scores": {
-        "sc_1y_return": 0.7756,
+        "sc_1y_return": 0.775,
         "sc_3y_return": 0.7468,
         "sc_5y_return": 0.3134,
         "sc_alpha": null,
@@ -16374,7 +16374,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.3029,
-        "sc_roll_stability": 0.8544
+        "sc_roll_stability": 0.8542
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16422,7 +16422,7 @@
         "roll_stability": 0.5709
       },
       "scores": {
-        "sc_1y_return": 0.8578,
+        "sc_1y_return": 0.8572,
         "sc_3y_return": 0.9046,
         "sc_5y_return": 0.6995,
         "sc_alpha": null,
@@ -16438,7 +16438,7 @@
         "sc_downside_freq": 0.8,
         "sc_ter": null,
         "sc_avg_roll": 0.5314,
-        "sc_roll_stability": 0.5797
+        "sc_roll_stability": 0.5796
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16486,7 +16486,7 @@
         "roll_stability": 0.9355
       },
       "scores": {
-        "sc_1y_return": 0.7094,
+        "sc_1y_return": 0.7089,
         "sc_3y_return": 0.6821,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -16551,7 +16551,7 @@
         "roll_stability": 0.849
       },
       "scores": {
-        "sc_1y_return": 0.9542,
+        "sc_1y_return": 0.9535,
         "sc_3y_return": 0.7101,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -16567,7 +16567,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.4925,
-        "sc_roll_stability": 0.918
+        "sc_roll_stability": 0.9178
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -16616,7 +16616,7 @@
         "roll_stability": 0.7863
       },
       "scores": {
-        "sc_1y_return": 0.7958,
+        "sc_1y_return": 0.7952,
         "sc_3y_return": 0.8316,
         "sc_5y_return": 0.5495,
         "sc_alpha": null,
@@ -16632,7 +16632,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.71,
-        "sc_roll_stability": 0.8417
+        "sc_roll_stability": 0.8416
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16680,7 +16680,7 @@
         "roll_stability": 0.998
       },
       "scores": {
-        "sc_1y_return": 0.0998,
+        "sc_1y_return": 0.0997,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -16763,7 +16763,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8733
+        "sc_roll_stability": 0.8731
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16827,7 +16827,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.0013,
-        "sc_roll_stability": 0.875
+        "sc_roll_stability": 0.8748
       },
       "missing_metrics": [
         "sc_alpha",
@@ -16874,7 +16874,7 @@
         "roll_stability": 0.9414
       },
       "scores": {
-        "sc_1y_return": 0.0969,
+        "sc_1y_return": 0.0968,
         "sc_3y_return": 0.0662,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -16938,7 +16938,7 @@
         "roll_stability": 0.8115
       },
       "scores": {
-        "sc_1y_return": 0.0397,
+        "sc_1y_return": 0.0396,
         "sc_3y_return": 0.0325,
         "sc_5y_return": 0.1899,
         "sc_alpha": null,
@@ -16954,7 +16954,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8724
+        "sc_roll_stability": 0.8722
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17001,7 +17001,7 @@
         "roll_stability": 0.8251
       },
       "scores": {
-        "sc_1y_return": 0.256,
+        "sc_1y_return": 0.2558,
         "sc_3y_return": 0.1808,
         "sc_5y_return": 0.0,
         "sc_alpha": null,
@@ -17017,7 +17017,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.9747,
         "sc_avg_roll": 0.0464,
-        "sc_roll_stability": 0.889
+        "sc_roll_stability": 0.8888
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17064,7 +17064,7 @@
         "roll_stability": 0.8133
       },
       "scores": {
-        "sc_1y_return": 0.0747,
+        "sc_1y_return": 0.0746,
         "sc_3y_return": 0.0668,
         "sc_5y_return": 0.0458,
         "sc_alpha": null,
@@ -17080,7 +17080,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.943,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8746
+        "sc_roll_stability": 0.8744
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17143,7 +17143,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.9114,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8818
+        "sc_roll_stability": 0.8816
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17190,7 +17190,7 @@
         "roll_stability": 0.8179
       },
       "scores": {
-        "sc_1y_return": 0.0468,
+        "sc_1y_return": 0.0467,
         "sc_3y_return": 0.0304,
         "sc_5y_return": 0.1945,
         "sc_alpha": null,
@@ -17206,7 +17206,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.0034,
-        "sc_roll_stability": 0.8802
+        "sc_roll_stability": 0.88
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17221,15 +17221,15 @@
       "amfi_category": "Debt Scheme - Overnight Fund",
       "amc": "Edelweiss Mutual Fund",
       "ter_pct": 0.11,
-      "data_points": 2232,
-      "last_updated": "2026-07-17",
+      "data_points": 2233,
+      "last_updated": "2026-07-18",
       "error": "",
       "metrics": {
-        "cagr_1m": 5.330109394229865,
-        "cagr_6m": 5.2745765528288135,
-        "cagr_1y": 5.244070171894499,
-        "cagr_3y": 5.864620315321378,
-        "cagr_5y": 6.163686658463341,
+        "cagr_1m": 5.333208420862534,
+        "cagr_6m": 5.277716532638133,
+        "cagr_1y": 5.243470105493397,
+        "cagr_3y": 5.86342145594505,
+        "cagr_5y": 6.163563831119356,
         "std_dev": 0.1046,
         "max_drawdown": 0.0,
         "beta": null,
@@ -17237,11 +17237,11 @@
         "sharpe": -10.0,
         "sortino": null,
         "calmar": null,
-        "momentum": -0.6206,
-        "return_divergence": -0.6206,
-        "avg_roll_1y": 5.1137,
-        "min_roll_1y": 3.1052,
-        "max_roll_1y": 6.8102,
+        "momentum": -0.62,
+        "return_divergence": -0.62,
+        "avg_roll_1y": 5.114,
+        "min_roll_1y": 3.1044,
+        "max_roll_1y": 6.8097,
         "outperformance_pct": 27.277,
         "positive_return_pct": 100.0,
         "persistence_score": 0.0,
@@ -17253,13 +17253,13 @@
         "roll_stability": 0.8189
       },
       "scores": {
-        "sc_1y_return": 0.0057,
+        "sc_1y_return": 0.0053,
         "sc_3y_return": 0.0,
-        "sc_5y_return": 0.1952,
+        "sc_5y_return": 0.195,
         "sc_alpha": null,
         "sc_volatility": 1.0,
         "sc_drawdown": 0.0,
-        "sc_momentum": 0.8041,
+        "sc_momentum": 0.8045,
         "sc_outperformance": 0.0037,
         "sc_positive_return": 1.0,
         "sc_persistence": 0.0,
@@ -17269,7 +17269,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.8797,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8814
+        "sc_roll_stability": 0.8812
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17316,7 +17316,7 @@
         "roll_stability": 0.8069
       },
       "scores": {
-        "sc_1y_return": 0.0976,
+        "sc_1y_return": 0.0975,
         "sc_3y_return": 0.0381,
         "sc_5y_return": 0.1592,
         "sc_alpha": null,
@@ -17332,7 +17332,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8668
+        "sc_roll_stability": 0.8666
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17396,7 +17396,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.7848,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8655
+        "sc_roll_stability": 0.8653
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17506,7 +17506,7 @@
         "roll_stability": 0.8214
       },
       "scores": {
-        "sc_1y_return": 0.0455,
+        "sc_1y_return": 0.0454,
         "sc_3y_return": 0.0367,
         "sc_5y_return": 0.177,
         "sc_alpha": null,
@@ -17522,7 +17522,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0228,
-        "sc_roll_stability": 0.8845
+        "sc_roll_stability": 0.8843
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17633,7 +17633,7 @@
         "roll_stability": 0.8148
       },
       "scores": {
-        "sc_1y_return": 0.0428,
+        "sc_1y_return": 0.0427,
         "sc_3y_return": 0.0339,
         "sc_5y_return": 0.1418,
         "sc_alpha": null,
@@ -17649,7 +17649,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.0159,
-        "sc_roll_stability": 0.8764
+        "sc_roll_stability": 0.8762
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17712,7 +17712,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.9747,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8767
+        "sc_roll_stability": 0.8765
       },
       "missing_metrics": [
         "sc_alpha",
@@ -17759,7 +17759,7 @@
         "roll_stability": 0.9976
       },
       "scores": {
-        "sc_1y_return": 0.0542,
+        "sc_1y_return": 0.0541,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -17906,7 +17906,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.2942,
-        "sc_roll_stability": 0.9948
+        "sc_roll_stability": 0.9946
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18019,7 +18019,7 @@
         "roll_stability": 0.8125
       },
       "scores": {
-        "sc_1y_return": 0.0576,
+        "sc_1y_return": 0.0575,
         "sc_3y_return": 0.0402,
         "sc_5y_return": 0.1926,
         "sc_alpha": null,
@@ -18035,7 +18035,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8736
+        "sc_roll_stability": 0.8734
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18051,15 +18051,15 @@
       "amfi_category": "Debt Scheme - Overnight Fund",
       "amc": "LIC Mutual Fund",
       "ter_pct": null,
-      "data_points": 2191,
-      "last_updated": "2026-07-18",
+      "data_points": 2192,
+      "last_updated": "2026-07-19",
       "error": "",
       "metrics": {
-        "cagr_1m": 5.313342699659351,
-        "cagr_6m": 5.27454905177811,
-        "cagr_1y": 5.290345739426194,
-        "cagr_3y": 5.949425942153397,
-        "cagr_5y": 6.191371799267609,
+        "cagr_1m": 5.284189418152563,
+        "cagr_6m": 5.277002799455421,
+        "cagr_1y": 5.289231890233292,
+        "cagr_3y": 5.947542873264289,
+        "cagr_5y": 6.191360326254958,
         "std_dev": 0.1138,
         "max_drawdown": 0.0,
         "beta": null,
@@ -18067,11 +18067,11 @@
         "sharpe": -10.0,
         "sortino": null,
         "calmar": null,
-        "momentum": -0.6591,
-        "return_divergence": -0.6591,
+        "momentum": -0.6583,
+        "return_divergence": -0.6583,
         "avg_roll_1y": 5.1329,
-        "min_roll_1y": 3.0109,
-        "max_roll_1y": 6.828,
+        "min_roll_1y": 2.9995,
+        "max_roll_1y": 6.8274,
         "outperformance_pct": 28.2027,
         "positive_return_pct": 100.0,
         "persistence_score": 0.0,
@@ -18080,16 +18080,16 @@
         "recovery_months": 0.0,
         "recovery_score": 1.0,
         "downside_freq": 0.0,
-        "roll_stability": 0.8141
+        "roll_stability": 0.8136
       },
       "scores": {
-        "sc_1y_return": 0.0404,
-        "sc_3y_return": 0.0099,
+        "sc_1y_return": 0.0396,
+        "sc_3y_return": 0.0088,
         "sc_5y_return": 0.2242,
         "sc_alpha": null,
         "sc_volatility": 1.0,
         "sc_drawdown": 0.0,
-        "sc_momentum": 0.7774,
+        "sc_momentum": 0.778,
         "sc_outperformance": 0.026,
         "sc_positive_return": 1.0,
         "sc_persistence": 0.0,
@@ -18099,7 +18099,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8756
+        "sc_roll_stability": 0.8748
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18163,7 +18163,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8761
+        "sc_roll_stability": 0.8759
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18227,7 +18227,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.0147,
-        "sc_roll_stability": 0.8829
+        "sc_roll_stability": 0.8827
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18274,7 +18274,7 @@
         "roll_stability": 0.8159
       },
       "scores": {
-        "sc_1y_return": 0.0593,
+        "sc_1y_return": 0.0592,
         "sc_3y_return": 0.0507,
         "sc_5y_return": 0.1987,
         "sc_alpha": null,
@@ -18290,7 +18290,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.9747,
         "sc_avg_roll": 0.0034,
-        "sc_roll_stability": 0.8778
+        "sc_roll_stability": 0.8776
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18369,27 +18369,27 @@
       "amfi_category": "Debt Scheme - Overnight Fund",
       "amc": "PGIM India Mutual Fund",
       "ter_pct": 0.1,
-      "data_points": 2243,
-      "last_updated": "2026-07-17",
+      "data_points": 2244,
+      "last_updated": "2026-07-18",
       "error": "",
       "metrics": {
-        "cagr_1m": 5.168806878887389,
-        "cagr_6m": 5.1024006420891554,
-        "cagr_1y": 5.153102395110509,
-        "cagr_3y": 5.855594174742174,
-        "cagr_5y": 6.177278261258912,
-        "std_dev": 5.0248,
+        "cagr_1m": 5.136389454798107,
+        "cagr_6m": 5.1049426002961695,
+        "cagr_1y": 5.151432108385201,
+        "cagr_3y": 5.853341296910863,
+        "cagr_5y": 6.176426813442482,
+        "std_dev": 5.0237,
         "max_drawdown": 0.0,
         "beta": null,
         "alpha": null,
-        "sharpe": -0.268,
+        "sharpe": -0.2684,
         "sortino": null,
         "calmar": null,
-        "momentum": -0.7025,
-        "return_divergence": -0.7025,
-        "avg_roll_1y": 5.155,
-        "min_roll_1y": 3.099,
-        "max_roll_1y": 6.8274,
+        "momentum": -0.7019,
+        "return_divergence": -0.7019,
+        "avg_roll_1y": 5.1553,
+        "min_roll_1y": 3.0999,
+        "max_roll_1y": 6.8264,
         "outperformance_pct": 26.9715,
         "positive_return_pct": 100.0,
         "persistence_score": 1.0989,
@@ -18398,16 +18398,16 @@
         "recovery_months": 0.0,
         "recovery_score": 1.0,
         "downside_freq": 0.0,
-        "roll_stability": 0.8192
+        "roll_stability": 0.8193
       },
       "scores": {
         "sc_1y_return": 0.0,
         "sc_3y_return": 0.0,
-        "sc_5y_return": 0.2094,
+        "sc_5y_return": 0.2085,
         "sc_alpha": null,
         "sc_volatility": 0.0,
         "sc_drawdown": 0.0,
-        "sc_momentum": 0.7473,
+        "sc_momentum": 0.7478,
         "sc_outperformance": 0.0,
         "sc_positive_return": 1.0,
         "sc_persistence": 0.0126,
@@ -18416,8 +18416,8 @@
         "sc_recovery": 1.0,
         "sc_downside_freq": 1.0,
         "sc_ter": 0.9114,
-        "sc_avg_roll": 0.0034,
-        "sc_roll_stability": 0.8818
+        "sc_avg_roll": 0.0035,
+        "sc_roll_stability": 0.8817
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18480,7 +18480,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.7532,
         "sc_avg_roll": 0.4035,
-        "sc_roll_stability": 0.9954
+        "sc_roll_stability": 0.9952
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -18608,7 +18608,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.3354,
-        "sc_roll_stability": 0.7874
+        "sc_roll_stability": 0.7872
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18743,7 +18743,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8713
+        "sc_roll_stability": 0.8711
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18807,7 +18807,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8748
+        "sc_roll_stability": 0.8746
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18823,15 +18823,15 @@
       "amfi_category": "Debt Scheme - Overnight Fund",
       "amc": "Trust Mutual Fund",
       "ter_pct": null,
-      "data_points": 1369,
-      "last_updated": "2026-07-17",
+      "data_points": 1370,
+      "last_updated": "2026-07-19",
       "error": "",
       "metrics": {
-        "cagr_1m": 5.204207223733381,
-        "cagr_6m": 5.090934906623845,
-        "cagr_1y": 5.1666350737844535,
-        "cagr_3y": 5.916403311199003,
-        "cagr_5y": 6.096636377482301,
+        "cagr_1m": 5.21051896723943,
+        "cagr_6m": 5.095956559408821,
+        "cagr_1y": 5.166762425634008,
+        "cagr_3y": 5.914303735544046,
+        "cagr_5y": 6.096544784618829,
         "std_dev": 0.1279,
         "max_drawdown": 0.0,
         "beta": null,
@@ -18839,11 +18839,11 @@
         "sharpe": -10.0,
         "sortino": null,
         "calmar": null,
-        "momentum": -0.7498,
-        "return_divergence": -0.7498,
-        "avg_roll_1y": 6.1705,
-        "min_roll_1y": 4.6967,
-        "max_roll_1y": 6.8007,
+        "momentum": -0.7475,
+        "return_divergence": -0.7475,
+        "avg_roll_1y": 6.1709,
+        "min_roll_1y": 4.7039,
+        "max_roll_1y": 6.8015,
         "outperformance_pct": 29.9177,
         "positive_return_pct": 100.0,
         "persistence_score": 0.0,
@@ -18852,16 +18852,16 @@
         "recovery_months": 0.0,
         "recovery_score": 1.0,
         "downside_freq": 0.0,
-        "roll_stability": 0.9148
+        "roll_stability": 0.915
       },
       "scores": {
         "sc_1y_return": 0.0,
         "sc_3y_return": 0.0,
-        "sc_5y_return": 0.1248,
+        "sc_5y_return": 0.1247,
         "sc_alpha": null,
         "sc_volatility": 1.0,
         "sc_drawdown": 0.0,
-        "sc_momentum": 0.7146,
+        "sc_momentum": 0.7162,
         "sc_outperformance": 0.0673,
         "sc_positive_return": 1.0,
         "sc_persistence": 0.0,
@@ -18870,7 +18870,7 @@
         "sc_recovery": 1.0,
         "sc_downside_freq": 1.0,
         "sc_ter": null,
-        "sc_avg_roll": 0.3174,
+        "sc_avg_roll": 0.3175,
         "sc_roll_stability": 0.9981
       },
       "missing_metrics": [
@@ -18935,7 +18935,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.0,
-        "sc_roll_stability": 0.8685
+        "sc_roll_stability": 0.8683
       },
       "missing_metrics": [
         "sc_alpha",
@@ -18950,27 +18950,27 @@
       "amfi_category": "Debt Scheme - Overnight Fund",
       "amc": "UTI Mutual Fund",
       "ter_pct": 0.06,
-      "data_points": 3789,
-      "last_updated": "2026-07-17",
+      "data_points": 3790,
+      "last_updated": "2026-07-18",
       "error": "",
       "metrics": {
-        "cagr_1m": 5.321871850898807,
-        "cagr_6m": 5.273771913483372,
-        "cagr_1y": 5.289262252027327,
-        "cagr_3y": 5.949571699676137,
-        "cagr_5y": 6.187254056118929,
-        "std_dev": 3.9032,
+        "cagr_1m": 5.327650885933166,
+        "cagr_6m": 5.276109678091445,
+        "cagr_1y": 5.289208300009207,
+        "cagr_3y": 5.948088184741529,
+        "cagr_5y": 6.187401943102433,
+        "std_dev": 3.9027,
         "max_drawdown": 0.0,
         "beta": null,
         "alpha": null,
         "sharpe": -0.3102,
-        "sortino": -1.1071,
+        "sortino": -1.1072,
         "calmar": null,
-        "momentum": -0.6603,
-        "return_divergence": -0.6603,
-        "avg_roll_1y": 1334.185,
-        "min_roll_1y": 3.016,
-        "max_roll_1y": 29838.207,
+        "momentum": -0.6589,
+        "return_divergence": -0.6589,
+        "avg_roll_1y": 1334.3382,
+        "min_roll_1y": 3.0218,
+        "max_roll_1y": 29843.3515,
         "outperformance_pct": 34.2958,
         "positive_return_pct": 94.9877,
         "persistence_score": 15.9509,
@@ -18982,13 +18982,13 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.0396,
-        "sc_3y_return": 0.01,
-        "sc_5y_return": 0.2199,
+        "sc_1y_return": 0.0395,
+        "sc_3y_return": 0.0092,
+        "sc_5y_return": 0.2201,
         "sc_alpha": null,
         "sc_volatility": 0.0,
         "sc_drawdown": 0.0,
-        "sc_momentum": 0.7766,
+        "sc_momentum": 0.7776,
         "sc_outperformance": 0.1728,
         "sc_positive_return": 0.8011,
         "sc_persistence": 0.1823,
@@ -19112,7 +19112,7 @@
         "roll_stability": 0.719
       },
       "scores": {
-        "sc_1y_return": 0.6643,
+        "sc_1y_return": 0.6639,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.9978,
         "sc_alpha": null,
@@ -19128,7 +19128,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.0253,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.7599
+        "sc_roll_stability": 0.7597
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19175,7 +19175,7 @@
         "roll_stability": 0.7005
       },
       "scores": {
-        "sc_1y_return": 0.5985,
+        "sc_1y_return": 0.5981,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.8798,
         "sc_alpha": null,
@@ -19191,7 +19191,7 @@
         "sc_downside_freq": 0.2,
         "sc_ter": 0.0886,
         "sc_avg_roll": 0.9398,
-        "sc_roll_stability": 0.7374
+        "sc_roll_stability": 0.7372
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19238,7 +19238,7 @@
         "roll_stability": 0.6861
       },
       "scores": {
-        "sc_1y_return": 0.5771,
+        "sc_1y_return": 0.5767,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.5144,
         "sc_alpha": null,
@@ -19254,7 +19254,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.8327,
-        "sc_roll_stability": 0.7199
+        "sc_roll_stability": 0.7197
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19302,7 +19302,7 @@
         "roll_stability": -0.5732
       },
       "scores": {
-        "sc_1y_return": 0.273,
+        "sc_1y_return": 0.2728,
         "sc_3y_return": 0.9204,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
@@ -19366,11 +19366,11 @@
         "roll_stability": 0.7217
       },
       "scores": {
-        "sc_1y_return": 0.1288,
+        "sc_1y_return": 0.1287,
         "sc_3y_return": 0.8859,
         "sc_5y_return": 0.5335,
         "sc_alpha": null,
-        "sc_volatility": 0.6898,
+        "sc_volatility": 0.6897,
         "sc_drawdown": 1.0,
         "sc_momentum": 0.0,
         "sc_outperformance": 0.919,
@@ -19382,7 +19382,7 @@
         "sc_downside_freq": 0.2,
         "sc_ter": 0.0253,
         "sc_avg_roll": 0.887,
-        "sc_roll_stability": 0.7632
+        "sc_roll_stability": 0.763
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19429,7 +19429,7 @@
         "roll_stability": 0.7007
       },
       "scores": {
-        "sc_1y_return": 0.1561,
+        "sc_1y_return": 0.156,
         "sc_3y_return": 0.6332,
         "sc_5y_return": 0.0007,
         "sc_alpha": null,
@@ -19445,7 +19445,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.6718,
-        "sc_roll_stability": 0.7376
+        "sc_roll_stability": 0.7375
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19492,7 +19492,7 @@
         "roll_stability": 0.7025
       },
       "scores": {
-        "sc_1y_return": 0.1788,
+        "sc_1y_return": 0.1787,
         "sc_3y_return": 0.8029,
         "sc_5y_return": 0.3195,
         "sc_alpha": null,
@@ -19508,7 +19508,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.1519,
         "sc_avg_roll": 0.8214,
-        "sc_roll_stability": 0.7398
+        "sc_roll_stability": 0.7396
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19619,7 +19619,7 @@
         "roll_stability": 0.6827
       },
       "scores": {
-        "sc_1y_return": 0.3039,
+        "sc_1y_return": 0.3037,
         "sc_3y_return": 0.8091,
         "sc_5y_return": 0.2005,
         "sc_alpha": null,
@@ -19635,7 +19635,7 @@
         "sc_downside_freq": 0.1584,
         "sc_ter": null,
         "sc_avg_roll": 0.713,
-        "sc_roll_stability": 0.7157
+        "sc_roll_stability": 0.7156
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19683,7 +19683,7 @@
         "roll_stability": 0.7151
       },
       "scores": {
-        "sc_1y_return": 0.4899,
+        "sc_1y_return": 0.4896,
         "sc_3y_return": 0.9701,
         "sc_5y_return": 0.7242,
         "sc_alpha": null,
@@ -19699,7 +19699,7 @@
         "sc_downside_freq": 0.4,
         "sc_ter": null,
         "sc_avg_roll": 0.8995,
-        "sc_roll_stability": 0.7551
+        "sc_roll_stability": 0.755
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19747,11 +19747,11 @@
         "roll_stability": 0.8313
       },
       "scores": {
-        "sc_1y_return": 0.2253,
+        "sc_1y_return": 0.2251,
         "sc_3y_return": 0.7924,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.7712,
+        "sc_volatility": 0.7711,
         "sc_drawdown": 0.6501,
         "sc_momentum": 0.0,
         "sc_outperformance": 0.7731,
@@ -19763,7 +19763,7 @@
         "sc_downside_freq": 0.6318,
         "sc_ter": null,
         "sc_avg_roll": 0.8106,
-        "sc_roll_stability": 0.8965
+        "sc_roll_stability": 0.8963
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -19812,11 +19812,11 @@
         "roll_stability": 0.7265
       },
       "scores": {
-        "sc_1y_return": 0.9389,
+        "sc_1y_return": 0.9382,
         "sc_3y_return": 1.0,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
-        "sc_volatility": 0.5779,
+        "sc_volatility": 0.5778,
         "sc_drawdown": 0.7923,
         "sc_momentum": 0.2071,
         "sc_outperformance": 0.8206,
@@ -19828,7 +19828,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.769
+        "sc_roll_stability": 0.7688
       },
       "missing_metrics": [
         "sc_alpha",
@@ -19875,7 +19875,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.2616,
+        "sc_1y_return": 0.2614,
         "sc_3y_return": 0.8215,
         "sc_5y_return": 0.2688,
         "sc_alpha": null,
@@ -20025,7 +20025,7 @@
         "sc_downside_freq": 0.6478,
         "sc_ter": null,
         "sc_avg_roll": 0.7334,
-        "sc_roll_stability": 0.9026
+        "sc_roll_stability": 0.9024
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -20078,7 +20078,7 @@
         "sc_3y_return": 0.0,
         "sc_5y_return": 0.0,
         "sc_alpha": null,
-        "sc_volatility": 0.1714,
+        "sc_volatility": 0.1713,
         "sc_drawdown": 1.0,
         "sc_momentum": 1.0,
         "sc_outperformance": 0.7181,
@@ -20090,7 +20090,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.3457,
-        "sc_roll_stability": 0.3712
+        "sc_roll_stability": 0.3711
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20138,7 +20138,7 @@
         "roll_stability": 0.6591
       },
       "scores": {
-        "sc_1y_return": 0.3533,
+        "sc_1y_return": 0.353,
         "sc_3y_return": 0.9185,
         "sc_5y_return": 0.3283,
         "sc_alpha": null,
@@ -20154,7 +20154,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.4855,
-        "sc_roll_stability": 0.687
+        "sc_roll_stability": 0.6869
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20202,7 +20202,7 @@
         "roll_stability": 0.732
       },
       "scores": {
-        "sc_1y_return": 0.8145,
+        "sc_1y_return": 0.8139,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.7707,
         "sc_alpha": null,
@@ -20218,7 +20218,7 @@
         "sc_downside_freq": 0.0031,
         "sc_ter": null,
         "sc_avg_roll": 0.5261,
-        "sc_roll_stability": 0.7757
+        "sc_roll_stability": 0.7755
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20266,7 +20266,7 @@
         "roll_stability": 0.719
       },
       "scores": {
-        "sc_1y_return": 0.1851,
+        "sc_1y_return": 0.185,
         "sc_3y_return": 0.8667,
         "sc_5y_return": 0.4864,
         "sc_alpha": null,
@@ -20282,7 +20282,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.3101,
         "sc_avg_roll": 0.6661,
-        "sc_roll_stability": 0.7599
+        "sc_roll_stability": 0.7597
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20329,7 +20329,7 @@
         "roll_stability": 0.7062
       },
       "scores": {
-        "sc_1y_return": 0.5509,
+        "sc_1y_return": 0.5505,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.8827,
         "sc_alpha": null,
@@ -20345,7 +20345,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.9249,
-        "sc_roll_stability": 0.7443
+        "sc_roll_stability": 0.7441
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20393,7 +20393,7 @@
         "roll_stability": 0.7105
       },
       "scores": {
-        "sc_1y_return": 0.1892,
+        "sc_1y_return": 0.1891,
         "sc_3y_return": 0.8729,
         "sc_5y_return": 0.4992,
         "sc_alpha": null,
@@ -20409,7 +20409,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.822,
-        "sc_roll_stability": 0.7495
+        "sc_roll_stability": 0.7494
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20457,7 +20457,7 @@
         "roll_stability": 0.8141
       },
       "scores": {
-        "sc_1y_return": 0.3065,
+        "sc_1y_return": 0.3062,
         "sc_3y_return": 0.8641,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -20473,7 +20473,7 @@
         "sc_downside_freq": 0.1,
         "sc_ter": 0.3101,
         "sc_avg_roll": 0.7248,
-        "sc_roll_stability": 0.8756
+        "sc_roll_stability": 0.8754
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -20537,7 +20537,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.0886,
         "sc_avg_roll": 0.7188,
-        "sc_roll_stability": 0.6068
+        "sc_roll_stability": 0.6067
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20600,7 +20600,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.5079,
-        "sc_roll_stability": 0.7819
+        "sc_roll_stability": 0.7817
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -20649,7 +20649,7 @@
         "roll_stability": 0.8911
       },
       "scores": {
-        "sc_1y_return": 0.043,
+        "sc_1y_return": 0.0429,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -20665,7 +20665,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.1951,
-        "sc_roll_stability": 0.9692
+        "sc_roll_stability": 0.969
       },
       "missing_metrics": [
         "sc_3y_return",
@@ -20716,11 +20716,11 @@
         "roll_stability": 0.3736
       },
       "scores": {
-        "sc_1y_return": 0.2442,
+        "sc_1y_return": 0.244,
         "sc_3y_return": 0.8722,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
-        "sc_volatility": 0.1001,
+        "sc_volatility": 0.1,
         "sc_drawdown": 0.7895,
         "sc_momentum": 0.0,
         "sc_outperformance": 0.8463,
@@ -20732,7 +20732,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.7021,
-        "sc_roll_stability": 0.3397
+        "sc_roll_stability": 0.3396
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20779,7 +20779,7 @@
         "roll_stability": 0.7799
       },
       "scores": {
-        "sc_1y_return": 0.9926,
+        "sc_1y_return": 0.9919,
         "sc_3y_return": 0.8935,
         "sc_5y_return": 0.629,
         "sc_alpha": null,
@@ -20795,7 +20795,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.0886,
         "sc_avg_roll": 0.7777,
-        "sc_roll_stability": 0.834
+        "sc_roll_stability": 0.8338
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20858,7 +20858,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.0886,
         "sc_avg_roll": 0.4484,
-        "sc_roll_stability": 0.8606
+        "sc_roll_stability": 0.8604
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20905,7 +20905,7 @@
         "roll_stability": 0.784
       },
       "scores": {
-        "sc_1y_return": 0.816,
+        "sc_1y_return": 0.8154,
         "sc_3y_return": 0.7036,
         "sc_5y_return": 0.2848,
         "sc_alpha": null,
@@ -20921,7 +20921,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.3452,
-        "sc_roll_stability": 0.839
+        "sc_roll_stability": 0.8388
       },
       "missing_metrics": [
         "sc_alpha",
@@ -20969,7 +20969,7 @@
         "roll_stability": 0.7389
       },
       "scores": {
-        "sc_1y_return": 0.8074,
+        "sc_1y_return": 0.8068,
         "sc_3y_return": 0.5401,
         "sc_5y_return": 0.0229,
         "sc_alpha": null,
@@ -20985,7 +20985,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.6464,
-        "sc_roll_stability": 0.7841
+        "sc_roll_stability": 0.7839
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21033,7 +21033,7 @@
         "roll_stability": 0.8123
       },
       "scores": {
-        "sc_1y_return": 0.8812,
+        "sc_1y_return": 0.8805,
         "sc_3y_return": 0.7596,
         "sc_5y_return": 0.4747,
         "sc_alpha": null,
@@ -21049,7 +21049,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.2785,
         "sc_avg_roll": 0.3708,
-        "sc_roll_stability": 0.8734
+        "sc_roll_stability": 0.8732
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21096,7 +21096,7 @@
         "roll_stability": 0.742
       },
       "scores": {
-        "sc_1y_return": 0.8217,
+        "sc_1y_return": 0.8212,
         "sc_3y_return": 0.6313,
         "sc_5y_return": 0.0863,
         "sc_alpha": null,
@@ -21112,7 +21112,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.5225,
-        "sc_roll_stability": 0.7879
+        "sc_roll_stability": 0.7877
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21159,7 +21159,7 @@
         "roll_stability": 0.7582
       },
       "scores": {
-        "sc_1y_return": 0.9672,
+        "sc_1y_return": 0.9665,
         "sc_3y_return": 0.8406,
         "sc_5y_return": 0.4854,
         "sc_alpha": null,
@@ -21175,7 +21175,7 @@
         "sc_downside_freq": 0.8,
         "sc_ter": 0.2785,
         "sc_avg_roll": 0.587,
-        "sc_roll_stability": 0.8076
+        "sc_roll_stability": 0.8074
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21226,7 +21226,7 @@
         "sc_3y_return": 1.0,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
-        "sc_volatility": 0.5452,
+        "sc_volatility": 0.5451,
         "sc_drawdown": 1.0,
         "sc_momentum": 1.0,
         "sc_outperformance": 1.0,
@@ -21238,7 +21238,7 @@
         "sc_downside_freq": 0.7183,
         "sc_ter": null,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.8278
+        "sc_roll_stability": 0.8276
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21286,7 +21286,7 @@
         "roll_stability": 0.9535
       },
       "scores": {
-        "sc_1y_return": 0.9193,
+        "sc_1y_return": 0.9187,
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -21352,7 +21352,7 @@
         "roll_stability": 0.8024
       },
       "scores": {
-        "sc_1y_return": 0.8026,
+        "sc_1y_return": 0.8021,
         "sc_3y_return": 0.7457,
         "sc_5y_return": 0.3934,
         "sc_alpha": null,
@@ -21368,7 +21368,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.4019,
-        "sc_roll_stability": 0.8613
+        "sc_roll_stability": 0.8611
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21416,7 +21416,7 @@
         "roll_stability": 0.8188
       },
       "scores": {
-        "sc_1y_return": 0.844,
+        "sc_1y_return": 0.8433,
         "sc_3y_return": 0.7363,
         "sc_5y_return": 0.3742,
         "sc_alpha": null,
@@ -21432,7 +21432,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.2801,
-        "sc_roll_stability": 0.8813
+        "sc_roll_stability": 0.8811
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21496,7 +21496,7 @@
         "sc_downside_freq": 0.7,
         "sc_ter": null,
         "sc_avg_roll": 0.9374,
-        "sc_roll_stability": 0.6342
+        "sc_roll_stability": 0.6341
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21544,7 +21544,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.9929,
+        "sc_1y_return": 0.9922,
         "sc_3y_return": 0.8003,
         "sc_5y_return": 0.4307,
         "sc_alpha": null,
@@ -21607,7 +21607,7 @@
         "roll_stability": 0.8385
       },
       "scores": {
-        "sc_1y_return": 0.8349,
+        "sc_1y_return": 0.8343,
         "sc_3y_return": 0.6631,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -21623,7 +21623,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.9114,
         "sc_avg_roll": 0.4168,
-        "sc_roll_stability": 0.9053
+        "sc_roll_stability": 0.9051
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -21671,11 +21671,11 @@
         "roll_stability": 0.5651
       },
       "scores": {
-        "sc_1y_return": 0.4048,
+        "sc_1y_return": 0.4045,
         "sc_3y_return": 0.0,
         "sc_5y_return": 0.4028,
         "sc_alpha": null,
-        "sc_volatility": 0.2962,
+        "sc_volatility": 0.2961,
         "sc_drawdown": 1.0,
         "sc_momentum": 1.0,
         "sc_outperformance": 0.9288,
@@ -21687,7 +21687,7 @@
         "sc_downside_freq": 0.6478,
         "sc_ter": null,
         "sc_avg_roll": 0.5722,
-        "sc_roll_stability": 0.5726
+        "sc_roll_stability": 0.5725
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21735,7 +21735,7 @@
         "roll_stability": 0.7968
       },
       "scores": {
-        "sc_1y_return": 0.9619,
+        "sc_1y_return": 0.9612,
         "sc_3y_return": 0.6727,
         "sc_5y_return": 0.0947,
         "sc_alpha": null,
@@ -21751,7 +21751,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.1566,
-        "sc_roll_stability": 0.8545
+        "sc_roll_stability": 0.8543
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21799,7 +21799,7 @@
         "roll_stability": 0.8187
       },
       "scores": {
-        "sc_1y_return": 0.9502,
+        "sc_1y_return": 0.9495,
         "sc_3y_return": 0.793,
         "sc_5y_return": 0.4323,
         "sc_alpha": null,
@@ -21815,7 +21815,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.3418,
         "sc_avg_roll": 0.3037,
-        "sc_roll_stability": 0.8812
+        "sc_roll_stability": 0.881
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21878,7 +21878,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.5949,
         "sc_avg_roll": 0.3906,
-        "sc_roll_stability": 0.8902
+        "sc_roll_stability": 0.89
       },
       "missing_metrics": [
         "sc_alpha",
@@ -21925,7 +21925,7 @@
         "roll_stability": 0.1559
       },
       "scores": {
-        "sc_1y_return": 0.6829,
+        "sc_1y_return": 0.6824,
         "sc_3y_return": 0.3127,
         "sc_5y_return": 0.0,
         "sc_alpha": null,
@@ -22005,7 +22005,7 @@
         "sc_downside_freq": 0.0082,
         "sc_ter": null,
         "sc_avg_roll": 0.3994,
-        "sc_roll_stability": 0.6567
+        "sc_roll_stability": 0.6566
       },
       "missing_metrics": [
         "sc_alpha",
@@ -22053,7 +22053,7 @@
         "roll_stability": 0.6229
       },
       "scores": {
-        "sc_1y_return": 0.6933,
+        "sc_1y_return": 0.6928,
         "sc_3y_return": 0.6586,
         "sc_5y_return": 0.2951,
         "sc_alpha": null,
@@ -22069,7 +22069,7 @@
         "sc_downside_freq": 0.8693,
         "sc_ter": 0.2785,
         "sc_avg_roll": 0.6694,
-        "sc_roll_stability": 0.643
+        "sc_roll_stability": 0.6428
       },
       "missing_metrics": [
         "sc_alpha",
@@ -22116,7 +22116,7 @@
         "roll_stability": 0.7702
       },
       "scores": {
-        "sc_1y_return": 0.7896,
+        "sc_1y_return": 0.789,
         "sc_3y_return": 0.7118,
         "sc_5y_return": 0.3047,
         "sc_alpha": null,
@@ -22132,7 +22132,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.6765,
-        "sc_roll_stability": 0.8222
+        "sc_roll_stability": 0.822
       },
       "missing_metrics": [
         "sc_alpha",
@@ -22180,7 +22180,7 @@
         "roll_stability": 0.8989
       },
       "scores": {
-        "sc_1y_return": 0.8706,
+        "sc_1y_return": 0.87,
         "sc_3y_return": 0.7696,
         "sc_5y_return": null,
         "sc_alpha": null,
@@ -22196,7 +22196,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.4684,
         "sc_avg_roll": 0.6283,
-        "sc_roll_stability": 0.9787
+        "sc_roll_stability": 0.9785
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -22260,7 +22260,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": null,
         "sc_avg_roll": 0.3551,
-        "sc_roll_stability": 0.892
+        "sc_roll_stability": 0.8918
       },
       "missing_metrics": [
         "sc_alpha",
@@ -22308,7 +22308,7 @@
         "roll_stability": 0.7564
       },
       "scores": {
-        "sc_1y_return": 0.9451,
+        "sc_1y_return": 0.9444,
         "sc_3y_return": 0.7956,
         "sc_5y_return": 1.0,
         "sc_alpha": null,
@@ -22324,7 +22324,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": 0.1835,
         "sc_avg_roll": 0.6744,
-        "sc_roll_stability": 0.8054
+        "sc_roll_stability": 0.8052
       },
       "missing_metrics": [
         "sc_alpha",
@@ -22371,7 +22371,7 @@
         "roll_stability": 0.8342
       },
       "scores": {
-        "sc_1y_return": 0.7144,
+        "sc_1y_return": 0.7139,
         "sc_3y_return": 0.6175,
         "sc_5y_return": 0.2338,
         "sc_alpha": null,
@@ -22387,7 +22387,7 @@
         "sc_downside_freq": 1.0,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.2007,
-        "sc_roll_stability": 0.9
+        "sc_roll_stability": 0.8998
       },
       "missing_metrics": [
         "sc_alpha",
@@ -46994,31 +46994,31 @@
       "amfi_category": "Sectoral/ Thematic",
       "amc": "Kotak Mahindra Mutual Fund",
       "ter_pct": 0.98,
-      "data_points": 579,
-      "last_updated": "2026-07-16",
+      "data_points": 580,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 50.90029501219186,
-        "cagr_6m": -26.692311930894373,
-        "cagr_1y": -15.678891653409298,
+        "cagr_1m": 48.61716356783787,
+        "cagr_6m": -25.234744674153298,
+        "cagr_1y": -14.551763264223549,
         "cagr_3y": null,
         "cagr_5y": null,
-        "std_dev": 17.0933,
+        "std_dev": 17.0855,
         "max_drawdown": -28.591781643671272,
-        "beta": 0.8531,
+        "beta": 0.8526,
         "alpha": null,
-        "sharpe": -1.2975,
-        "sortino": -1.9226,
-        "calmar": -0.5484,
+        "sharpe": -1.2321,
+        "sortino": -1.8249,
+        "calmar": -0.5089,
         "momentum": null,
         "return_divergence": null,
-        "avg_roll_1y": -2.8336,
-        "min_roll_1y": -15.6789,
-        "max_roll_1y": 17.6121,
-        "outperformance_pct": 49.1349,
-        "positive_return_pct": 50.173,
+        "avg_roll_1y": -2.8807,
+        "min_roll_1y": -14.5518,
+        "max_roll_1y": 19.7275,
+        "outperformance_pct": 49.0501,
+        "positive_return_pct": 50.2591,
         "persistence_score": 25.0,
-        "upside_capture": 89.8575,
+        "upside_capture": 89.7289,
         "downside_capture": 92.3409,
         "recovery_months": null,
         "recovery_score": null,
@@ -47030,13 +47030,13 @@
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.4228,
+        "sc_volatility": 0.424,
         "sc_drawdown": 0.9885,
         "sc_momentum": null,
         "sc_outperformance": 0.0,
         "sc_positive_return": 0.0,
         "sc_persistence": 0.0,
-        "sc_upside_capture": 0.4536,
+        "sc_upside_capture": 0.4503,
         "sc_downside_capture": 0.2443,
         "sc_recovery": null,
         "sc_downside_freq": 0.0,
@@ -49494,55 +49494,55 @@
       "amfi_category": "Sectoral/ Thematic",
       "amc": "Nippon India Mutual Fund",
       "ter_pct": null,
-      "data_points": 2614,
-      "last_updated": "2026-07-16",
+      "data_points": 2615,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 74.13255137608769,
-        "cagr_6m": 18.948594769064808,
-        "cagr_1y": 19.204395150903665,
-        "cagr_3y": 22.094400871486066,
-        "cagr_5y": 13.451756404463232,
-        "std_dev": 18.9326,
+        "cagr_1m": 33.64810923854677,
+        "cagr_6m": 15.453320500881397,
+        "cagr_1y": 17.83624121137808,
+        "cagr_3y": 21.171342238069137,
+        "cagr_5y": 12.83436285305035,
+        "std_dev": 18.9358,
         "max_drawdown": -24.770094979456797,
-        "beta": 0.2781,
-        "alpha": 19.3477,
-        "sharpe": 0.671,
-        "sortino": 0.8517,
-        "calmar": 0.7753,
-        "momentum": -2.89,
-        "return_divergence": -2.89,
-        "avg_roll_1y": 16.6878,
-        "min_roll_1y": -18.5733,
-        "max_roll_1y": 57.0401,
-        "outperformance_pct": 48.6217,
-        "positive_return_pct": 54.8239,
-        "persistence_score": 58.4071,
-        "upside_capture": 29.0621,
+        "beta": 0.2773,
+        "alpha": 18.4325,
+        "sharpe": 0.5987,
+        "sortino": 0.7601,
+        "calmar": 0.7201,
+        "momentum": -3.3351,
+        "return_divergence": -3.3351,
+        "avg_roll_1y": 16.6644,
+        "min_roll_1y": -17.724,
+        "max_roll_1y": 52.1079,
+        "outperformance_pct": 48.6031,
+        "positive_return_pct": 54.8029,
+        "persistence_score": 59.292,
+        "upside_capture": 28.8664,
         "downside_capture": 12.4116,
         "recovery_months": 2.19,
         "recovery_score": 0.4565,
         "downside_freq": 34.8485,
-        "roll_stability": -0.1328
+        "roll_stability": -0.0476
       },
       "scores": {
         "sc_1y_return": 1.0,
-        "sc_3y_return": 0.7991,
-        "sc_5y_return": 0.3118,
+        "sc_3y_return": 0.7348,
+        "sc_5y_return": 0.263,
         "sc_alpha": 1.0,
-        "sc_volatility": 0.1286,
+        "sc_volatility": 0.1281,
         "sc_drawdown": 0.7283,
         "sc_momentum": 1.0,
         "sc_outperformance": 0.0,
-        "sc_positive_return": 0.5707,
-        "sc_persistence": 0.3611,
+        "sc_positive_return": 0.5672,
+        "sc_persistence": 0.3771,
         "sc_upside_capture": 0.0,
         "sc_downside_capture": 1.0,
         "sc_recovery": 0.5519,
         "sc_downside_freq": 0.5877,
         "sc_ter": null,
-        "sc_avg_roll": 0.7,
-        "sc_roll_stability": 0.5466
+        "sc_avg_roll": 0.6988,
+        "sc_roll_stability": 0.6006
       },
       "missing_metrics": [
         "sc_ter"
@@ -57814,16 +57814,16 @@
       "amfi_category": "Fund of Funds Scheme (Domestic)",
       "amc": "Kotak Mahindra Mutual Fund",
       "ter_pct": null,
-      "data_points": 53,
-      "last_updated": "2026-07-16",
+      "data_points": 54,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": -0.5985207711959206,
+        "cagr_1m": -4.225529369179693,
         "cagr_6m": null,
         "cagr_1y": null,
         "cagr_3y": null,
         "cagr_5y": null,
-        "std_dev": 10.1959,
+        "std_dev": 10.0983,
         "max_drawdown": -3.7044296354370845,
         "beta": null,
         "alpha": null,
@@ -57835,8 +57835,8 @@
         "avg_roll_1y": null,
         "min_roll_1y": null,
         "max_roll_1y": null,
-        "outperformance_pct": 53.8462,
-        "positive_return_pct": 57.6923,
+        "outperformance_pct": 52.8302,
+        "positive_return_pct": 56.6038,
         "persistence_score": null,
         "upside_capture": null,
         "downside_capture": null,
@@ -57850,11 +57850,11 @@
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.4173,
+        "sc_volatility": 0.4236,
         "sc_drawdown": 0.1347,
         "sc_momentum": null,
-        "sc_outperformance": 0.876,
-        "sc_positive_return": 0.2503,
+        "sc_outperformance": 0.7273,
+        "sc_positive_return": 0.1815,
         "sc_persistence": null,
         "sc_upside_capture": null,
         "sc_downside_capture": null,
@@ -68661,55 +68661,55 @@
       "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
       "amc": "Nippon India Mutual Fund",
       "ter_pct": 0.3,
-      "data_points": 1446,
-      "last_updated": "2026-07-16",
+      "data_points": 1447,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 2.8179280166326537,
-        "cagr_6m": 6.683223506411751,
-        "cagr_1y": 14.227554490652627,
-        "cagr_3y": 20.18129127294095,
-        "cagr_5y": 16.728371470524884,
-        "std_dev": 9.5439,
+        "cagr_1m": -0.45543341979894514,
+        "cagr_6m": 7.319158520942204,
+        "cagr_1y": 14.62995213399909,
+        "cagr_3y": 20.031252604388538,
+        "cagr_5y": 16.67748153113726,
+        "std_dev": 9.5407,
         "max_drawdown": -10.78165237232302,
-        "beta": 0.569,
-        "alpha": 14.5615,
-        "sharpe": 0.8097,
-        "sortino": 1.0339,
-        "calmar": 1.3196,
-        "momentum": -5.9537,
-        "return_divergence": -5.9537,
-        "avg_roll_1y": 18.3225,
-        "min_roll_1y": 2.2581,
-        "max_roll_1y": 35.4174,
-        "outperformance_pct": 51.9031,
-        "positive_return_pct": 59.7232,
-        "persistence_score": 77.193,
-        "upside_capture": 62.8476,
+        "beta": 0.5685,
+        "alpha": 14.4164,
+        "sharpe": 0.8521,
+        "sortino": 1.0877,
+        "calmar": 1.3569,
+        "momentum": -5.4013,
+        "return_divergence": -5.4013,
+        "avg_roll_1y": 18.364,
+        "min_roll_1y": 1.0689,
+        "max_roll_1y": 37.2531,
+        "outperformance_pct": 51.8672,
+        "positive_return_pct": 59.751,
+        "persistence_score": 80.7018,
+        "upside_capture": 62.7467,
         "downside_capture": 52.357,
         "recovery_months": null,
         "recovery_score": null,
         "downside_freq": 29.5775,
-        "roll_stability": 0.5476
+        "roll_stability": 0.5074
       },
       "scores": {
         "sc_1y_return": 1.0,
         "sc_3y_return": 1.0,
         "sc_5y_return": 1.0,
         "sc_alpha": 1.0,
-        "sc_volatility": 0.4693,
+        "sc_volatility": 0.4697,
         "sc_drawdown": 0.5206,
-        "sc_momentum": 0.7994,
-        "sc_outperformance": 0.5959,
-        "sc_positive_return": 0.9851,
-        "sc_persistence": 0.6579,
-        "sc_upside_capture": 0.6988,
+        "sc_momentum": 0.862,
+        "sc_outperformance": 0.5903,
+        "sc_positive_return": 0.9891,
+        "sc_persistence": 0.7105,
+        "sc_upside_capture": 0.6964,
         "sc_downside_capture": 0.3593,
         "sc_recovery": null,
         "sc_downside_freq": 0.523,
         "sc_ter": 1.0,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.8285
+        "sc_roll_stability": 0.7916
       },
       "missing_metrics": [
         "sc_recovery"
@@ -70573,27 +70573,27 @@
       "amfi_category": "Liquid Fund",
       "amc": "UTI Mutual Fund",
       "ter_pct": null,
-      "data_points": 4465,
-      "last_updated": "2026-07-17",
+      "data_points": 4466,
+      "last_updated": "2026-07-18",
       "error": "",
       "metrics": {
-        "cagr_1m": 6.980826188488964,
-        "cagr_6m": -99.76790630237082,
-        "cagr_1y": -94.92739597545139,
-        "cagr_3y": -61.13064380857169,
-        "cagr_5y": -40.39576354014566,
-        "std_dev": 3.5729,
+        "cagr_1m": 6.943778731274319,
+        "cagr_6m": -99.76790320583491,
+        "cagr_1y": -94.92737684866775,
+        "cagr_3y": -61.13249123865394,
+        "cagr_5y": -40.3957403428698,
+        "std_dev": 3.5725,
         "max_drawdown": -89.9982770133291,
         "beta": null,
         "alpha": null,
         "sharpe": -10.0,
         "sortino": -1.8611,
         "calmar": -1.0548,
-        "momentum": -33.7968,
-        "return_divergence": -33.7968,
-        "avg_roll_1y": 5.9057,
-        "min_roll_1y": -94.9309,
-        "max_roll_1y": 9.9675,
+        "momentum": -33.7949,
+        "return_divergence": -33.7949,
+        "avg_roll_1y": 5.9052,
+        "min_roll_1y": -94.9274,
+        "max_roll_1y": 9.9634,
         "outperformance_pct": 41.042,
         "positive_return_pct": 99.5331,
         "persistence_score": 7.6923,
@@ -70620,7 +70620,7 @@
         "sc_recovery": null,
         "sc_downside_freq": 0.9,
         "sc_ter": null,
-        "sc_avg_roll": 0.2355,
+        "sc_avg_roll": 0.2353,
         "sc_roll_stability": 0.0
       },
       "missing_metrics": [
@@ -70670,7 +70670,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.8251,
+        "sc_1y_return": 0.8245,
         "sc_3y_return": 0.8253,
         "sc_5y_return": 0.5249,
         "sc_alpha": null,
@@ -70860,7 +70860,7 @@
         "roll_stability": 0.7058
       },
       "scores": {
-        "sc_1y_return": 0.2289,
+        "sc_1y_return": 0.2288,
         "sc_3y_return": 0.9165,
         "sc_5y_return": 0.6181,
         "sc_alpha": null,
@@ -70876,7 +70876,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": null,
         "sc_avg_roll": 0.8927,
-        "sc_roll_stability": 0.7438
+        "sc_roll_stability": 0.7437
       },
       "missing_metrics": [
         "sc_alpha",
@@ -70924,7 +70924,7 @@
         "roll_stability": 0.7622
       },
       "scores": {
-        "sc_1y_return": 0.8955,
+        "sc_1y_return": 0.8948,
         "sc_3y_return": 0.7537,
         "sc_5y_return": 0.4102,
         "sc_alpha": null,
@@ -70940,7 +70940,7 @@
         "sc_downside_freq": 0.9,
         "sc_ter": null,
         "sc_avg_roll": 0.6842,
-        "sc_roll_stability": 0.8124
+        "sc_roll_stability": 0.8123
       },
       "missing_metrics": [
         "sc_alpha",
@@ -72239,16 +72239,16 @@
       "amfi_category": "FoF Domestic",
       "amc": "Axis Mutual Fund",
       "ter_pct": null,
-      "data_points": 141,
-      "last_updated": "2026-07-16",
+      "data_points": 142,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 8.02888675840756,
-        "cagr_6m": 5.819579302556077,
+        "cagr_1m": 4.848200730357521,
+        "cagr_6m": 7.926829798539847,
         "cagr_1y": null,
         "cagr_3y": null,
         "cagr_5y": null,
-        "std_dev": 15.4434,
+        "std_dev": 15.3881,
         "max_drawdown": -11.380455144017656,
         "beta": null,
         "alpha": null,
@@ -72260,8 +72260,8 @@
         "avg_roll_1y": null,
         "min_roll_1y": null,
         "max_roll_1y": null,
-        "outperformance_pct": 56.2044,
-        "positive_return_pct": 57.6642,
+        "outperformance_pct": 55.7971,
+        "positive_return_pct": 57.971,
         "persistence_score": null,
         "upside_capture": null,
         "downside_capture": null,
@@ -72275,11 +72275,11 @@
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.0763,
+        "sc_volatility": 0.0799,
         "sc_drawdown": 0.4898,
         "sc_momentum": null,
         "sc_outperformance": 1.0,
-        "sc_positive_return": 0.2485,
+        "sc_positive_return": 0.2679,
         "sc_persistence": null,
         "sc_upside_capture": null,
         "sc_downside_capture": null,
@@ -72819,16 +72819,16 @@
       "amfi_category": "FoF Domestic",
       "amc": "DSP Mutual Fund",
       "ter_pct": null,
-      "data_points": 92,
-      "last_updated": "2026-07-16",
+      "data_points": 93,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 5.672840100542675,
+        "cagr_1m": 12.937322870402657,
         "cagr_6m": null,
         "cagr_1y": null,
         "cagr_3y": null,
         "cagr_5y": null,
-        "std_dev": 11.1087,
+        "std_dev": 11.0942,
         "max_drawdown": -6.561446888272939,
         "beta": null,
         "alpha": null,
@@ -72840,8 +72840,8 @@
         "avg_roll_1y": null,
         "min_roll_1y": null,
         "max_roll_1y": null,
-        "outperformance_pct": 50.5495,
-        "positive_return_pct": 52.7473,
+        "outperformance_pct": 50.0,
+        "positive_return_pct": 53.2609,
         "persistence_score": null,
         "upside_capture": null,
         "downside_capture": null,
@@ -72855,10 +72855,10 @@
         "sc_3y_return": null,
         "sc_5y_return": null,
         "sc_alpha": null,
-        "sc_volatility": 0.358,
+        "sc_volatility": 0.3589,
         "sc_drawdown": 0.2669,
         "sc_momentum": null,
-        "sc_outperformance": 0.3933,
+        "sc_outperformance": 0.3129,
         "sc_positive_return": 0.0,
         "sc_persistence": null,
         "sc_upside_capture": null,
@@ -74699,55 +74699,55 @@
       "amfi_category": "FoF Domestic",
       "amc": "Kotak Mahindra Mutual Fund",
       "ter_pct": null,
-      "data_points": 3314,
-      "last_updated": "2026-07-16",
+      "data_points": 3315,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": -5.528534063688284,
-        "cagr_6m": -0.3109422799724815,
-        "cagr_1y": 7.828546738547604,
-        "cagr_3y": 16.594276905869588,
-        "cagr_5y": 16.398858994608467,
-        "std_dev": 10.2903,
+        "cagr_1m": -10.880497229615694,
+        "cagr_6m": -0.12558576091917795,
+        "cagr_1y": 7.953459512920835,
+        "cagr_3y": 16.3775222861257,
+        "cagr_5y": 16.231264629970042,
+        "std_dev": 10.2887,
         "max_drawdown": -15.344218562533102,
-        "beta": 0.5156,
-        "alpha": 11.5019,
-        "sharpe": 0.1291,
-        "sortino": 0.1355,
-        "calmar": 0.5102,
-        "momentum": -8.7657,
-        "return_divergence": -8.7657,
-        "avg_roll_1y": 17.692,
-        "min_roll_1y": -12.0447,
-        "max_roll_1y": 64.6072,
-        "outperformance_pct": 50.2264,
-        "positive_return_pct": 60.1871,
-        "persistence_score": 71.2329,
-        "upside_capture": 52.9733,
+        "beta": 0.5154,
+        "alpha": 11.2871,
+        "sharpe": 0.1413,
+        "sortino": 0.1483,
+        "calmar": 0.5183,
+        "momentum": -8.4241,
+        "return_divergence": -8.4241,
+        "avg_roll_1y": 17.6713,
+        "min_roll_1y": -8.7898,
+        "max_roll_1y": 58.5493,
+        "outperformance_pct": 50.2112,
+        "positive_return_pct": 60.169,
+        "persistence_score": 70.5479,
+        "upside_capture": 52.9234,
         "downside_capture": 42.519,
         "recovery_months": 3.19,
         "recovery_score": 0.3134,
         "downside_freq": 24.6914,
-        "roll_stability": -0.0831
+        "roll_stability": 0.0473
       },
       "scores": {
-        "sc_1y_return": 0.5703,
-        "sc_3y_return": 0.5868,
-        "sc_5y_return": 0.7174,
-        "sc_alpha": 0.6503,
-        "sc_volatility": 0.4112,
+        "sc_1y_return": 0.5802,
+        "sc_3y_return": 0.573,
+        "sc_5y_return": 0.7051,
+        "sc_alpha": 0.6327,
+        "sc_volatility": 0.4113,
         "sc_drawdown": 0.6732,
-        "sc_momentum": 0.3306,
-        "sc_outperformance": 0.346,
-        "sc_positive_return": 0.408,
-        "sc_persistence": 0.6228,
-        "sc_upside_capture": 0.5493,
+        "sc_momentum": 0.3536,
+        "sc_outperformance": 0.3438,
+        "sc_positive_return": 0.4068,
+        "sc_persistence": 0.6116,
+        "sc_upside_capture": 0.5488,
         "sc_downside_capture": 0.4955,
         "sc_recovery": 0.2531,
         "sc_downside_freq": 0.4607,
         "sc_ter": null,
-        "sc_avg_roll": 0.9675,
-        "sc_roll_stability": 0.354
+        "sc_avg_roll": 0.9657,
+        "sc_roll_stability": 0.457
       },
       "missing_metrics": [
         "sc_ter"
@@ -76640,7 +76640,7 @@
         "roll_stability": -0.5886
       },
       "scores": {
-        "sc_1y_return": 0.1414,
+        "sc_1y_return": 0.1496,
         "sc_3y_return": 0.3956,
         "sc_5y_return": 0.6102,
         "sc_alpha": 0.4796,
@@ -76648,8 +76648,8 @@
         "sc_drawdown": 0.2441,
         "sc_momentum": 0.0717,
         "sc_outperformance": 0.0,
-        "sc_positive_return": 0.3466,
-        "sc_persistence": 0.0474,
+        "sc_positive_return": 0.3433,
+        "sc_persistence": 0.042,
         "sc_upside_capture": 0.2428,
         "sc_downside_capture": 0.5801,
         "sc_recovery": 0.0342,
@@ -76700,7 +76700,7 @@
         "roll_stability": -0.601
       },
       "scores": {
-        "sc_1y_return": 0.2689,
+        "sc_1y_return": 0.2872,
         "sc_3y_return": 0.6424,
         "sc_5y_return": 0.9081,
         "sc_alpha": 0.7386,
@@ -76708,8 +76708,8 @@
         "sc_drawdown": 0.4706,
         "sc_momentum": 0.0791,
         "sc_outperformance": 0.0,
-        "sc_positive_return": 0.3976,
-        "sc_persistence": 0.2785,
+        "sc_positive_return": 0.3945,
+        "sc_persistence": 0.2745,
         "sc_upside_capture": 0.069,
         "sc_downside_capture": 0.7435,
         "sc_recovery": 0.1294,
@@ -76760,16 +76760,16 @@
         "roll_stability": 0.1875
       },
       "scores": {
-        "sc_1y_return": 0.1796,
+        "sc_1y_return": 0.1908,
         "sc_3y_return": 0.5935,
         "sc_5y_return": 0.9037,
         "sc_alpha": 0.5057,
         "sc_volatility": 0.7707,
         "sc_drawdown": 0.1495,
         "sc_momentum": 0.0006,
-        "sc_outperformance": 0.6242,
+        "sc_outperformance": 0.6257,
         "sc_positive_return": 1.0,
-        "sc_persistence": 0.2688,
+        "sc_persistence": 0.2646,
         "sc_upside_capture": 0.9705,
         "sc_downside_capture": 0.1496,
         "sc_recovery": 0.2789,
@@ -76820,16 +76820,16 @@
         "roll_stability": -0.1525
       },
       "scores": {
-        "sc_1y_return": 0.2537,
+        "sc_1y_return": 0.2707,
         "sc_3y_return": 0.6473,
         "sc_5y_return": null,
         "sc_alpha": 0.4785,
         "sc_volatility": 0.4904,
         "sc_drawdown": 0.5386,
         "sc_momentum": 0.0579,
-        "sc_outperformance": 0.8399,
-        "sc_positive_return": 0.5781,
-        "sc_persistence": 0.6117,
+        "sc_outperformance": 0.8405,
+        "sc_positive_return": 0.5759,
+        "sc_persistence": 0.6095,
         "sc_upside_capture": 1.0,
         "sc_downside_capture": 0.0,
         "sc_recovery": 0.1153,
@@ -76882,16 +76882,16 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.6242,
+        "sc_1y_return": 0.6703,
         "sc_3y_return": 0.1703,
         "sc_5y_return": 0.0,
         "sc_alpha": 0.0912,
         "sc_volatility": 0.2665,
         "sc_drawdown": 0.9203,
         "sc_momentum": 0.7854,
-        "sc_outperformance": 0.0762,
+        "sc_outperformance": 0.08,
         "sc_positive_return": 0.0,
-        "sc_persistence": 0.0886,
+        "sc_persistence": 0.0835,
         "sc_upside_capture": 0.7449,
         "sc_downside_capture": 0.0956,
         "sc_recovery": 0.0005,
@@ -76942,7 +76942,7 @@
         "roll_stability": 0.5963
       },
       "scores": {
-        "sc_1y_return": 0.5651,
+        "sc_1y_return": 0.6066,
         "sc_3y_return": 1.0,
         "sc_5y_return": null,
         "sc_alpha": 1.0,
@@ -77012,9 +77012,9 @@
         "sc_volatility": 1.0,
         "sc_drawdown": 0.0,
         "sc_momentum": null,
-        "sc_outperformance": 0.8865,
-        "sc_positive_return": 0.8433,
-        "sc_persistence": 0.7996,
+        "sc_outperformance": 0.8869,
+        "sc_positive_return": 0.8425,
+        "sc_persistence": 0.7985,
         "sc_upside_capture": 0.0,
         "sc_downside_capture": 1.0,
         "sc_recovery": 0.6645,
@@ -77071,7 +77071,7 @@
         "roll_stability": 0.2456
       },
       "scores": {
-        "sc_1y_return": 0.043,
+        "sc_1y_return": 0.0435,
         "sc_3y_return": 0.8483,
         "sc_5y_return": null,
         "sc_alpha": 0.7304,
@@ -77079,7 +77079,7 @@
         "sc_drawdown": 0.4062,
         "sc_momentum": 0.0,
         "sc_outperformance": 1.0,
-        "sc_positive_return": 0.831,
+        "sc_positive_return": 0.8301,
         "sc_persistence": 1.0,
         "sc_upside_capture": 1.0,
         "sc_downside_capture": 0.0069,
@@ -77141,9 +77141,9 @@
         "sc_volatility": 1.0,
         "sc_drawdown": 0.0,
         "sc_momentum": 0.1454,
-        "sc_outperformance": 0.1432,
+        "sc_outperformance": 0.1466,
         "sc_positive_return": 1.0,
-        "sc_persistence": 0.4675,
+        "sc_persistence": 0.4644,
         "sc_upside_capture": 0.0,
         "sc_downside_capture": 1.0,
         "sc_recovery": 1.0,
@@ -77197,16 +77197,16 @@
         "roll_stability": 0.4512
       },
       "scores": {
-        "sc_1y_return": 0.1174,
+        "sc_1y_return": 0.1237,
         "sc_3y_return": 0.0877,
         "sc_5y_return": null,
         "sc_alpha": 0.1053,
         "sc_volatility": 0.7324,
         "sc_drawdown": 0.074,
         "sc_momentum": 0.2249,
-        "sc_outperformance": 0.2746,
-        "sc_positive_return": 0.3112,
-        "sc_persistence": 0.5063,
+        "sc_outperformance": 0.2776,
+        "sc_positive_return": 0.3077,
+        "sc_persistence": 0.5035,
         "sc_upside_capture": 0.4591,
         "sc_downside_capture": 0.5686,
         "sc_recovery": 1.0,
@@ -77259,15 +77259,15 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.9931,
+        "sc_1y_return": 1.0,
         "sc_3y_return": 0.2039,
         "sc_5y_return": 0.6507,
         "sc_alpha": 0.122,
         "sc_volatility": 0.4142,
         "sc_drawdown": 0.3862,
         "sc_momentum": 1.0,
-        "sc_outperformance": 0.0747,
-        "sc_positive_return": 0.1579,
+        "sc_outperformance": 0.0785,
+        "sc_positive_return": 0.1536,
         "sc_persistence": 0.0,
         "sc_upside_capture": 0.6594,
         "sc_downside_capture": 0.2104,
@@ -77321,15 +77321,15 @@
         "roll_stability": 0.4343
       },
       "scores": {
-        "sc_1y_return": 0.5946,
+        "sc_1y_return": 0.6384,
         "sc_3y_return": 0.9854,
         "sc_5y_return": null,
         "sc_alpha": 0.9747,
         "sc_volatility": 0.4529,
         "sc_drawdown": 0.4242,
         "sc_momentum": 0.2678,
-        "sc_outperformance": 0.8809,
-        "sc_positive_return": 0.6868,
+        "sc_outperformance": 0.8814,
+        "sc_positive_return": 0.6851,
         "sc_persistence": 1.0,
         "sc_upside_capture": 0.9772,
         "sc_downside_capture": 0.372,
@@ -77450,16 +77450,16 @@
         "roll_stability": -0.0792
       },
       "scores": {
-        "sc_1y_return": 0.793,
+        "sc_1y_return": 0.8524,
         "sc_3y_return": 0.8314,
         "sc_5y_return": 1.0,
         "sc_alpha": 0.8176,
         "sc_volatility": 0.7458,
         "sc_drawdown": 0.2664,
         "sc_momentum": 0.5974,
-        "sc_outperformance": 0.7187,
-        "sc_positive_return": 0.9465,
-        "sc_persistence": 0.4199,
+        "sc_outperformance": 0.7198,
+        "sc_positive_return": 0.9462,
+        "sc_persistence": 0.4166,
         "sc_upside_capture": 0.6107,
         "sc_downside_capture": 0.4899,
         "sc_recovery": 1.0,
@@ -77512,7 +77512,7 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.8678,
+        "sc_1y_return": 0.933,
         "sc_3y_return": 1.0,
         "sc_5y_return": 1.0,
         "sc_alpha": 1.0,
@@ -77521,7 +77521,7 @@
         "sc_momentum": 0.3493,
         "sc_outperformance": 0.0,
         "sc_positive_return": 0.0,
-        "sc_persistence": 0.0868,
+        "sc_persistence": 0.0816,
         "sc_upside_capture": 0.2188,
         "sc_downside_capture": 0.657,
         "sc_recovery": 0.0,
@@ -77581,9 +77581,9 @@
         "sc_volatility": 0.0412,
         "sc_drawdown": 0.6575,
         "sc_momentum": 1.0,
-        "sc_outperformance": 0.1232,
-        "sc_positive_return": 0.1124,
-        "sc_persistence": 0.1252,
+        "sc_outperformance": 0.1268,
+        "sc_positive_return": 0.1078,
+        "sc_persistence": 0.1203,
         "sc_upside_capture": 0.9334,
         "sc_downside_capture": 0.0195,
         "sc_recovery": 0.0,
@@ -77636,7 +77636,7 @@
         "roll_stability": -0.9884
       },
       "scores": {
-        "sc_1y_return": 0.3676,
+        "sc_1y_return": 0.3935,
         "sc_3y_return": 0.0224,
         "sc_5y_return": 0.4575,
         "sc_alpha": 0.0,
@@ -77644,8 +77644,8 @@
         "sc_drawdown": 0.024,
         "sc_momentum": 0.5643,
         "sc_outperformance": 0.0,
-        "sc_positive_return": 0.287,
-        "sc_persistence": 0.0312,
+        "sc_positive_return": 0.2833,
+        "sc_persistence": 0.0257,
         "sc_upside_capture": 0.564,
         "sc_downside_capture": 0.3054,
         "sc_recovery": 0.2589,
@@ -77703,9 +77703,9 @@
         "sc_volatility": 0.6765,
         "sc_drawdown": 0.7109,
         "sc_momentum": 1.0,
-        "sc_outperformance": 0.1548,
-        "sc_positive_return": 0.603,
-        "sc_persistence": 0.1983,
+        "sc_outperformance": 0.1582,
+        "sc_positive_return": 0.601,
+        "sc_persistence": 0.1938,
         "sc_upside_capture": 1.0,
         "sc_downside_capture": 0.0,
         "sc_recovery": 0.0,
@@ -77756,16 +77756,16 @@
         "roll_stability": -0.8661
       },
       "scores": {
-        "sc_1y_return": 0.2653,
+        "sc_1y_return": 0.2833,
         "sc_3y_return": 0.6576,
         "sc_5y_return": 0.8681,
         "sc_alpha": 0.5666,
         "sc_volatility": 0.7327,
         "sc_drawdown": 0.2872,
         "sc_momentum": 0.0657,
-        "sc_outperformance": 0.4332,
-        "sc_positive_return": 0.5215,
-        "sc_persistence": 0.2013,
+        "sc_outperformance": 0.4355,
+        "sc_positive_return": 0.519,
+        "sc_persistence": 0.1967,
         "sc_upside_capture": 0.8365,
         "sc_downside_capture": 0.1622,
         "sc_recovery": 0.4833,
@@ -77816,16 +77816,16 @@
         "roll_stability": -0.9051
       },
       "scores": {
-        "sc_1y_return": 0.7562,
+        "sc_1y_return": 0.8127,
         "sc_3y_return": 0.1608,
         "sc_5y_return": 0.0,
         "sc_alpha": 0.0708,
         "sc_volatility": 0.3398,
         "sc_drawdown": 1.0,
         "sc_momentum": 0.9498,
-        "sc_outperformance": 0.5521,
-        "sc_positive_return": 0.455,
-        "sc_persistence": 0.2793,
+        "sc_outperformance": 0.5539,
+        "sc_positive_return": 0.4521,
+        "sc_persistence": 0.2752,
         "sc_upside_capture": 0.8448,
         "sc_downside_capture": 0.1903,
         "sc_recovery": 0.0,
@@ -77876,7 +77876,7 @@
         "roll_stability": -0.7105
       },
       "scores": {
-        "sc_1y_return": 0.3492,
+        "sc_1y_return": 0.3738,
         "sc_3y_return": 1.0,
         "sc_5y_return": 0.9284,
         "sc_alpha": 1.0,
@@ -77884,8 +77884,8 @@
         "sc_drawdown": 1.0,
         "sc_momentum": 0.0,
         "sc_outperformance": 1.0,
-        "sc_positive_return": 0.9142,
-        "sc_persistence": 0.5152,
+        "sc_positive_return": 0.9137,
+        "sc_persistence": 0.5125,
         "sc_upside_capture": 1.0,
         "sc_downside_capture": 0.0,
         "sc_recovery": 0.1046,
@@ -77936,16 +77936,16 @@
         "roll_stability": -0.5868
       },
       "scores": {
-        "sc_1y_return": 0.5336,
+        "sc_1y_return": 0.5726,
         "sc_3y_return": 0.4002,
         "sc_5y_return": 0.9185,
         "sc_alpha": 0.3388,
         "sc_volatility": 0.7339,
         "sc_drawdown": 0.0227,
         "sc_momentum": 0.5405,
-        "sc_outperformance": 0.13,
-        "sc_positive_return": 0.8258,
-        "sc_persistence": 0.2496,
+        "sc_outperformance": 0.1335,
+        "sc_positive_return": 0.8249,
+        "sc_persistence": 0.2454,
         "sc_upside_capture": 0.551,
         "sc_downside_capture": 0.4184,
         "sc_recovery": 0.2789,
@@ -77996,16 +77996,16 @@
         "roll_stability": -0.1977
       },
       "scores": {
-        "sc_1y_return": 0.0425,
+        "sc_1y_return": 0.0429,
         "sc_3y_return": 0.6541,
         "sc_5y_return": 0.4898,
         "sc_alpha": 0.7549,
         "sc_volatility": 0.4433,
         "sc_drawdown": 0.8069,
         "sc_momentum": 0.0,
-        "sc_outperformance": 0.5384,
-        "sc_positive_return": 0.9192,
-        "sc_persistence": 0.4584,
+        "sc_outperformance": 0.5402,
+        "sc_positive_return": 0.9188,
+        "sc_persistence": 0.4553,
         "sc_upside_capture": 0.0087,
         "sc_downside_capture": 0.9774,
         "sc_recovery": 0.0571,
@@ -78058,7 +78058,7 @@
         "roll_stability": 0.2645
       },
       "scores": {
-        "sc_1y_return": 0.5069,
+        "sc_1y_return": 0.5438,
         "sc_3y_return": 0.7502,
         "sc_5y_return": null,
         "sc_alpha": 0.7864,
@@ -78066,8 +78066,8 @@
         "sc_drawdown": 0.1393,
         "sc_momentum": 0.3014,
         "sc_outperformance": 0.9975,
-        "sc_positive_return": 0.8706,
-        "sc_persistence": 0.7634,
+        "sc_positive_return": 0.8699,
+        "sc_persistence": 0.7621,
         "sc_upside_capture": 0.4708,
         "sc_downside_capture": 0.6191,
         "sc_recovery": 0.1478,
@@ -78121,15 +78121,15 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.5613,
+        "sc_1y_return": 0.6025,
         "sc_3y_return": 0.3826,
         "sc_5y_return": 0.0871,
         "sc_alpha": 0.2526,
         "sc_volatility": 0.0,
         "sc_drawdown": 0.7228,
         "sc_momentum": 0.5842,
-        "sc_outperformance": 0.2027,
-        "sc_positive_return": 0.0113,
+        "sc_outperformance": 0.206,
+        "sc_positive_return": 0.0062,
         "sc_persistence": 0.0,
         "sc_upside_capture": 0.7567,
         "sc_downside_capture": 0.0665,
@@ -78188,9 +78188,9 @@
         "sc_volatility": 0.7034,
         "sc_drawdown": 0.6716,
         "sc_momentum": 1.0,
-        "sc_outperformance": 0.4811,
-        "sc_positive_return": 0.4526,
-        "sc_persistence": 0.0809,
+        "sc_outperformance": 0.4832,
+        "sc_positive_return": 0.4497,
+        "sc_persistence": 0.0757,
         "sc_upside_capture": 0.9827,
         "sc_downside_capture": 0.0135,
         "sc_recovery": 0.0099,
@@ -78243,16 +78243,16 @@
         "roll_stability": -0.229
       },
       "scores": {
-        "sc_1y_return": 0.0119,
+        "sc_1y_return": 0.0099,
         "sc_3y_return": 0.0551,
         "sc_5y_return": 0.613,
         "sc_alpha": 0.0693,
         "sc_volatility": 1.0,
         "sc_drawdown": 0.0,
         "sc_momentum": 0.1173,
-        "sc_outperformance": 0.1167,
-        "sc_positive_return": 0.1776,
-        "sc_persistence": 0.2006,
+        "sc_outperformance": 0.1203,
+        "sc_positive_return": 0.1733,
+        "sc_persistence": 0.1961,
         "sc_upside_capture": 0.2592,
         "sc_downside_capture": 0.5963,
         "sc_recovery": 0.2909,
@@ -78303,7 +78303,7 @@
         "roll_stability": 0.0179
       },
       "scores": {
-        "sc_1y_return": 0.8877,
+        "sc_1y_return": 0.9545,
         "sc_3y_return": 0.6547,
         "sc_5y_return": null,
         "sc_alpha": 0.8068,
@@ -78312,7 +78312,7 @@
         "sc_momentum": 0.8158,
         "sc_outperformance": 1.0,
         "sc_positive_return": 0.9865,
-        "sc_persistence": 0.5063,
+        "sc_persistence": 0.5035,
         "sc_upside_capture": 0.1758,
         "sc_downside_capture": 1.0,
         "sc_recovery": 0.3621,
@@ -78365,16 +78365,16 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.1221,
+        "sc_1y_return": 0.1288,
         "sc_3y_return": 0.4783,
         "sc_5y_return": 0.0,
         "sc_alpha": 0.2298,
         "sc_volatility": 0.0,
         "sc_drawdown": 1.0,
         "sc_momentum": 0.0,
-        "sc_outperformance": 0.534,
-        "sc_positive_return": 0.3747,
-        "sc_persistence": 0.1566,
+        "sc_outperformance": 0.5359,
+        "sc_positive_return": 0.3714,
+        "sc_persistence": 0.1518,
         "sc_upside_capture": 1.0,
         "sc_downside_capture": 0.0,
         "sc_recovery": 0.0077,
@@ -78425,16 +78425,16 @@
         "roll_stability": -0.8013
       },
       "scores": {
-        "sc_1y_return": 0.3001,
+        "sc_1y_return": 0.3208,
         "sc_3y_return": 0.5576,
         "sc_5y_return": 1.0,
         "sc_alpha": 0.4589,
         "sc_volatility": 0.7924,
         "sc_drawdown": 0.17,
         "sc_momentum": 0.1667,
-        "sc_outperformance": 0.421,
-        "sc_positive_return": 0.5725,
-        "sc_persistence": 0.2103,
+        "sc_outperformance": 0.4233,
+        "sc_positive_return": 0.5703,
+        "sc_persistence": 0.2059,
         "sc_upside_capture": 0.7332,
         "sc_downside_capture": 0.2505,
         "sc_recovery": 0.2837,
@@ -78485,16 +78485,16 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.4511,
+        "sc_1y_return": 0.4836,
         "sc_3y_return": 0.2798,
         "sc_5y_return": 0.8534,
         "sc_alpha": 0.1351,
         "sc_volatility": 0.5927,
         "sc_drawdown": 0.3198,
         "sc_momentum": 0.5125,
-        "sc_outperformance": 0.3975,
-        "sc_positive_return": 0.4805,
-        "sc_persistence": 0.0252,
+        "sc_outperformance": 0.3999,
+        "sc_positive_return": 0.4778,
+        "sc_persistence": 0.0197,
         "sc_upside_capture": 0.9421,
         "sc_downside_capture": 0.0,
         "sc_recovery": 0.1697,
@@ -78513,31 +78513,31 @@
       "amfi_category": "FoF Overseas",
       "amc": "Kotak Mahindra Mutual Fund",
       "ter_pct": null,
-      "data_points": 3221,
-      "last_updated": "2026-07-16",
+      "data_points": 3222,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": -49.569124980727665,
-        "cagr_6m": 45.659917217963496,
-        "cagr_1y": 53.0272181151104,
-        "cagr_3y": 25.795331356067486,
-        "cagr_5y": 10.681212096440795,
-        "std_dev": 15.6612,
+        "cagr_1m": -67.2822678816019,
+        "cagr_6m": 36.63863351418559,
+        "cagr_1y": 47.480190082554905,
+        "cagr_3y": 24.824989528882234,
+        "cagr_5y": 10.075863605264445,
+        "std_dev": 15.6761,
         "max_drawdown": -29.031254859275386,
-        "beta": 0.4696,
-        "alpha": 21.1572,
-        "sharpe": 2.9709,
-        "sortino": 3.8169,
-        "calmar": 1.8266,
-        "momentum": 27.2319,
-        "return_divergence": 27.2319,
-        "avg_roll_1y": 9.8877,
-        "min_roll_1y": -23.3144,
-        "max_roll_1y": 78.1968,
-        "outperformance_pct": 50.1863,
-        "positive_return_pct": 54.0994,
-        "persistence_score": 31.6901,
-        "upside_capture": 49.2554,
+        "beta": 0.4687,
+        "alpha": 20.1958,
+        "sharpe": 2.6142,
+        "sortino": 3.3562,
+        "calmar": 1.6355,
+        "momentum": 22.6552,
+        "return_divergence": 22.6552,
+        "avg_roll_1y": 9.8726,
+        "min_roll_1y": -21.3356,
+        "max_roll_1y": 75.3512,
+        "outperformance_pct": 50.1708,
+        "positive_return_pct": 54.0826,
+        "persistence_score": 32.3944,
+        "upside_capture": 48.9986,
         "downside_capture": 43.6952,
         "recovery_months": 29.67,
         "recovery_score": 0.0337,
@@ -78545,22 +78545,22 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 1.0,
-        "sc_3y_return": 0.7291,
-        "sc_5y_return": 0.4481,
-        "sc_alpha": 0.6495,
-        "sc_volatility": 0.8238,
+        "sc_1y_return": 0.9065,
+        "sc_3y_return": 0.6697,
+        "sc_5y_return": 0.4021,
+        "sc_alpha": 0.5898,
+        "sc_volatility": 0.8227,
         "sc_drawdown": 0.4745,
-        "sc_momentum": 0.9191,
-        "sc_outperformance": 0.4095,
-        "sc_positive_return": 0.6228,
+        "sc_momentum": 0.7534,
+        "sc_outperformance": 0.4079,
+        "sc_positive_return": 0.6177,
         "sc_persistence": 0.0,
-        "sc_upside_capture": 0.7012,
+        "sc_upside_capture": 0.6945,
         "sc_downside_capture": 0.1911,
         "sc_recovery": 0.0072,
         "sc_downside_freq": 0.4098,
         "sc_ter": null,
-        "sc_avg_roll": 0.1324,
+        "sc_avg_roll": 0.1315,
         "sc_roll_stability": 0.0
       },
       "missing_metrics": [
@@ -78607,16 +78607,16 @@
         "roll_stability": -0.5292
       },
       "scores": {
-        "sc_1y_return": 0.4945,
+        "sc_1y_return": 0.5304,
         "sc_3y_return": 0.6407,
         "sc_5y_return": null,
         "sc_alpha": 0.6523,
         "sc_volatility": 0.3556,
         "sc_drawdown": 0.8627,
         "sc_momentum": 0.3513,
-        "sc_outperformance": 0.1599,
-        "sc_positive_return": 0.4822,
-        "sc_persistence": 0.5113,
+        "sc_outperformance": 0.1633,
+        "sc_positive_return": 0.4795,
+        "sc_persistence": 0.5085,
         "sc_upside_capture": 0.5108,
         "sc_downside_capture": 0.4381,
         "sc_recovery": 0.0344,
@@ -78638,31 +78638,31 @@
       "amfi_category": "FoF Overseas",
       "amc": "Kotak Mahindra Mutual Fund",
       "ter_pct": null,
-      "data_points": 1209,
-      "last_updated": "2026-07-16",
+      "data_points": 1210,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 14.201005008520884,
-        "cagr_6m": 9.901477008586102,
-        "cagr_1y": 18.89034145469093,
-        "cagr_3y": 6.6432961087596665,
+        "cagr_1m": 19.567480848926877,
+        "cagr_6m": 12.346816892429825,
+        "cagr_1y": 19.11251032102035,
+        "cagr_3y": 5.699435586800972,
         "cagr_5y": null,
-        "std_dev": 18.4176,
+        "std_dev": 18.4109,
         "max_drawdown": -25.54153289789292,
         "beta": 0.3814,
-        "alpha": 2.8763,
-        "sharpe": 0.6727,
-        "sortino": 1.0002,
-        "calmar": 0.7396,
-        "momentum": 12.247,
-        "return_divergence": 12.247,
-        "avg_roll_1y": 4.0975,
-        "min_roll_1y": -13.9859,
-        "max_roll_1y": 22.7933,
-        "outperformance_pct": 48.5927,
-        "positive_return_pct": 50.6623,
-        "persistence_score": 26.087,
-        "upside_capture": 41.8907,
+        "alpha": 1.9325,
+        "sharpe": 0.6851,
+        "sortino": 1.0181,
+        "calmar": 0.7483,
+        "momentum": 13.4131,
+        "return_divergence": 13.4131,
+        "avg_roll_1y": 4.0571,
+        "min_roll_1y": -13.5346,
+        "max_roll_1y": 22.5005,
+        "outperformance_pct": 48.5525,
+        "positive_return_pct": 50.7031,
+        "persistence_score": 28.2609,
+        "upside_capture": 41.8826,
         "downside_capture": 38.6979,
         "recovery_months": 9.24,
         "recovery_score": 0.1082,
@@ -78674,13 +78674,13 @@
         "sc_3y_return": 0.0,
         "sc_5y_return": null,
         "sc_alpha": 0.0,
-        "sc_volatility": 0.6273,
+        "sc_volatility": 0.6278,
         "sc_drawdown": 0.3508,
-        "sc_momentum": 0.3765,
-        "sc_outperformance": 0.0007,
-        "sc_positive_return": 0.0013,
+        "sc_momentum": 0.4188,
+        "sc_outperformance": 0.0,
+        "sc_positive_return": 0.0036,
         "sc_persistence": 0.0,
-        "sc_upside_capture": 0.5085,
+        "sc_upside_capture": 0.5083,
         "sc_downside_capture": 0.2875,
         "sc_recovery": 0.206,
         "sc_downside_freq": 0.0377,
@@ -78701,16 +78701,16 @@
       "amfi_category": "FoF Overseas",
       "amc": "Kotak Mahindra Mutual Fund",
       "ter_pct": null,
-      "data_points": 69,
-      "last_updated": "2026-07-16",
+      "data_points": 70,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 39.689034288565914,
+        "cagr_1m": 10.785842288607173,
         "cagr_6m": null,
         "cagr_1y": null,
         "cagr_3y": null,
         "cagr_5y": null,
-        "std_dev": 11.249,
+        "std_dev": 11.6692,
         "max_drawdown": -3.8572458543619397,
         "beta": null,
         "alpha": null,
@@ -78722,8 +78722,8 @@
         "avg_roll_1y": null,
         "min_roll_1y": null,
         "max_roll_1y": null,
-        "outperformance_pct": 55.8824,
-        "positive_return_pct": 63.2353,
+        "outperformance_pct": 55.0725,
+        "positive_return_pct": 62.3188,
         "persistence_score": null,
         "upside_capture": null,
         "downside_capture": null,
@@ -78805,16 +78805,16 @@
         "roll_stability": 0.3372
       },
       "scores": {
-        "sc_1y_return": 0.0183,
+        "sc_1y_return": 0.0168,
         "sc_3y_return": 0.0,
         "sc_5y_return": null,
         "sc_alpha": 0.1174,
         "sc_volatility": 0.9823,
         "sc_drawdown": 0.2401,
         "sc_momentum": 0.1591,
-        "sc_outperformance": 0.5038,
-        "sc_positive_return": 0.4596,
-        "sc_persistence": 0.3911,
+        "sc_outperformance": 0.5058,
+        "sc_positive_return": 0.4568,
+        "sc_persistence": 0.3877,
         "sc_upside_capture": 0.0,
         "sc_downside_capture": 0.9187,
         "sc_recovery": 0.1961,
@@ -78836,55 +78836,55 @@
       "amfi_category": "FoF Overseas",
       "amc": "Kotak Mahindra Mutual Fund",
       "ter_pct": null,
-      "data_points": 1244,
-      "last_updated": "2026-07-16",
+      "data_points": 1245,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": -18.601149152727668,
-        "cagr_6m": 46.80590363922039,
-        "cagr_1y": 43.921587955835186,
-        "cagr_3y": 35.9568482040109,
+        "cagr_1m": -32.63441459852704,
+        "cagr_6m": 40.42892981627635,
+        "cagr_1y": 39.70420070096792,
+        "cagr_3y": 35.50461155601208,
         "cagr_5y": null,
-        "std_dev": 21.446,
+        "std_dev": 21.4654,
         "max_drawdown": -29.122396855008525,
-        "beta": 0.4005,
-        "alpha": 32.0012,
-        "sharpe": 1.7449,
-        "sortino": 2.4949,
-        "calmar": 1.5082,
-        "momentum": 7.9647,
-        "return_divergence": 7.9647,
-        "avg_roll_1y": 20.7089,
-        "min_roll_1y": -23.9747,
-        "max_roll_1y": 71.172,
-        "outperformance_pct": 52.2928,
-        "positive_return_pct": 55.4304,
-        "persistence_score": 66.6667,
-        "upside_capture": 56.6486,
+        "beta": 0.3974,
+        "alpha": 31.5796,
+        "sharpe": 1.5469,
+        "sortino": 2.2118,
+        "calmar": 1.3634,
+        "momentum": 4.1996,
+        "return_divergence": 4.1996,
+        "avg_roll_1y": 20.6577,
+        "min_roll_1y": -24.1478,
+        "max_roll_1y": 67.2027,
+        "outperformance_pct": 52.2508,
+        "positive_return_pct": 55.3859,
+        "persistence_score": 68.75,
+        "upside_capture": 55.9498,
         "downside_capture": 31.5861,
         "recovery_months": 10.57,
         "recovery_score": 0.0946,
         "downside_freq": 35.3846,
-        "roll_stability": -0.1486
+        "roll_stability": -0.1055
       },
       "scores": {
-        "sc_1y_return": 0.736,
+        "sc_1y_return": 0.654,
         "sc_3y_return": 1.0,
         "sc_5y_return": null,
         "sc_alpha": 1.0,
-        "sc_volatility": 0.4115,
+        "sc_volatility": 0.4101,
         "sc_drawdown": 0.4778,
-        "sc_momentum": 0.2215,
-        "sc_outperformance": 0.9498,
-        "sc_positive_return": 0.8634,
-        "sc_persistence": 0.6859,
-        "sc_upside_capture": 0.8946,
+        "sc_momentum": 0.0851,
+        "sc_outperformance": 0.9393,
+        "sc_positive_return": 0.8546,
+        "sc_persistence": 0.727,
+        "sc_upside_capture": 0.8763,
         "sc_downside_capture": 0.4246,
         "sc_recovery": 0.1697,
         "sc_downside_freq": 0.7299,
         "sc_ter": null,
-        "sc_avg_roll": 0.8089,
-        "sc_roll_stability": 0.5908
+        "sc_avg_roll": 0.8057,
+        "sc_roll_stability": 0.6207
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -78931,16 +78931,16 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.5209,
+        "sc_1y_return": 0.5589,
         "sc_3y_return": 0.0,
         "sc_5y_return": null,
         "sc_alpha": 0.0,
         "sc_volatility": 0.0,
         "sc_drawdown": 1.0,
         "sc_momentum": 0.9137,
-        "sc_outperformance": 0.0,
+        "sc_outperformance": 0.0024,
         "sc_positive_return": 0.0,
-        "sc_persistence": 0.1665,
+        "sc_persistence": 0.1618,
         "sc_upside_capture": 0.0,
         "sc_downside_capture": 1.0,
         "sc_recovery": null,
@@ -78995,14 +78995,14 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.0569,
+        "sc_1y_return": 0.0585,
         "sc_3y_return": 0.0,
         "sc_5y_return": null,
         "sc_alpha": 0.0,
         "sc_volatility": 0.9027,
         "sc_drawdown": 0.3732,
         "sc_momentum": 0.4612,
-        "sc_outperformance": 0.1748,
+        "sc_outperformance": 0.1781,
         "sc_positive_return": 0.0,
         "sc_persistence": 0.0,
         "sc_upside_capture": 0.4032,
@@ -79064,9 +79064,9 @@
         "sc_volatility": 0.0598,
         "sc_drawdown": 0.5235,
         "sc_momentum": 1.0,
-        "sc_outperformance": 0.6871,
-        "sc_positive_return": 0.2447,
-        "sc_persistence": 0.1639,
+        "sc_outperformance": 0.6883,
+        "sc_positive_return": 0.2408,
+        "sc_persistence": 0.1592,
         "sc_upside_capture": 0.7751,
         "sc_downside_capture": 0.3198,
         "sc_recovery": 0.5135,
@@ -79087,55 +79087,55 @@
       "amfi_category": "FoF Overseas",
       "amc": "Navi Mutual Fund",
       "ter_pct": null,
-      "data_points": 1022,
-      "last_updated": "2026-07-16",
+      "data_points": 1023,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": -8.233033562539195,
-        "cagr_6m": 45.005829769712214,
-        "cagr_1y": 44.22969507211691,
-        "cagr_3y": 34.68147460797684,
+        "cagr_1m": -43.5805129006414,
+        "cagr_6m": 42.82634750416021,
+        "cagr_1y": 41.27142722479411,
+        "cagr_3y": 34.1615400406855,
         "cagr_5y": null,
-        "std_dev": 23.5732,
+        "std_dev": 23.5763,
         "max_drawdown": -25.08292882226481,
-        "beta": 0.1725,
-        "alpha": 32.9777,
-        "sharpe": 1.6005,
-        "sortino": 2.2563,
-        "calmar": 1.7633,
-        "momentum": 9.5482,
-        "return_divergence": 9.5482,
-        "avg_roll_1y": 31.805,
-        "min_roll_1y": -0.1581,
-        "max_roll_1y": 77.1496,
-        "outperformance_pct": 51.6161,
-        "positive_return_pct": 55.24,
+        "beta": 0.1698,
+        "alpha": 32.4845,
+        "sharpe": 1.4748,
+        "sortino": 2.0812,
+        "calmar": 1.6454,
+        "momentum": 7.1099,
+        "return_divergence": 7.1099,
+        "avg_roll_1y": 31.8995,
+        "min_roll_1y": 1.8687,
+        "max_roll_1y": 74.7039,
+        "outperformance_pct": 51.5656,
+        "positive_return_pct": 55.1859,
         "persistence_score": 89.1892,
-        "upside_capture": 36.6803,
+        "upside_capture": 36.0847,
         "downside_capture": 6.1907,
         "recovery_months": 10.67,
         "recovery_score": 0.0938,
         "downside_freq": 36.5385,
-        "roll_stability": 0.3923
+        "roll_stability": 0.4292
       },
       "scores": {
-        "sc_1y_return": 0.7453,
+        "sc_1y_return": 0.7049,
         "sc_3y_return": 1.0,
         "sc_5y_return": null,
         "sc_alpha": 1.0,
-        "sc_volatility": 0.2598,
+        "sc_volatility": 0.2596,
         "sc_drawdown": 0.3345,
-        "sc_momentum": 0.2788,
-        "sc_outperformance": 0.7762,
-        "sc_positive_return": 0.829,
+        "sc_momentum": 0.1905,
+        "sc_outperformance": 0.7642,
+        "sc_positive_return": 0.8182,
         "sc_persistence": 1.0,
-        "sc_upside_capture": 0.3722,
+        "sc_upside_capture": 0.3566,
         "sc_downside_capture": 0.9145,
         "sc_recovery": 0.1676,
         "sc_downside_freq": 0.6609,
         "sc_ter": null,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.9662
+        "sc_roll_stability": 0.9918
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -79150,55 +79150,55 @@
       "amfi_category": "FoF Overseas",
       "amc": "Navi Mutual Fund",
       "ter_pct": null,
-      "data_points": 1041,
-      "last_updated": "2026-07-16",
+      "data_points": 1042,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 32.23801417858616,
-        "cagr_6m": 37.389868651432124,
-        "cagr_1y": 37.06646799367989,
-        "cagr_3y": 27.66779986454242,
+        "cagr_1m": 4.051988491841141,
+        "cagr_6m": 33.351827288683644,
+        "cagr_1y": 35.42991277789409,
+        "cagr_3y": 27.3031142376843,
         "cagr_5y": null,
-        "std_dev": 18.4277,
+        "std_dev": 18.4268,
         "max_drawdown": -20.037176062946653,
-        "beta": 0.1448,
-        "alpha": 26.2377,
-        "sharpe": 1.6587,
-        "sortino": 2.3069,
-        "calmar": 1.8499,
-        "momentum": 9.3987,
-        "return_divergence": 9.3987,
-        "avg_roll_1y": 23.0662,
-        "min_roll_1y": -0.6182,
-        "max_roll_1y": 57.6838,
-        "outperformance_pct": 50.7692,
-        "positive_return_pct": 54.9038,
-        "persistence_score": 76.3158,
-        "upside_capture": 29.8305,
+        "beta": 0.143,
+        "alpha": 25.8907,
+        "sharpe": 1.57,
+        "sortino": 2.1856,
+        "calmar": 1.7682,
+        "momentum": 8.1268,
+        "return_divergence": 8.1268,
+        "avg_roll_1y": 23.023,
+        "min_roll_1y": 0.4844,
+        "max_roll_1y": 54.8053,
+        "outperformance_pct": 50.7205,
+        "positive_return_pct": 54.8511,
+        "persistence_score": 73.6842,
+        "upside_capture": 29.4406,
         "downside_capture": 4.8514,
         "recovery_months": 2.86,
         "recovery_score": 0.35,
         "downside_freq": 33.9623,
-        "roll_stability": 0.3681
+        "roll_stability": 0.4101
       },
       "scores": {
-        "sc_1y_return": 0.5296,
-        "sc_3y_return": 0.8438,
+        "sc_1y_return": 0.5151,
+        "sc_3y_return": 0.8214,
         "sc_5y_return": null,
-        "sc_alpha": 0.9648,
-        "sc_volatility": 0.6266,
+        "sc_alpha": 0.9432,
+        "sc_volatility": 0.6267,
         "sc_drawdown": 0.1557,
-        "sc_momentum": 0.2734,
-        "sc_outperformance": 0.559,
-        "sc_positive_return": 0.7682,
-        "sc_persistence": 0.8834,
-        "sc_upside_capture": 0.193,
+        "sc_momentum": 0.2273,
+        "sc_outperformance": 0.5483,
+        "sc_positive_return": 0.7574,
+        "sc_persistence": 0.8286,
+        "sc_upside_capture": 0.1828,
         "sc_downside_capture": 0.9403,
         "sc_recovery": 0.8513,
         "sc_downside_freq": 0.8149,
         "sc_ter": null,
-        "sc_avg_roll": 0.9562,
-        "sc_roll_stability": 0.9494
+        "sc_avg_roll": 0.9535,
+        "sc_roll_stability": 0.9785
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -79245,16 +79245,16 @@
         "roll_stability": -1.0
       },
       "scores": {
-        "sc_1y_return": 0.3331,
+        "sc_1y_return": 0.3563,
         "sc_3y_return": 0.571,
         "sc_5y_return": 0.0052,
         "sc_alpha": 0.5995,
         "sc_volatility": 0.4798,
         "sc_drawdown": 1.0,
         "sc_momentum": 0.1984,
-        "sc_outperformance": 0.4845,
-        "sc_positive_return": 0.2495,
-        "sc_persistence": 0.155,
+        "sc_outperformance": 0.4866,
+        "sc_positive_return": 0.2456,
+        "sc_persistence": 0.1502,
         "sc_upside_capture": 0.423,
         "sc_downside_capture": 0.3844,
         "sc_recovery": 0.0048,
@@ -79312,9 +79312,9 @@
         "sc_volatility": 0.4592,
         "sc_drawdown": 0.9848,
         "sc_momentum": 0.0,
-        "sc_outperformance": 0.2594,
-        "sc_positive_return": 0.5165,
-        "sc_persistence": 0.4963,
+        "sc_outperformance": 0.2624,
+        "sc_positive_return": 0.514,
+        "sc_persistence": 0.4934,
         "sc_upside_capture": 0.4615,
         "sc_downside_capture": 0.5203,
         "sc_recovery": 0.0494,
@@ -79365,16 +79365,16 @@
         "roll_stability": -0.3472
       },
       "scores": {
-        "sc_1y_return": 0.2363,
+        "sc_1y_return": 0.252,
         "sc_3y_return": 0.1287,
         "sc_5y_return": null,
         "sc_alpha": 0.2109,
         "sc_volatility": 0.8239,
         "sc_drawdown": 0.4167,
         "sc_momentum": 0.3437,
-        "sc_outperformance": 0.9254,
+        "sc_outperformance": 0.9258,
         "sc_positive_return": 0.0,
-        "sc_persistence": 0.02,
+        "sc_persistence": 0.0144,
         "sc_upside_capture": 0.0474,
         "sc_downside_capture": 0.7308,
         "sc_recovery": 0.0419,
@@ -79427,16 +79427,16 @@
         "roll_stability": -0.109
       },
       "scores": {
-        "sc_1y_return": 0.482,
+        "sc_1y_return": 0.517,
         "sc_3y_return": 0.8536,
         "sc_5y_return": null,
         "sc_alpha": 0.9394,
         "sc_volatility": 0.5345,
         "sc_drawdown": 0.2181,
         "sc_momentum": 0.2104,
-        "sc_outperformance": 0.2569,
-        "sc_positive_return": 0.8565,
-        "sc_persistence": 0.5842,
+        "sc_outperformance": 0.2599,
+        "sc_positive_return": 0.8557,
+        "sc_persistence": 0.5819,
         "sc_upside_capture": 0.3351,
         "sc_downside_capture": 0.7963,
         "sc_recovery": 1.0,
@@ -79490,16 +79490,16 @@
         "roll_stability": -0.7044
       },
       "scores": {
-        "sc_1y_return": 0.1818,
+        "sc_1y_return": 0.1932,
         "sc_3y_return": 0.3866,
         "sc_5y_return": 0.7098,
         "sc_alpha": 0.4048,
         "sc_volatility": 0.8878,
         "sc_drawdown": 0.3032,
         "sc_momentum": 0.1256,
-        "sc_outperformance": 0.1005,
-        "sc_positive_return": 0.5066,
-        "sc_persistence": 0.094,
+        "sc_outperformance": 0.1041,
+        "sc_positive_return": 0.504,
+        "sc_persistence": 0.0889,
         "sc_upside_capture": 0.3155,
         "sc_downside_capture": 0.5226,
         "sc_recovery": 0.0691,
@@ -102215,16 +102215,16 @@
         "roll_stability": 0.1999
       },
       "scores": {
-        "sc_1y_return": 0.5999,
+        "sc_1y_return": 0.6441,
         "sc_3y_return": 0.9366,
         "sc_5y_return": null,
         "sc_alpha": 0.9668,
         "sc_volatility": 0.4127,
         "sc_drawdown": 0.4713,
         "sc_momentum": 0.303,
-        "sc_outperformance": 0.9513,
-        "sc_positive_return": 0.893,
-        "sc_persistence": 0.9875,
+        "sc_outperformance": 0.9515,
+        "sc_positive_return": 0.8924,
+        "sc_persistence": 0.9874,
         "sc_upside_capture": 0.6696,
         "sc_downside_capture": 0.5073,
         "sc_recovery": 0.146,
@@ -104674,7 +104674,7 @@
     "DEBT-SHORT": {
       "cagr_1y": {
         "p25": 5.23642,
-        "p75": 6.570228,
+        "p75": 6.571187,
         "higher_is_better": true
       },
       "cagr_3y": {
@@ -104689,7 +104689,7 @@
       },
       "std_dev": {
         "p25": 0.12945,
-        "p75": 3.62635,
+        "p75": 3.6261,
         "higher_is_better": false
       },
       "max_dd": {
@@ -104744,7 +104744,7 @@
       },
       "roll_stability": {
         "p25": 0.09439,
-        "p75": 0.91638,
+        "p75": 0.91656,
         "higher_is_better": true
       }
     },
@@ -105779,8 +105779,8 @@
     },
     "EQ-OTHER": {
       "cagr_1y": {
-        "p25": 19.481577,
-        "p75": 52.685909,
+        "p25": 19.570445,
+        "p75": 50.358057,
         "higher_is_better": true
       },
       "cagr_3y": {
@@ -105814,17 +105814,17 @@
         "higher_is_better": true
       },
       "outperformance_pct": {
-        "p25": 48.58988,
+        "p25": 48.57406,
         "p75": 52.48844,
         "higher_is_better": true
       },
       "positive_return_pct": {
-        "p25": 50.65486,
+        "p25": 50.68342,
         "p75": 56.186,
         "higher_is_better": true
       },
       "persistence_score": {
-        "p25": 33.1707,
+        "p25": 33.44554,
         "p75": 82.0079,
         "higher_is_better": true
       },

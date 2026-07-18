@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T05:19:21.932106",
+ "generated_at": "2026-07-18T08:34:51.513646",
  "count": 1638,
  "funds": {
   "119550": {
@@ -1450,8 +1450,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Capitalmind Mutual Fund",
    "ter_pct": null,
-   "data_points": 186,
-   "last_updated": "2026-07-17",
+   "data_points": 187,
+   "last_updated": "2026-07-18",
    "error": ""
   },
   "119125": {
@@ -1472,8 +1472,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.08,
-   "data_points": 3026,
-   "last_updated": "2026-07-17",
+   "data_points": 3027,
+   "last_updated": "2026-07-18",
    "error": ""
   },
   "118577": {
@@ -1648,8 +1648,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "LIC Mutual Fund",
    "ter_pct": null,
-   "data_points": 4259,
-   "last_updated": "2026-07-18",
+   "data_points": 4260,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "139538": {
@@ -1714,8 +1714,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "PGIM India Mutual Fund",
    "ter_pct": 0.12,
-   "data_points": 3303,
-   "last_updated": "2026-07-17",
+   "data_points": 3304,
+   "last_updated": "2026-07-18",
    "error": ""
   },
   "143269": {
@@ -1747,8 +1747,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Quantum Mutual Fund",
    "ter_pct": null,
-   "data_points": 6012,
-   "last_updated": "2026-07-18",
+   "data_points": 6013,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "119800": {
@@ -1813,8 +1813,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Trust Mutual Fund",
    "ter_pct": null,
-   "data_points": 1591,
-   "last_updated": "2026-07-17",
+   "data_points": 1592,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "153570": {
@@ -1824,8 +1824,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Unifi Mutual Fund",
    "ter_pct": null,
-   "data_points": 347,
-   "last_updated": "2026-07-17",
+   "data_points": 348,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "119303": {
@@ -2990,8 +2990,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.11,
-   "data_points": 2232,
-   "last_updated": "2026-07-17",
+   "data_points": 2233,
+   "last_updated": "2026-07-18",
    "error": ""
   },
   "147214": {
@@ -3133,8 +3133,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "LIC Mutual Fund",
    "ter_pct": null,
-   "data_points": 2191,
-   "last_updated": "2026-07-18",
+   "data_points": 2192,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "147564": {
@@ -3188,8 +3188,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "PGIM India Mutual Fund",
    "ter_pct": 0.1,
-   "data_points": 2243,
-   "last_updated": "2026-07-17",
+   "data_points": 2244,
+   "last_updated": "2026-07-18",
    "error": ""
   },
   "151190": {
@@ -3265,8 +3265,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "Trust Mutual Fund",
    "ter_pct": null,
-   "data_points": 1369,
-   "last_updated": "2026-07-17",
+   "data_points": 1370,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "147003": {
@@ -3287,8 +3287,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "UTI Mutual Fund",
    "ter_pct": 0.06,
-   "data_points": 3789,
-   "last_updated": "2026-07-17",
+   "data_points": 3790,
+   "last_updated": "2026-07-18",
    "error": ""
   },
   "153436": {
@@ -8160,8 +8160,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": 0.98,
-   "data_points": 579,
-   "last_updated": "2026-07-16",
+   "data_points": 580,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "153118": {
@@ -8578,8 +8578,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": null,
-   "data_points": 2614,
-   "last_updated": "2026-07-16",
+   "data_points": 2615,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "153039": {
@@ -10019,8 +10019,8 @@
    "amfi_category": "Fund of Funds Scheme (Domestic)",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 53,
-   "last_updated": "2026-07-16",
+   "data_points": 54,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "120605": {
@@ -11900,8 +11900,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 1446,
-   "last_updated": "2026-07-16",
+   "data_points": 1447,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "153987": {
@@ -12230,8 +12230,8 @@
    "amfi_category": "Liquid Fund",
    "amc": "UTI Mutual Fund",
    "ter_pct": null,
-   "data_points": 4465,
-   "last_updated": "2026-07-17",
+   "data_points": 4466,
+   "last_updated": "2026-07-18",
    "error": ""
   },
   "119746": {
@@ -12516,8 +12516,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Axis Mutual Fund",
    "ter_pct": null,
-   "data_points": 141,
-   "last_updated": "2026-07-16",
+   "data_points": 142,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "150615": {
@@ -12615,8 +12615,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "DSP Mutual Fund",
    "ter_pct": null,
-   "data_points": 92,
-   "last_updated": "2026-07-16",
+   "data_points": 93,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "147857": {
@@ -12934,8 +12934,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 3314,
-   "last_updated": "2026-07-16",
+   "data_points": 3315,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "154275": {
@@ -13594,8 +13594,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 3221,
-   "last_updated": "2026-07-16",
+   "data_points": 3222,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "149059": {
@@ -13616,8 +13616,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 1209,
-   "last_updated": "2026-07-16",
+   "data_points": 1210,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "154287": {
@@ -13627,8 +13627,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 69,
-   "last_updated": "2026-07-16",
+   "data_points": 70,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "133831": {
@@ -13649,8 +13649,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 1244,
-   "last_updated": "2026-07-16",
+   "data_points": 1245,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "133816": {
@@ -13693,8 +13693,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Navi Mutual Fund",
    "ter_pct": null,
-   "data_points": 1022,
-   "last_updated": "2026-07-16",
+   "data_points": 1023,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "149830": {
@@ -13704,8 +13704,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Navi Mutual Fund",
    "ter_pct": null,
-   "data_points": 1041,
-   "last_updated": "2026-07-16",
+   "data_points": 1042,
+   "last_updated": "2026-07-17",
    "error": ""
   },
   "138456": {
