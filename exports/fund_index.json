@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-18T14:25:23.439496",
+ "generated_at": "2026-07-19T02:16:04.519372",
  "count": 1638,
  "funds": {
   "119550": {
@@ -1373,8 +1373,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.21,
-   "data_points": 4309,
-   "last_updated": "2026-07-18",
+   "data_points": 4310,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "120389": {
@@ -1439,8 +1439,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Canara Robeco Mutual Fund",
    "ter_pct": 0.12,
-   "data_points": 4172,
-   "last_updated": "2026-07-18",
+   "data_points": 4173,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "154011": {
@@ -1527,8 +1527,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 4262,
-   "last_updated": "2026-07-17",
+   "data_points": 4263,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "120537": {
@@ -1560,8 +1560,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Jio BlackRock Mutual Fund",
    "ter_pct": null,
-   "data_points": 325,
-   "last_updated": "2026-07-18",
+   "data_points": 326,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "120406": {
@@ -1670,8 +1670,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Mirae Asset Mutual Fund",
    "ter_pct": 0.09,
-   "data_points": 4077,
-   "last_updated": "2026-07-18",
+   "data_points": 4078,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "145834": {
@@ -2902,8 +2902,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 2463,
-   "last_updated": "2026-07-18",
+   "data_points": 2464,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "146675": {
@@ -2968,8 +2968,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "Canara Robeco Mutual Fund",
    "ter_pct": 0.1,
-   "data_points": 1862,
-   "last_updated": "2026-07-18",
+   "data_points": 1863,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "146062": {
@@ -3045,8 +3045,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.1,
-   "data_points": 2372,
-   "last_updated": "2026-07-17",
+   "data_points": 2373,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "147883": {
@@ -3078,8 +3078,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "Jio BlackRock Mutual Fund",
    "ter_pct": null,
-   "data_points": 325,
-   "last_updated": "2026-07-18",
+   "data_points": 326,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "147837": {
@@ -3155,8 +3155,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "Mirae Asset Mutual Fund",
    "ter_pct": 0.07,
-   "data_points": 2049,
-   "last_updated": "2026-07-18",
+   "data_points": 2050,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "145810": {
@@ -3177,8 +3177,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "NJ Mutual Fund",
    "ter_pct": 0.05,
-   "data_points": 1100,
-   "last_updated": "2026-07-18",
+   "data_points": 1101,
+   "last_updated": "2026-07-19",
    "error": ""
   },
   "147606": {
