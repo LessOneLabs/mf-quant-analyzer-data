@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T08:03:27.055998",
+  "generated_at": "2026-07-20T06:10:54.285581",
   "funds_processed": 1638,
   "errors": 10,
   "discovered_category_map": {
@@ -76580,7 +76580,7 @@
         "sc_downside_freq": 0.3863,
         "sc_ter": 0.7446,
         "sc_avg_roll": 0.1585,
-        "sc_roll_stability": 0.2855
+        "sc_roll_stability": 0.2842
       },
       "missing_metrics": []
     },
@@ -76640,7 +76640,7 @@
         "sc_downside_freq": 0.6406,
         "sc_ter": 0.5543,
         "sc_avg_roll": 0.0813,
-        "sc_roll_stability": 0.2769
+        "sc_roll_stability": 0.2756
       },
       "missing_metrics": []
     },
@@ -76700,7 +76700,7 @@
         "sc_downside_freq": 0.9662,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.5196,
-        "sc_roll_stability": 0.824
+        "sc_roll_stability": 0.8204
       },
       "missing_metrics": []
     },
@@ -76760,7 +76760,7 @@
         "sc_downside_freq": 0.4933,
         "sc_ter": 0.2011,
         "sc_avg_roll": 0.483,
-        "sc_roll_stability": 0.5881
+        "sc_roll_stability": 0.5855
       },
       "missing_metrics": [
         "sc_5y_return"
@@ -77011,7 +77011,7 @@
         "sc_downside_freq": 0.4136,
         "sc_ter": null,
         "sc_avg_roll": 0.8872,
-        "sc_roll_stability": 0.8644
+        "sc_roll_stability": 0.8605
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -77089,54 +77089,54 @@
       "amfi_category": "FoF Overseas",
       "amc": "Baroda BNP Paribas Mutual Fund",
       "ter_pct": 0.54,
-      "data_points": 1032,
-      "last_updated": "2026-07-16",
+      "data_points": 1033,
+      "last_updated": "2026-07-17",
       "error": "",
       "metrics": {
-        "cagr_1m": 61.24504478362307,
-        "cagr_6m": 27.021661019608835,
-        "cagr_1y": 22.715764261733895,
-        "cagr_3y": 15.0842238680297,
+        "cagr_1m": 50.99550513115343,
+        "cagr_6m": 28.099364478232268,
+        "cagr_1y": 22.99647558593303,
+        "cagr_3y": 15.229041014239852,
         "cagr_5y": null,
-        "std_dev": 16.9438,
+        "std_dev": 16.9394,
         "max_drawdown": -17.734940230852832,
-        "beta": 0.2968,
-        "alpha": 12.2447,
-        "sharpe": 0.957,
-        "sortino": 1.5069,
-        "calmar": 1.2808,
-        "momentum": 7.6315,
-        "return_divergence": 7.6315,
-        "avg_roll_1y": 15.2577,
-        "min_roll_1y": -2.5319,
-        "max_roll_1y": 30.9641,
-        "outperformance_pct": 49.6605,
-        "positive_return_pct": 52.3763,
-        "persistence_score": 57.8947,
-        "upside_capture": 40.0019,
+        "beta": 0.2953,
+        "alpha": 12.4039,
+        "sharpe": 0.9739,
+        "sortino": 1.5345,
+        "calmar": 1.2967,
+        "momentum": 7.7674,
+        "return_divergence": 7.7674,
+        "avg_roll_1y": 14.9165,
+        "min_roll_1y": -1.7375,
+        "max_roll_1y": 30.0425,
+        "outperformance_pct": 49.6124,
+        "positive_return_pct": 52.3256,
+        "persistence_score": 63.1579,
+        "upside_capture": 39.6741,
         "downside_capture": 24.124,
         "recovery_months": 2.38,
         "recovery_score": 0.42,
         "downside_freq": 40.3846,
-        "roll_stability": 0.4512
+        "roll_stability": 0.4674
       },
       "scores": {
-        "sc_1y_return": 0.1151,
-        "sc_3y_return": 0.0622,
+        "sc_1y_return": 0.1239,
+        "sc_3y_return": 0.071,
         "sc_5y_return": null,
-        "sc_alpha": 0.0837,
-        "sc_volatility": 0.7324,
+        "sc_alpha": 0.0934,
+        "sc_volatility": 0.7327,
         "sc_drawdown": 0.074,
-        "sc_momentum": 0.1646,
-        "sc_outperformance": 0.2776,
-        "sc_positive_return": 0.3077,
-        "sc_persistence": 0.5035,
-        "sc_upside_capture": 0.4591,
+        "sc_momentum": 0.1693,
+        "sc_outperformance": 0.2653,
+        "sc_positive_return": 0.2984,
+        "sc_persistence": 0.6118,
+        "sc_upside_capture": 0.4505,
         "sc_downside_capture": 0.5686,
         "sc_recovery": 1.0,
         "sc_downside_freq": 0.4311,
         "sc_ter": 0.9348,
-        "sc_avg_roll": 0.4681,
+        "sc_avg_roll": 0.4468,
         "sc_roll_stability": 1.0
       },
       "missing_metrics": [
@@ -77261,7 +77261,7 @@
         "sc_downside_freq": 0.8149,
         "sc_ter": null,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.9953
+        "sc_roll_stability": 0.9909
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -77390,7 +77390,7 @@
         "sc_downside_freq": 0.9631,
         "sc_ter": null,
         "sc_avg_roll": 0.5868,
-        "sc_roll_stability": 0.639
+        "sc_roll_stability": 0.6361
       },
       "missing_metrics": [
         "sc_ter"
@@ -77696,7 +77696,7 @@
         "sc_downside_freq": 0.7838,
         "sc_ter": 0.9076,
         "sc_avg_roll": 0.3987,
-        "sc_roll_stability": 0.0929
+        "sc_roll_stability": 0.0925
       },
       "missing_metrics": []
     },
@@ -77756,7 +77756,7 @@
         "sc_downside_freq": 0.3717,
         "sc_ter": 0.663,
         "sc_avg_roll": 0.478,
-        "sc_roll_stability": 0.0659
+        "sc_roll_stability": 0.0656
       },
       "missing_metrics": []
     },
@@ -77816,7 +77816,7 @@
         "sc_downside_freq": 0.4855,
         "sc_ter": 0.7174,
         "sc_avg_roll": 0.9584,
-        "sc_roll_stability": 0.2009
+        "sc_roll_stability": 0.2
       },
       "missing_metrics": []
     },
@@ -77876,7 +77876,7 @@
         "sc_downside_freq": 0.5777,
         "sc_ter": 0.6087,
         "sc_avg_roll": 0.385,
-        "sc_roll_stability": 0.2867
+        "sc_roll_stability": 0.2854
       },
       "missing_metrics": []
     },
@@ -77936,7 +77936,7 @@
         "sc_downside_freq": 0.7787,
         "sc_ter": null,
         "sc_avg_roll": 0.6167,
-        "sc_roll_stability": 0.5567
+        "sc_roll_stability": 0.5543
       },
       "missing_metrics": [
         "sc_ter"
@@ -77998,7 +77998,7 @@
         "sc_downside_freq": 0.8524,
         "sc_ter": null,
         "sc_avg_roll": 0.7357,
-        "sc_roll_stability": 0.8775
+        "sc_roll_stability": 0.8736
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -78183,7 +78183,7 @@
         "sc_downside_freq": 0.6326,
         "sc_ter": 0.0,
         "sc_avg_roll": 0.1693,
-        "sc_roll_stability": 0.535
+        "sc_roll_stability": 0.5326
       },
       "missing_metrics": []
     },
@@ -78243,7 +78243,7 @@
         "sc_downside_freq": 0.5894,
         "sc_ter": 0.6902,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.7064
+        "sc_roll_stability": 0.7032
       },
       "missing_metrics": [
         "sc_5y_return"
@@ -78365,7 +78365,7 @@
         "sc_downside_freq": 0.6751,
         "sc_ter": 0.0652,
         "sc_avg_roll": 0.3249,
-        "sc_roll_stability": 0.1379
+        "sc_roll_stability": 0.1373
       },
       "missing_metrics": []
     },
@@ -78547,7 +78547,7 @@
         "sc_downside_freq": 0.4136,
         "sc_ter": null,
         "sc_avg_roll": 0.4748,
-        "sc_roll_stability": 0.3267
+        "sc_roll_stability": 0.3252
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -78745,7 +78745,7 @@
         "sc_downside_freq": 0.8524,
         "sc_ter": null,
         "sc_avg_roll": 0.2311,
-        "sc_roll_stability": 0.9279
+        "sc_roll_stability": 0.9238
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -78808,7 +78808,7 @@
         "sc_downside_freq": 0.7299,
         "sc_ter": null,
         "sc_avg_roll": 0.8057,
-        "sc_roll_stability": 0.6207
+        "sc_roll_stability": 0.6179
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -78997,7 +78997,7 @@
         "sc_downside_freq": 0.0,
         "sc_ter": 1.0,
         "sc_avg_roll": 0.6013,
-        "sc_roll_stability": 0.1937
+        "sc_roll_stability": 0.1929
       },
       "missing_metrics": [
         "sc_5y_return"
@@ -79059,7 +79059,7 @@
         "sc_downside_freq": 0.6609,
         "sc_ter": null,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.9918
+        "sc_roll_stability": 0.9873
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -79122,7 +79122,7 @@
         "sc_downside_freq": 0.8149,
         "sc_ter": null,
         "sc_avg_roll": 0.9535,
-        "sc_roll_stability": 0.9785
+        "sc_roll_stability": 0.9741
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -79245,7 +79245,7 @@
         "sc_downside_freq": 0.5794,
         "sc_ter": 0.7446,
         "sc_avg_roll": 0.6219,
-        "sc_roll_stability": 0.3253
+        "sc_roll_stability": 0.3239
       },
       "missing_metrics": []
     },
@@ -79305,7 +79305,7 @@
         "sc_downside_freq": 0.3455,
         "sc_ter": 0.9076,
         "sc_avg_roll": 0.0373,
-        "sc_roll_stability": 0.453
+        "sc_roll_stability": 0.451
       },
       "missing_metrics": [
         "sc_5y_return"
@@ -79367,7 +79367,7 @@
         "sc_downside_freq": 0.6035,
         "sc_ter": null,
         "sc_avg_roll": 0.6482,
-        "sc_roll_stability": 0.6183
+        "sc_roll_stability": 0.6155
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -79430,7 +79430,7 @@
         "sc_downside_freq": 0.4098,
         "sc_ter": null,
         "sc_avg_roll": 0.1414,
-        "sc_roll_stability": 0.2051
+        "sc_roll_stability": 0.2042
       },
       "missing_metrics": [
         "sc_ter"
@@ -102155,7 +102155,7 @@
         "sc_downside_freq": 0.7102,
         "sc_ter": null,
         "sc_avg_roll": 1.0,
-        "sc_roll_stability": 0.8327
+        "sc_roll_stability": 0.8289
       },
       "missing_metrics": [
         "sc_5y_return",
@@ -105784,7 +105784,7 @@
       },
       "roll_stability": {
         "p25": -1.0,
-        "p75": 0.44106,
+        "p75": 0.44754,
         "higher_is_better": true
       }
     },
