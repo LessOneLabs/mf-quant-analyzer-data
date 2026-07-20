@@ -3,33 +3,227 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>MF Quant Analyzer — Free Mutual Fund Ranking Tool (India)</title>
-<meta name="description" content="A free, open, quantitative ranking tool for the Indian direct-growth mutual fund universe. Updated daily.">
+<title>MF Quant Analyzer — Free Quantitative Mutual Fund Ranking Tool (India)</title>
+<meta name="description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe — ~1,600+ funds across 16 classifications, ranked on a transparent 17-metric, 5-card score with fully user-adjustable weights. Updated daily. No login, no cost, no affiliation with any AMC.">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="https://lessonelabs.github.io/mf-quant-analyzer-data/">
+
+<!-- Open Graph -->
+<meta property="og:type" content="website">
+<meta property="og:title" content="MF Quant Analyzer — Free Quantitative Mutual Fund Ranking Tool (India)">
+<meta property="og:description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Transparent 17-metric scoring, fully adjustable weights, updated daily. No login required.">
+<meta property="og:url" content="https://lessonelabs.github.io/mf-quant-analyzer-data/">
+<meta property="og:site_name" content="MF Quant Analyzer">
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="MF Quant Analyzer — Free Quantitative Mutual Fund Ranking Tool (India)">
+<meta name="twitter:description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Transparent 17-metric scoring, fully adjustable weights, updated daily.">
+
+<!-- Structured data: what this is, in a form search/AI engines can parse directly -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "MF Quant Analyzer",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Windows, macOS, Web (Excel/Spreadsheet)",
+  "url": "https://lessonelabs.github.io/mf-quant-analyzer-data/",
+  "description": "A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Ranks ~1,600+ funds across 16 classifications using a transparent, 17-metric, 5-card composite score (Returns, Risk, Consistency, Regime, Efficiency) computed within each fund's peer category. All scoring weights are user-adjustable in the spreadsheet itself. Updated daily via an automated pipeline. Distributed as an Excel workbook (with and without live-refresh macros) and as raw JSON. No login, no cost, no data collection, no affiliation with any Asset Management Company, SEBI, or AMFI.",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "INR"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "LessOneLabs"
+  },
+  "isAccessibleForFree": true,
+  "featureList": [
+    "Ranks Indian direct-growth mutual funds within 16 peer classifications",
+    "17 independently-computed metrics across 5 weighted cards: Returns, Risk, Consistency, Regime, Efficiency",
+    "All scoring weights are user-adjustable, live in the spreadsheet",
+    "Updated daily from AMFI NAV data",
+    "Transparent, documented methodology — no black-box score",
+    "Available as a live-refreshing Excel workbook, a static Excel snapshot, and raw JSON",
+    "Free, open, no login or account required"
+  ]
+}
+</script>
+
 <style>
-  body { font-family: -apple-system, Segoe UI, Calibri, sans-serif; max-width: 720px; margin: 60px auto; padding: 0 20px; color: #1a1a2e; line-height: 1.6; }
-  h1 { color: #1F3864; }
-  .tagline { color: #595959; font-style: italic; margin-top: -10px; }
+  body { font-family: -apple-system, Segoe UI, Calibri, sans-serif; max-width: 760px; margin: 60px auto; padding: 0 20px; color: #1a1a2e; line-height: 1.6; }
+  h1 { color: #1F3864; margin-bottom: 4px; }
+  h2 { color: #1F3864; margin-top: 44px; border-bottom: 2px solid #2E6E7E; padding-bottom: 6px; }
+  h3 { color: #2E6E7E; margin-top: 24px; }
+  .tagline { color: #595959; font-style: italic; margin-top: 0; }
   .card { background: #F2F2F2; border-radius: 8px; padding: 20px; margin: 20px 0; }
-  a.button { display: inline-block; background: #2E6E7E; color: white; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin: 6px 6px 6px 0; }
+  a.button { display: inline-block; background: #2E6E7E; color: white; padding: 10px 18px; border-radius: 6px; text-decoration: none; margin: 6px 6px 6px 0; font-weight: 600; }
   a.button:hover { background: #1F3864; }
-  .disclaimer { font-size: 0.85em; color: #595959; border-top: 1px solid #ddd; padding-top: 16px; margin-top: 40px; }
+  a { color: #1F3864; }
+  .stats { display: flex; flex-wrap: wrap; gap: 24px; margin: 20px 0; }
+  .stat { flex: 1; min-width: 130px; }
+  .stat .num { font-size: 1.6em; font-weight: 700; color: #2E6E7E; }
+  .stat .label { color: #595959; font-size: 0.9em; }
+  .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 14px; margin: 18px 0; }
+  .card-item { background: #fff; border: 1px solid #ddd; border-left: 4px solid #2E6E7E; border-radius: 6px; padding: 12px 14px; }
+  .card-item strong { color: #1F3864; }
+  details { background: #fff; border: 1px solid #e0e0e0; border-radius: 6px; padding: 10px 16px; margin: 10px 0; }
+  summary { font-weight: 600; cursor: pointer; color: #1F3864; }
+  code { background: #eef1f4; padding: 1px 6px; border-radius: 4px; font-size: 0.9em; }
+  .disclaimer { font-size: 0.85em; color: #595959; border-top: 1px solid #ddd; padding-top: 16px; margin-top: 48px; }
+  footer { margin-top: 40px; font-size: 0.85em; color: #888; }
 </style>
 </head>
 <body>
   <h1>MF Quant Analyzer</h1>
-  <p class="tagline">A free, open, quantitative ranking tool for the Indian direct-growth mutual fund universe.</p>
+  <p class="tagline">A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe.</p>
+
+  <div class="stats">
+    <div class="stat"><div class="num">~1,600+</div><div class="label">funds tracked</div></div>
+    <div class="stat"><div class="num">16</div><div class="label">peer classifications</div></div>
+    <div class="stat"><div class="num">17</div><div class="label">independently-scored metrics</div></div>
+    <div class="stat"><div class="num">5</div><div class="label">weighted score cards</div></div>
+    <div class="stat"><div class="num">Daily</div><div class="label">automatic refresh</div></div>
+  </div>
 
   <div class="card">
-    <p><strong>Download:</strong></p>
-    <a class="button" href="../../releases/tag/latest">📊 Live Workbook (.xlsm, one-click refresh)</a>
-    <a class="button" href="../../releases/tag/latest">📄 Snapshot Workbook (.xlsx, no macros)</a>
+    <p><strong>Download the latest build:</strong></p>
+    <a class="button" href="https://github.com/LessOneLabs/mf-quant-analyzer-data/releases/latest/download/MF_Quant_Analyzer_Live.xlsm">📊 Live Workbook (.xlsm, one-click refresh)</a>
+    <a class="button" href="https://github.com/LessOneLabs/mf-quant-analyzer-data/releases/latest/download/MF_Quant_Analyzer_Snapshot.xlsx">📄 Snapshot Workbook (.xlsx, no macros, cross-platform)</a>
     <a class="button" href="exports/metrics_latest.json">🔗 Raw Data (JSON)</a>
   </div>
 
-  <p>Updated daily. ~1,600+ funds across 16 classifications, ranked within
-  category using a multi-factor quantitative score (Returns, Risk,
-  Consistency, Regime, Efficiency) — fully adjustable weights, transparent
-  methodology, no login required.</p>
+  <h2>What this actually is</h2>
+  <p>Most "top mutual funds" lists online just sort by trailing return —
+  whichever fund happened to go up the most recently tops the list, which
+  says more about which category was in fashion than which fund is
+  actually well-run. MF Quant Analyzer instead scores every fund on 17
+  separate, independently-computed metrics — return, risk, consistency,
+  behavior in different market regimes, and cost — then blends them into
+  one score per fund, compared only against its own peer category (a
+  small-cap fund is never compared against a liquid fund). The blend
+  weights are not fixed by us: they live in the spreadsheet itself, and
+  you can change them and watch every rank recalculate instantly.</p>
+
+  <h3>The 5 cards</h3>
+  <div class="card-grid">
+    <div class="card-item"><strong>Returns</strong><br>1Y / 3Y / 5Y CAGR, Alpha vs. category benchmark, Momentum, Average Rolling Return</div>
+    <div class="card-item"><strong>Risk</strong><br>Volatility, Max Drawdown, Recovery Score, Downside Frequency</div>
+    <div class="card-item"><strong>Consistency</strong><br>Outperformance %, Positive Return %, Rolling Stability, Persistence</div>
+    <div class="card-item"><strong>Regime</strong><br>Upside Capture, Downside Capture</div>
+    <div class="card-item"><strong>Efficiency</strong><br>Total Expense Ratio</div>
+  </div>
+
+  <h3>What makes it different</h3>
+  <ul>
+    <li><strong>No fabricated data.</strong> A metric that can't be
+    computed for a fund (e.g. 5-year CAGR for a 3-year-old fund) stays
+    blank, never filled in with a zero or a category average — the
+    fund's score is computed from whatever metrics it does have, with
+    weights automatically redistributed across them.</li>
+    <li><strong>Fully transparent, fully adjustable.</strong> Every
+    formula is a visible Excel formula, not a hidden model. Change any
+    card or metric weight and every rank recalculates live, in the
+    spreadsheet, on your own machine.</li>
+    <li><strong>Peer-relative, not universe-relative.</strong> Funds are
+    scored against the other funds in their own classification, so a
+    steady debt fund is never unfairly compared against a volatile
+    small-cap fund.</li>
+    <li><strong>Free and self-hosted.</strong> No login, no account, no
+    tracking, no subscription. Download the file and it's yours.</li>
+  </ul>
+
+  <h2>Who this is for</h2>
+  <p>Built for someone who wants to look past this year's headline
+  return and understand how a fund has actually behaved — how it holds
+  up in a drawdown, how consistent its outperformance has been, what
+  it costs. That includes funds with a shorter track record: this tool
+  deliberately does not exclude a fund just because it's only 2-3 years
+  old — a genuinely strong young fund is exactly the kind of opportunity
+  a purely tenure-gated ranking (the kind most rating agencies use) would
+  filter out before you ever saw it.</p>
+
+  <h2>How it works</h2>
+  <ol>
+    <li>An automated daily pipeline pulls official NAV data published by
+    AMFI (Association of Mutual Funds in India) for the entire
+    direct-growth fund universe.</li>
+    <li>17 metrics are computed per fund — returns, risk, consistency,
+    market-regime behavior, and cost — each independently normalized
+    within the fund's own peer classification.</li>
+    <li>The 17 metrics roll up into 5 cards, and the 5 cards roll up into
+    one Final Score per fund — using weights you can see and change
+    yourself, live, in the workbook.</li>
+    <li>Everything is republished daily: a live-refreshing Excel workbook,
+    a static Excel snapshot for anyone without macros enabled, and the
+    raw JSON behind both.</li>
+  </ol>
+
+  <h2>Frequently asked questions</h2>
+
+  <details>
+    <summary>Is this free?</summary>
+    <p>Yes, entirely. No account, no login, no paid tier, no data
+    collection. Download the workbook or the JSON and it's yours.</p>
+  </details>
+  <details>
+    <summary>Is this investment advice?</summary>
+    <p>No. This is an informational and educational quantitative ranking
+    tool, not investment advice. See the full disclaimer below — read it
+    before acting on anything here.</p>
+  </details>
+  <details>
+    <summary>How is this different from a star rating (Value Research, Morningstar, CRISIL)?</summary>
+    <p>Those systems typically require a minimum track record (often 3
+    years) before rating a fund at all, and don't expose their scoring
+    weights for you to adjust. MF Quant Analyzer scores every fund on
+    whatever history it has, redistributing weight across the metrics
+    actually available, and every weight is visible and editable in the
+    spreadsheet — nothing is a black box.</p>
+  </details>
+  <details>
+    <summary>Why does a young fund sometimes rank above an established one?</summary>
+    <p>Because this tool doesn't require a minimum track record to be
+    ranked — a genuinely strong young fund is exactly the kind of
+    opportunity it's built to surface, not filter out. That said, a
+    shorter history means fewer data points behind some of the metrics
+    (like Persistence or Rolling Stability), so it's worth checking the
+    "History (Years)" and "Coverage %" columns in Ranking Summary
+    alongside the rank, not just the rank in isolation.</p>
+  </details>
+  <details>
+    <summary>What funds are covered?</summary>
+    <p>Direct-growth plans across the Indian mutual fund universe —
+    equity, debt, hybrid, and index funds — split into 16 peer
+    classifications so funds are only ever compared against similar
+    funds.</p>
+  </details>
+  <details>
+    <summary>How often is it updated?</summary>
+    <p>Daily, via an automated pipeline that pulls the latest AMFI NAV
+    data and republishes both workbooks and the raw JSON.</p>
+  </details>
+  <details>
+    <summary>Do I need Excel macros enabled?</summary>
+    <p>Only for the Live workbook's one-click refresh button. The
+    Snapshot workbook has identical sheets, formulas, and fully
+    adjustable weights, but no macros — it works in any spreadsheet
+    application, including on Mac and outside Excel entirely.</p>
+  </details>
+  <details>
+    <summary>Is the source code available?</summary>
+    <p>The data pipeline and scoring engine are maintained privately;
+    the published data (daily JSON, both Excel workbooks, and this site)
+    are public and free to use, under LessOneLabs on GitHub.</p>
+  </details>
+  <details>
+    <summary>Is this affiliated with AMFI, SEBI, or any fund house?</summary>
+    <p>No. This project has no affiliation with any Asset Management
+    Company, SEBI, or AMFI. It uses AMFI's publicly published NAV data
+    as an input, nothing more.</p>
+  </details>
 
   <div class="disclaimer">
     <strong>Disclaimer:</strong> This tool is for informational and
@@ -39,5 +233,10 @@
     is not indicative of future returns. This project has no affiliation
     with any AMC, SEBI, or AMFI.
   </div>
+
+  <footer>
+    Built and maintained by <a href="https://github.com/LessOneLabs">LessOneLabs</a>.
+    Machine-readable summary: <a href="llms.txt">llms.txt</a>.
+  </footer>
 </body>
 </html>
