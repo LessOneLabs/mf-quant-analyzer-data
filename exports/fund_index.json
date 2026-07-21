@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-07-20T17:25:56.080545",
+ "generated_at": "2026-07-21T05:44:15.132745",
  "count": 1638,
  "funds": {
   "119550": {
@@ -75,8 +75,8 @@
    "amfi_category": "Debt Scheme - Banking and PSU Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.39,
-   "data_points": 2334,
-   "last_updated": "2026-07-17",
+   "data_points": 2335,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "129008": {
@@ -97,8 +97,8 @@
    "amfi_category": "Debt Scheme - Banking and PSU Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.39,
-   "data_points": 2971,
-   "last_updated": "2026-07-17",
+   "data_points": 2972,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151107": {
@@ -317,8 +317,8 @@
    "amfi_category": "Debt Scheme - Corporate Bond Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.36,
-   "data_points": 3270,
-   "last_updated": "2026-07-17",
+   "data_points": 3271,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150996": {
@@ -537,8 +537,8 @@
    "amfi_category": "Debt Scheme - Credit Risk Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.97,
-   "data_points": 2972,
-   "last_updated": "2026-07-17",
+   "data_points": 2973,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151045": {
@@ -724,8 +724,8 @@
    "amfi_category": "Dynamic Bond",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.74,
-   "data_points": 3270,
-   "last_updated": "2026-07-17",
+   "data_points": 3271,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151087": {
@@ -944,8 +944,8 @@
    "amfi_category": "Debt Scheme - Floater Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.26,
-   "data_points": 3271,
-   "last_updated": "2026-07-17",
+   "data_points": 3272,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120425": {
@@ -1098,8 +1098,8 @@
    "amfi_category": "Debt Scheme - Gilt Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.47,
-   "data_points": 2334,
-   "last_updated": "2026-07-17",
+   "data_points": 2335,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118498": {
@@ -1131,8 +1131,8 @@
    "amfi_category": "Debt Scheme - Gilt Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.46,
-   "data_points": 3270,
-   "last_updated": "2026-07-17",
+   "data_points": 3271,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151014": {
@@ -1472,8 +1472,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.08,
-   "data_points": 3028,
-   "last_updated": "2026-07-19",
+   "data_points": 3029,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118577": {
@@ -1505,8 +1505,8 @@
    "amfi_category": "Debt Scheme - Liquid Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 4179,
-   "last_updated": "2026-07-19",
+   "data_points": 4180,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120038": {
@@ -1901,8 +1901,8 @@
    "amfi_category": "Debt Scheme - Long Duration Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.25,
-   "data_points": 842,
-   "last_updated": "2026-07-17",
+   "data_points": 843,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120743": {
@@ -2055,8 +2055,8 @@
    "amfi_category": "Debt Scheme - Low Duration Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 319,
-   "last_updated": "2026-07-17",
+   "data_points": 320,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153368": {
@@ -2088,8 +2088,8 @@
    "amfi_category": "Debt Scheme - Low Duration Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3271,
-   "last_updated": "2026-07-17",
+   "data_points": 3272,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151117": {
@@ -2198,8 +2198,8 @@
    "amfi_category": "Debt Scheme - Low Duration Fund",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": null,
-   "data_points": 3267,
-   "last_updated": "2026-07-17",
+   "data_points": 3268,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119812": {
@@ -2319,8 +2319,8 @@
    "amfi_category": "Debt Scheme - Medium Duration Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.6,
-   "data_points": 3270,
-   "last_updated": "2026-07-17",
+   "data_points": 3271,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151146": {
@@ -2484,8 +2484,8 @@
    "amfi_category": "Debt Scheme - Medium to Long Duration Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.8,
-   "data_points": 3270,
-   "last_updated": "2026-07-17",
+   "data_points": 3271,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120059": {
@@ -2671,8 +2671,8 @@
    "amfi_category": "Debt Scheme - Money Market Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.15,
-   "data_points": 2334,
-   "last_updated": "2026-07-17",
+   "data_points": 2335,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118506": {
@@ -2704,8 +2704,8 @@
    "amfi_category": "Debt Scheme - Money Market Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.23,
-   "data_points": 3598,
-   "last_updated": "2026-07-17",
+   "data_points": 3599,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151054": {
@@ -2990,8 +2990,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.11,
-   "data_points": 2234,
-   "last_updated": "2026-07-19",
+   "data_points": 2235,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "147214": {
@@ -3023,8 +3023,8 @@
    "amfi_category": "Debt Scheme - Overnight Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.1,
-   "data_points": 4170,
-   "last_updated": "2026-07-19",
+   "data_points": 4171,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "147287": {
@@ -3408,8 +3408,8 @@
    "amfi_category": "Debt Scheme - Short Duration Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3270,
-   "last_updated": "2026-07-17",
+   "data_points": 3271,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151067": {
@@ -3694,8 +3694,8 @@
    "amfi_category": "Debt Scheme - Ultra Short Duration Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 1890,
-   "last_updated": "2026-07-17",
+   "data_points": 1891,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "147908": {
@@ -3804,8 +3804,8 @@
    "amfi_category": "Debt Scheme - Ultra Short Duration Fund",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": null,
-   "data_points": 1975,
-   "last_updated": "2026-07-17",
+   "data_points": 1976,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "138358": {
@@ -3914,8 +3914,8 @@
    "amfi_category": "Equity Scheme - Contra Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": 0.58,
-   "data_points": 3338,
-   "last_updated": "2026-07-17",
+   "data_points": 3339,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151165": {
@@ -4024,8 +4024,8 @@
    "amfi_category": "Equity Scheme - ELSS",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 3317,
-   "last_updated": "2026-07-17",
+   "data_points": 3318,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118540": {
@@ -4057,8 +4057,8 @@
    "amfi_category": "Equity Scheme - ELSS",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 1.08,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118929": {
@@ -4497,8 +4497,8 @@
    "amfi_category": "Equity Scheme - Flexi Cap Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.46,
-   "data_points": 2377,
-   "last_updated": "2026-07-17",
+   "data_points": 2378,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118535": {
@@ -4519,8 +4519,8 @@
    "amfi_category": "Equity Scheme - Flexi Cap Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.78,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152135": {
@@ -4717,8 +4717,8 @@
    "amfi_category": "Equity Scheme - Flexi Cap Fund",
    "amc": "PPFAS Mutual Fund",
    "ter_pct": 0.63,
-   "data_points": 3231,
-   "last_updated": "2026-07-17",
+   "data_points": 3232,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120843": {
@@ -4750,8 +4750,8 @@
    "amfi_category": "Equity Scheme - Flexi Cap Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": 0.82,
-   "data_points": 3335,
-   "last_updated": "2026-07-17",
+   "data_points": 3336,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "144905": {
@@ -4948,8 +4948,8 @@
    "amfi_category": "Equity Scheme - Focused Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.65,
-   "data_points": 972,
-   "last_updated": "2026-07-17",
+   "data_points": 973,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118564": {
@@ -4970,8 +4970,8 @@
    "amfi_category": "Equity Scheme - Focused Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148411": {
@@ -5124,8 +5124,8 @@
    "amfi_category": "Equity Scheme - Focused Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 3338,
-   "last_updated": "2026-07-17",
+   "data_points": 3339,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149533": {
@@ -5190,8 +5190,8 @@
    "amfi_category": "Equity Scheme - Large & Mid Cap Fund",
    "amc": "Axis Mutual Fund",
    "ter_pct": null,
-   "data_points": 1907,
-   "last_updated": "2026-07-17",
+   "data_points": 1908,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152408": {
@@ -5267,8 +5267,8 @@
    "amfi_category": "Equity Scheme - Large & Mid Cap Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.45,
-   "data_points": 2377,
-   "last_updated": "2026-07-17",
+   "data_points": 2378,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118510": {
@@ -5289,8 +5289,8 @@
    "amfi_category": "Equity Scheme - Large & Mid Cap Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.84,
-   "data_points": 2963,
-   "last_updated": "2026-07-17",
+   "data_points": 2964,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152941": {
@@ -5476,8 +5476,8 @@
    "amfi_category": "Equity Scheme - Large & Mid Cap Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 3338,
-   "last_updated": "2026-07-17",
+   "data_points": 3339,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119566": {
@@ -5641,8 +5641,8 @@
    "amfi_category": "Equity Scheme - Large Cap Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 3328,
-   "last_updated": "2026-07-17",
+   "data_points": 3329,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118531": {
@@ -5652,8 +5652,8 @@
    "amfi_category": "Equity Scheme - Large Cap Fund",
    "amc": "Franklin Templeton Mutual Fund",
    "ter_pct": null,
-   "data_points": 3331,
-   "last_updated": "2026-07-17",
+   "data_points": 3332,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119133": {
@@ -5674,8 +5674,8 @@
    "amfi_category": "Equity Scheme - Large Cap Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120030": {
@@ -6015,8 +6015,8 @@
    "amfi_category": "Equity Scheme - Mid Cap Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.36,
-   "data_points": 2377,
-   "last_updated": "2026-07-17",
+   "data_points": 2378,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118533": {
@@ -6037,8 +6037,8 @@
    "amfi_category": "Equity Scheme - Mid Cap Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153326": {
@@ -6378,8 +6378,8 @@
    "amfi_category": "Equity Scheme - Multi Cap Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.26,
-   "data_points": 669,
-   "last_updated": "2026-07-17",
+   "data_points": 670,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152739": {
@@ -6411,8 +6411,8 @@
    "amfi_category": "Equity Scheme - Multi Cap Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.6,
-   "data_points": 1133,
-   "last_updated": "2026-07-17",
+   "data_points": 1134,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151290": {
@@ -6664,8 +6664,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.96,
-   "data_points": 1135,
-   "last_updated": "2026-07-17",
+   "data_points": 1136,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119576": {
@@ -6708,8 +6708,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 0.75,
-   "data_points": 3329,
-   "last_updated": "2026-07-17",
+   "data_points": 3330,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148637": {
@@ -6741,8 +6741,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 1.93,
-   "data_points": 3329,
-   "last_updated": "2026-07-17",
+   "data_points": 3330,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119518": {
@@ -6774,8 +6774,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": 1.29,
-   "data_points": 3330,
-   "last_updated": "2026-07-17",
+   "data_points": 3331,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "147409": {
@@ -6884,8 +6884,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Axis Mutual Fund",
    "ter_pct": 1.27,
-   "data_points": 1374,
-   "last_updated": "2026-07-17",
+   "data_points": 1375,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153083": {
@@ -7247,8 +7247,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "DSP Mutual Fund",
    "ter_pct": 0.6,
-   "data_points": 1854,
-   "last_updated": "2026-07-17",
+   "data_points": 1855,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119247": {
@@ -7269,8 +7269,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "DSP Mutual Fund",
    "ter_pct": 0.97,
-   "data_points": 3236,
-   "last_updated": "2026-07-17",
+   "data_points": 3237,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "147306": {
@@ -7291,8 +7291,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.28,
-   "data_points": 484,
-   "last_updated": "2026-07-17",
+   "data_points": 485,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153214": {
@@ -7302,8 +7302,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 342,
-   "last_updated": "2026-07-17",
+   "data_points": 343,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154108": {
@@ -7313,8 +7313,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 101,
-   "last_updated": "2026-07-17",
+   "data_points": 102,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "142388": {
@@ -7324,8 +7324,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 1.0,
-   "data_points": 2065,
-   "last_updated": "2026-07-17",
+   "data_points": 2066,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152437": {
@@ -7335,8 +7335,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.57,
-   "data_points": 579,
-   "last_updated": "2026-07-17",
+   "data_points": 580,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118559": {
@@ -7379,8 +7379,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Franklin Templeton Mutual Fund",
    "ter_pct": 0.5,
-   "data_points": 3331,
-   "last_updated": "2026-07-17",
+   "data_points": 3332,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118537": {
@@ -7390,8 +7390,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Franklin Templeton Mutual Fund",
    "ter_pct": 1.09,
-   "data_points": 3329,
-   "last_updated": "2026-07-17",
+   "data_points": 3330,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152254": {
@@ -7412,8 +7412,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.68,
-   "data_points": 1242,
-   "last_updated": "2026-07-17",
+   "data_points": 1243,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150805": {
@@ -7423,8 +7423,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.78,
-   "data_points": 893,
-   "last_updated": "2026-07-17",
+   "data_points": 894,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151804": {
@@ -7434,8 +7434,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 741,
-   "last_updated": "2026-07-17",
+   "data_points": 742,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151750": {
@@ -7445,8 +7445,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.73,
-   "data_points": 768,
-   "last_updated": "2026-07-17",
+   "data_points": 769,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "141924": {
@@ -7456,8 +7456,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 1.21,
-   "data_points": 2119,
-   "last_updated": "2026-07-17",
+   "data_points": 2120,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118979": {
@@ -7467,8 +7467,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 1.11,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153620": {
@@ -7478,8 +7478,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 245,
-   "last_updated": "2026-07-17",
+   "data_points": 246,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152600": {
@@ -7489,8 +7489,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.43,
-   "data_points": 535,
-   "last_updated": "2026-07-17",
+   "data_points": 536,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151458": {
@@ -7500,8 +7500,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 1.22,
-   "data_points": 824,
-   "last_updated": "2026-07-17",
+   "data_points": 825,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152082": {
@@ -7511,8 +7511,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.95,
-   "data_points": 685,
-   "last_updated": "2026-07-17",
+   "data_points": 686,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152059": {
@@ -7522,8 +7522,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.96,
-   "data_points": 700,
-   "last_updated": "2026-07-17",
+   "data_points": 701,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151901": {
@@ -7533,8 +7533,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.94,
-   "data_points": 716,
-   "last_updated": "2026-07-17",
+   "data_points": 717,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152679": {
@@ -7643,8 +7643,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.71,
-   "data_points": 1351,
-   "last_updated": "2026-07-17",
+   "data_points": 1352,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "147662": {
@@ -7654,8 +7654,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.92,
-   "data_points": 1665,
-   "last_updated": "2026-07-17",
+   "data_points": 1666,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153867": {
@@ -7753,8 +7753,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.63,
-   "data_points": 790,
-   "last_updated": "2026-07-17",
+   "data_points": 791,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "147346": {
@@ -7764,8 +7764,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.98,
-   "data_points": 1744,
-   "last_updated": "2026-07-17",
+   "data_points": 1745,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150539": {
@@ -7819,8 +7819,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": null,
-   "data_points": 3330,
-   "last_updated": "2026-07-17",
+   "data_points": 3331,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150685": {
@@ -7841,8 +7841,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 1.15,
-   "data_points": 3221,
-   "last_updated": "2026-07-17",
+   "data_points": 3222,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153291": {
@@ -8160,8 +8160,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": 0.98,
-   "data_points": 580,
-   "last_updated": "2026-07-17",
+   "data_points": 581,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153118": {
@@ -8578,8 +8578,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": null,
-   "data_points": 2615,
-   "last_updated": "2026-07-17",
+   "data_points": 2616,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153039": {
@@ -8853,8 +8853,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 3339,
-   "last_updated": "2026-07-17",
+   "data_points": 3340,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119700": {
@@ -8908,8 +8908,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 100,
-   "last_updated": "2026-07-17",
+   "data_points": 101,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153154": {
@@ -8930,8 +8930,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "SBI Mutual Fund",
    "ter_pct": 0.84,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153076": {
@@ -9007,8 +9007,8 @@
    "amfi_category": "Sectoral/ Thematic",
    "amc": "Sundaram Mutual Fund",
    "ter_pct": null,
-   "data_points": 1920,
-   "last_updated": "2026-07-17",
+   "data_points": 1921,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "135793": {
@@ -9491,8 +9491,8 @@
    "amfi_category": "Equity Scheme - Small Cap Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.39,
-   "data_points": 1828,
-   "last_updated": "2026-07-17",
+   "data_points": 1829,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118525": {
@@ -9524,8 +9524,8 @@
    "amfi_category": "Equity Scheme - Small Cap Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.68,
-   "data_points": 2963,
-   "last_updated": "2026-07-17",
+   "data_points": 2964,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153912": {
@@ -9865,8 +9865,8 @@
    "amfi_category": "Equity Scheme - Value Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151113": {
@@ -10019,8 +10019,8 @@
    "amfi_category": "Fund of Funds Scheme (Domestic)",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 54,
-   "last_updated": "2026-07-17",
+   "data_points": 55,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120605": {
@@ -10140,8 +10140,8 @@
    "amfi_category": "Hybrid Scheme - Aggressive Hybrid Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 3329,
-   "last_updated": "2026-07-17",
+   "data_points": 3330,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118546": {
@@ -10173,8 +10173,8 @@
    "amfi_category": "Hybrid Scheme - Aggressive Hybrid Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 1.02,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151122": {
@@ -10294,8 +10294,8 @@
    "amfi_category": "Hybrid Scheme - Aggressive Hybrid Fund",
    "amc": "PGIM India Mutual Fund",
    "ter_pct": null,
-   "data_points": 2551,
-   "last_updated": "2026-07-17",
+   "data_points": 2552,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120819": {
@@ -10470,8 +10470,8 @@
    "amfi_category": "Hybrid Scheme - Arbitrage Fund",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 2964,
-   "last_updated": "2026-07-17",
+   "data_points": 2965,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153043": {
@@ -10503,8 +10503,8 @@
    "amfi_category": "Hybrid Scheme - Arbitrage Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3025,
-   "last_updated": "2026-07-17",
+   "data_points": 3026,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154257": {
@@ -10646,8 +10646,8 @@
    "amfi_category": "Hybrid Scheme - Arbitrage Fund",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": null,
-   "data_points": 3329,
-   "last_updated": "2026-07-17",
+   "data_points": 3330,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150367": {
@@ -10910,8 +10910,8 @@
    "amfi_category": "Hybrid Scheme - Conservative Hybrid Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 1.23,
-   "data_points": 3270,
-   "last_updated": "2026-07-17",
+   "data_points": 3271,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120073": {
@@ -11108,8 +11108,8 @@
    "amfi_category": "Dynamic Asset Allocation or Balanced Advantage",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 3318,
-   "last_updated": "2026-07-17",
+   "data_points": 3319,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150481": {
@@ -11130,8 +11130,8 @@
    "amfi_category": "Dynamic Asset Allocation or Balanced Advantage",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3332,
-   "last_updated": "2026-07-17",
+   "data_points": 3333,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151129": {
@@ -11493,8 +11493,8 @@
    "amfi_category": "Hybrid Scheme - Equity Savings",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.91,
-   "data_points": 3317,
-   "last_updated": "2026-07-17",
+   "data_points": 3318,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151060": {
@@ -11669,8 +11669,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "360 ONE Mutual Fund",
    "ter_pct": null,
-   "data_points": 216,
-   "last_updated": "2026-07-17",
+   "data_points": 217,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151307": {
@@ -11713,8 +11713,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "Bandhan Mutual Fund",
    "ter_pct": 0.42,
-   "data_points": 614,
-   "last_updated": "2026-07-17",
+   "data_points": 615,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152396": {
@@ -11768,8 +11768,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "DSP Mutual Fund",
    "ter_pct": 0.28,
-   "data_points": 639,
-   "last_updated": "2026-07-17",
+   "data_points": 640,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151792": {
@@ -11812,8 +11812,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.76,
-   "data_points": 3303,
-   "last_updated": "2026-07-17",
+   "data_points": 3304,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152380": {
@@ -11834,8 +11834,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.7,
-   "data_points": 3329,
-   "last_updated": "2026-07-17",
+   "data_points": 3330,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153047": {
@@ -11856,8 +11856,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 686,
-   "last_updated": "2026-07-17",
+   "data_points": 687,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153246": {
@@ -11900,8 +11900,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 1447,
-   "last_updated": "2026-07-17",
+   "data_points": 1448,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153987": {
@@ -11922,8 +11922,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "quant Mutual Fund",
    "ter_pct": null,
-   "data_points": 3328,
-   "last_updated": "2026-07-17",
+   "data_points": 3329,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152474": {
@@ -11944,8 +11944,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "Samco Mutual Fund",
    "ter_pct": null,
-   "data_points": 381,
-   "last_updated": "2026-07-17",
+   "data_points": 382,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119843": {
@@ -11988,8 +11988,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "Tata Mutual Fund",
    "ter_pct": null,
-   "data_points": 1564,
-   "last_updated": "2026-07-17",
+   "data_points": 1565,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153999": {
@@ -12032,8 +12032,8 @@
    "amfi_category": "Hybrid Scheme - Multi Asset Allocation",
    "amc": "WhiteOak Capital Mutual Fund",
    "ter_pct": 0.62,
-   "data_points": 764,
-   "last_updated": "2026-07-17",
+   "data_points": 765,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154392": {
@@ -12384,8 +12384,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 2841,
-   "last_updated": "2026-07-17",
+   "data_points": 2842,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "132183": {
@@ -12395,8 +12395,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 2841,
-   "last_updated": "2026-07-17",
+   "data_points": 2842,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "132186": {
@@ -12406,8 +12406,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 2841,
-   "last_updated": "2026-07-17",
+   "data_points": 2842,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120546": {
@@ -12428,8 +12428,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 2841,
-   "last_updated": "2026-07-17",
+   "data_points": 2842,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "131865": {
@@ -12439,8 +12439,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 2823,
-   "last_updated": "2026-07-17",
+   "data_points": 2824,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150688": {
@@ -12450,8 +12450,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 919,
-   "last_updated": "2026-07-17",
+   "data_points": 920,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154078": {
@@ -12483,8 +12483,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Axis Mutual Fund",
    "ter_pct": null,
-   "data_points": 1567,
-   "last_updated": "2026-07-17",
+   "data_points": 1568,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153924": {
@@ -12494,8 +12494,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Axis Mutual Fund",
    "ter_pct": null,
-   "data_points": 165,
-   "last_updated": "2026-07-17",
+   "data_points": 166,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149847": {
@@ -12516,8 +12516,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Axis Mutual Fund",
    "ter_pct": null,
-   "data_points": 142,
-   "last_updated": "2026-07-17",
+   "data_points": 143,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150615": {
@@ -12604,8 +12604,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "DSP Mutual Fund",
    "ter_pct": null,
-   "data_points": 2803,
-   "last_updated": "2026-07-17",
+   "data_points": 2804,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154167": {
@@ -12626,8 +12626,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.06,
-   "data_points": 1587,
-   "last_updated": "2026-07-17",
+   "data_points": 1588,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148446": {
@@ -12648,8 +12648,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 1451,
-   "last_updated": "2026-07-17",
+   "data_points": 1452,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153712": {
@@ -12659,8 +12659,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 239,
-   "last_updated": "2026-07-17",
+   "data_points": 240,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153776": {
@@ -12670,8 +12670,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 209,
-   "last_updated": "2026-07-17",
+   "data_points": 210,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118543": {
@@ -12681,8 +12681,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Franklin Templeton Mutual Fund",
    "ter_pct": 1.05,
-   "data_points": 3266,
-   "last_updated": "2026-07-17",
+   "data_points": 3267,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "132989": {
@@ -12692,8 +12692,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Franklin Templeton Mutual Fund",
    "ter_pct": null,
-   "data_points": 2811,
-   "last_updated": "2026-07-17",
+   "data_points": 2812,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154028": {
@@ -12703,8 +12703,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Groww Mutual Fund",
    "ter_pct": null,
-   "data_points": 138,
-   "last_updated": "2026-07-17",
+   "data_points": 139,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153860": {
@@ -12714,8 +12714,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 195,
-   "last_updated": "2026-07-17",
+   "data_points": 196,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "130543": {
@@ -12725,8 +12725,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 2963,
-   "last_updated": "2026-07-17",
+   "data_points": 2964,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154262": {
@@ -12736,8 +12736,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 86,
-   "last_updated": "2026-07-17",
+   "data_points": 87,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148903": {
@@ -12747,8 +12747,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 1283,
-   "last_updated": "2026-07-17",
+   "data_points": 1284,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "129200": {
@@ -12758,8 +12758,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "HSBC Mutual Fund",
    "ter_pct": null,
-   "data_points": 2952,
-   "last_updated": "2026-07-17",
+   "data_points": 2953,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "129197": {
@@ -12769,8 +12769,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "HSBC Mutual Fund",
    "ter_pct": null,
-   "data_points": 2946,
-   "last_updated": "2026-07-17",
+   "data_points": 2947,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "129193": {
@@ -12780,8 +12780,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "HSBC Mutual Fund",
    "ter_pct": null,
-   "data_points": 2952,
-   "last_updated": "2026-07-17",
+   "data_points": 2953,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120700": {
@@ -12879,8 +12879,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.22,
-   "data_points": 1061,
-   "last_updated": "2026-07-17",
+   "data_points": 1062,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153697": {
@@ -12934,8 +12934,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 3315,
-   "last_updated": "2026-07-17",
+   "data_points": 3316,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154275": {
@@ -13000,8 +13000,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Mirae Asset Mutual Fund",
    "ter_pct": null,
-   "data_points": 215,
-   "last_updated": "2026-07-17",
+   "data_points": 216,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148574": {
@@ -13033,8 +13033,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Motilal Oswal Mutual Fund",
    "ter_pct": null,
-   "data_points": 1311,
-   "last_updated": "2026-07-17",
+   "data_points": 1312,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154112": {
@@ -13055,8 +13055,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Motilal Oswal Mutual Fund",
    "ter_pct": null,
-   "data_points": 1311,
-   "last_updated": "2026-07-17",
+   "data_points": 1312,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "145552": {
@@ -13099,8 +13099,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Nippon India Mutual Fund",
    "ter_pct": null,
-   "data_points": 261,
-   "last_updated": "2026-07-17",
+   "data_points": 262,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148666": {
@@ -13132,8 +13132,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Quantum Mutual Fund",
    "ter_pct": null,
-   "data_points": 4184,
-   "last_updated": "2026-07-17",
+   "data_points": 4185,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "117608": {
@@ -13143,8 +13143,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Quantum Mutual Fund",
    "ter_pct": null,
-   "data_points": 3447,
-   "last_updated": "2026-07-17",
+   "data_points": 3448,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153832": {
@@ -13154,8 +13154,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 200,
-   "last_updated": "2026-07-17",
+   "data_points": 201,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119788": {
@@ -13187,8 +13187,8 @@
    "amfi_category": "FoF Domestic",
    "amc": "Sundaram Mutual Fund",
    "ter_pct": null,
-   "data_points": 125,
-   "last_updated": "2026-07-17",
+   "data_points": 126,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153513": {
@@ -13275,8 +13275,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Axis Mutual Fund",
    "ter_pct": 0.89,
-   "data_points": 1377,
-   "last_updated": "2026-07-17",
+   "data_points": 1378,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148954": {
@@ -13286,8 +13286,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Axis Mutual Fund",
    "ter_pct": 0.81,
-   "data_points": 1216,
-   "last_updated": "2026-07-17",
+   "data_points": 1217,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148699": {
@@ -13297,8 +13297,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Axis Mutual Fund",
    "ter_pct": 0.54,
-   "data_points": 1267,
-   "last_updated": "2026-07-17",
+   "data_points": 1268,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150751": {
@@ -13308,8 +13308,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Axis Mutual Fund",
    "ter_pct": null,
-   "data_points": 892,
-   "last_updated": "2026-07-17",
+   "data_points": 893,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152240": {
@@ -13319,8 +13319,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Axis Mutual Fund",
    "ter_pct": null,
-   "data_points": 620,
-   "last_updated": "2026-07-17",
+   "data_points": 621,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149098": {
@@ -13330,8 +13330,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Bandhan Mutual Fund",
    "ter_pct": null,
-   "data_points": 1105,
-   "last_updated": "2026-07-17",
+   "data_points": 1106,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151548": {
@@ -13341,8 +13341,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Bandhan Mutual Fund",
    "ter_pct": null,
-   "data_points": 773,
-   "last_updated": "2026-07-17",
+   "data_points": 774,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150285": {
@@ -13352,8 +13352,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Baroda BNP Paribas Mutual Fund",
    "ter_pct": 0.54,
-   "data_points": 1033,
-   "last_updated": "2026-07-17",
+   "data_points": 1034,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119275": {
@@ -13363,8 +13363,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "DSP Mutual Fund",
    "ter_pct": null,
-   "data_points": 3176,
-   "last_updated": "2026-07-17",
+   "data_points": 3177,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149816": {
@@ -13385,8 +13385,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "DSP Mutual Fund",
    "ter_pct": null,
-   "data_points": 548,
-   "last_updated": "2026-07-17",
+   "data_points": 549,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119252": {
@@ -13396,8 +13396,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "DSP Mutual Fund",
    "ter_pct": null,
-   "data_points": 3093,
-   "last_updated": "2026-07-17",
+   "data_points": 3094,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119277": {
@@ -13407,8 +13407,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "DSP Mutual Fund",
    "ter_pct": null,
-   "data_points": 3159,
-   "last_updated": "2026-07-17",
+   "data_points": 3160,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119279": {
@@ -13418,8 +13418,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "DSP Mutual Fund",
    "ter_pct": null,
-   "data_points": 3176,
-   "last_updated": "2026-07-17",
+   "data_points": 3177,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "140256": {
@@ -13429,8 +13429,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.7,
-   "data_points": 2300,
-   "last_updated": "2026-07-17",
+   "data_points": 2301,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "140327": {
@@ -13440,8 +13440,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.51,
-   "data_points": 2296,
-   "last_updated": "2026-07-17",
+   "data_points": 2297,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "140296": {
@@ -13451,8 +13451,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.55,
-   "data_points": 2334,
-   "last_updated": "2026-07-17",
+   "data_points": 2335,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "140243": {
@@ -13462,8 +13462,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.64,
-   "data_points": 2226,
-   "last_updated": "2026-07-17",
+   "data_points": 2227,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148063": {
@@ -13473,8 +13473,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.62,
-   "data_points": 1499,
-   "last_updated": "2026-07-17",
+   "data_points": 1500,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "140274": {
@@ -13484,8 +13484,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.66,
-   "data_points": 2272,
-   "last_updated": "2026-07-17",
+   "data_points": 2273,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118551": {
@@ -13495,8 +13495,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Franklin Templeton Mutual Fund",
    "ter_pct": null,
-   "data_points": 3268,
-   "last_updated": "2026-07-17",
+   "data_points": 3269,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149180": {
@@ -13517,8 +13517,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "HSBC Mutual Fund",
    "ter_pct": 1.0,
-   "data_points": 3067,
-   "last_updated": "2026-07-17",
+   "data_points": 3068,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "120043": {
@@ -13528,8 +13528,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "HSBC Mutual Fund",
    "ter_pct": null,
-   "data_points": 3009,
-   "last_updated": "2026-07-17",
+   "data_points": 3010,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "123654": {
@@ -13539,8 +13539,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 1.05,
-   "data_points": 2933,
-   "last_updated": "2026-07-17",
+   "data_points": 2934,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149455": {
@@ -13550,8 +13550,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.63,
-   "data_points": 1040,
-   "last_updated": "2026-07-17",
+   "data_points": 1041,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148614": {
@@ -13561,8 +13561,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Invesco Mutual Fund",
    "ter_pct": 0.6,
-   "data_points": 1266,
-   "last_updated": "2026-07-17",
+   "data_points": 1267,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "129188": {
@@ -13572,8 +13572,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Invesco Mutual Fund",
    "ter_pct": 0.86,
-   "data_points": 2814,
-   "last_updated": "2026-07-17",
+   "data_points": 2815,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "126353": {
@@ -13583,8 +13583,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Invesco Mutual Fund",
    "ter_pct": 0.58,
-   "data_points": 2869,
-   "last_updated": "2026-07-17",
+   "data_points": 2870,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119779": {
@@ -13594,8 +13594,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 3222,
-   "last_updated": "2026-07-17",
+   "data_points": 3223,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149059": {
@@ -13616,8 +13616,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 1210,
-   "last_updated": "2026-07-17",
+   "data_points": 1211,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154287": {
@@ -13627,8 +13627,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 70,
-   "last_updated": "2026-07-17",
+   "data_points": 71,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "133831": {
@@ -13649,8 +13649,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Kotak Mahindra Mutual Fund",
    "ter_pct": null,
-   "data_points": 1245,
-   "last_updated": "2026-07-17",
+   "data_points": 1246,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "133816": {
@@ -13671,8 +13671,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Mahindra Manulife Mutual Fund",
    "ter_pct": 0.45,
-   "data_points": 1099,
-   "last_updated": "2026-07-17",
+   "data_points": 1100,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150595": {
@@ -13682,8 +13682,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Mirae Asset Mutual Fund",
    "ter_pct": 0.23,
-   "data_points": 948,
-   "last_updated": "2026-07-17",
+   "data_points": 949,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149910": {
@@ -13693,8 +13693,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Navi Mutual Fund",
    "ter_pct": null,
-   "data_points": 1023,
-   "last_updated": "2026-07-17",
+   "data_points": 1024,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149830": {
@@ -13704,8 +13704,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "Navi Mutual Fund",
    "ter_pct": null,
-   "data_points": 1042,
-   "last_updated": "2026-07-17",
+   "data_points": 1043,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "138456": {
@@ -13715,8 +13715,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "PGIM India Mutual Fund",
    "ter_pct": 0.63,
-   "data_points": 2509,
-   "last_updated": "2026-07-17",
+   "data_points": 2510,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "138528": {
@@ -13726,8 +13726,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "PGIM India Mutual Fund",
    "ter_pct": 0.61,
-   "data_points": 2509,
-   "last_updated": "2026-07-17",
+   "data_points": 2510,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149298": {
@@ -13737,8 +13737,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "PGIM India Mutual Fund",
    "ter_pct": 0.55,
-   "data_points": 1093,
-   "last_updated": "2026-07-17",
+   "data_points": 1094,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148760": {
@@ -13748,8 +13748,8 @@
    "amfi_category": "FoF Overseas",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 1234,
-   "last_updated": "2026-07-17",
+   "data_points": 1235,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119602": {
@@ -14826,8 +14826,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 289,
-   "last_updated": "2026-07-17",
+   "data_points": 290,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150671": {
@@ -14837,8 +14837,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 910,
-   "last_updated": "2026-07-17",
+   "data_points": 911,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150727": {
@@ -14848,8 +14848,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 905,
-   "last_updated": "2026-07-17",
+   "data_points": 906,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150807": {
@@ -14859,8 +14859,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 891,
-   "last_updated": "2026-07-17",
+   "data_points": 892,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151365": {
@@ -14870,8 +14870,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 824,
-   "last_updated": "2026-07-17",
+   "data_points": 825,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153335": {
@@ -14881,8 +14881,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 338,
-   "last_updated": "2026-07-17",
+   "data_points": 339,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153115": {
@@ -14892,8 +14892,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 395,
-   "last_updated": "2026-07-17",
+   "data_points": 396,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149950": {
@@ -14914,8 +14914,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.5,
-   "data_points": 1356,
-   "last_updated": "2026-07-17",
+   "data_points": 1357,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149254": {
@@ -14925,8 +14925,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 1176,
-   "last_updated": "2026-07-17",
+   "data_points": 1177,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149250": {
@@ -14936,8 +14936,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.05,
-   "data_points": 1176,
-   "last_updated": "2026-07-17",
+   "data_points": 1177,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152616": {
@@ -14947,8 +14947,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 534,
-   "last_updated": "2026-07-17",
+   "data_points": 535,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149343": {
@@ -14958,8 +14958,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.23,
-   "data_points": 1139,
-   "last_updated": "2026-07-17",
+   "data_points": 1140,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154310": {
@@ -14969,8 +14969,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 68,
-   "last_updated": "2026-07-17",
+   "data_points": 69,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150902": {
@@ -14980,8 +14980,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.4,
-   "data_points": 892,
-   "last_updated": "2026-07-17",
+   "data_points": 893,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150899": {
@@ -14991,8 +14991,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.09,
-   "data_points": 892,
-   "last_updated": "2026-07-17",
+   "data_points": 893,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "148795": {
@@ -15013,8 +15013,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 1150,
-   "last_updated": "2026-07-17",
+   "data_points": 1151,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150892": {
@@ -15024,8 +15024,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": 0.14,
-   "data_points": 892,
-   "last_updated": "2026-07-17",
+   "data_points": 893,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152985": {
@@ -15035,8 +15035,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Edelweiss Mutual Fund",
    "ter_pct": null,
-   "data_points": 418,
-   "last_updated": "2026-07-17",
+   "data_points": 419,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "118581": {
@@ -15167,8 +15167,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 797,
-   "last_updated": "2026-07-17",
+   "data_points": 798,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153959": {
@@ -15178,8 +15178,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 158,
-   "last_updated": "2026-07-17",
+   "data_points": 159,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153517": {
@@ -15189,8 +15189,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 292,
-   "last_updated": "2026-07-17",
+   "data_points": 293,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154308": {
@@ -15200,8 +15200,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 77,
-   "last_updated": "2026-07-17",
+   "data_points": 78,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149870": {
@@ -15211,8 +15211,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.4,
-   "data_points": 1081,
-   "last_updated": "2026-07-17",
+   "data_points": 1082,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149868": {
@@ -15222,8 +15222,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 1081,
-   "last_updated": "2026-07-17",
+   "data_points": 1082,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154427": {
@@ -15233,7 +15233,7 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 9,
+   "data_points": 10,
    "last_updated": "",
    "error": "Insufficient NAV data"
   },
@@ -15244,8 +15244,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 809,
-   "last_updated": "2026-07-17",
+   "data_points": 810,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150845": {
@@ -15255,8 +15255,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 893,
-   "last_updated": "2026-07-17",
+   "data_points": 894,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150847": {
@@ -15266,8 +15266,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 893,
-   "last_updated": "2026-07-17",
+   "data_points": 894,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151181": {
@@ -15277,8 +15277,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 872,
-   "last_updated": "2026-07-17",
+   "data_points": 873,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151489": {
@@ -15288,8 +15288,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 806,
-   "last_updated": "2026-07-17",
+   "data_points": 807,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151183": {
@@ -15299,8 +15299,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 872,
-   "last_updated": "2026-07-17",
+   "data_points": 873,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "154179": {
@@ -15310,8 +15310,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 101,
-   "last_updated": "2026-07-17",
+   "data_points": 102,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "153097": {
@@ -15321,8 +15321,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 394,
-   "last_updated": "2026-07-17",
+   "data_points": 395,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152889": {
@@ -15332,8 +15332,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": null,
-   "data_points": 436,
-   "last_updated": "2026-07-17",
+   "data_points": 437,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151724": {
@@ -15343,8 +15343,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 797,
-   "last_updated": "2026-07-17",
+   "data_points": 798,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149288": {
@@ -15354,8 +15354,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 1157,
-   "last_updated": "2026-07-17",
+   "data_points": 1158,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151456": {
@@ -15365,8 +15365,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 818,
-   "last_updated": "2026-07-17",
+   "data_points": 819,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151570": {
@@ -15376,8 +15376,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.2,
-   "data_points": 801,
-   "last_updated": "2026-07-17",
+   "data_points": 802,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "151727": {
@@ -15387,8 +15387,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.3,
-   "data_points": 797,
-   "last_updated": "2026-07-17",
+   "data_points": 798,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149107": {
@@ -15398,8 +15398,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.4,
-   "data_points": 1208,
-   "last_updated": "2026-07-17",
+   "data_points": 1209,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "149966": {
@@ -15475,8 +15475,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "ICICI Prudential Mutual Fund",
    "ter_pct": 0.52,
-   "data_points": 1125,
-   "last_updated": "2026-07-17",
+   "data_points": 1126,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "150452": {
@@ -16432,8 +16432,8 @@
    "amfi_category": "Other Scheme - Index Funds",
    "amc": "Motilal Oswal Mutual Fund",
    "ter_pct": 0.62,
-   "data_points": 1534,
-   "last_updated": "2026-07-17",
+   "data_points": 1535,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "152062": {
@@ -17598,8 +17598,8 @@
    "amfi_category": "Fund of Funds investing overseas",
    "amc": "Aditya Birla Sun Life Mutual Fund",
    "ter_pct": null,
-   "data_points": 1154,
-   "last_updated": "2026-07-17",
+   "data_points": 1155,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "146407": {
@@ -17664,8 +17664,8 @@
    "amfi_category": "Childrens Fund",
    "amc": "SBI Mutual Fund",
    "ter_pct": null,
-   "data_points": 1430,
-   "last_updated": "2026-07-17",
+   "data_points": 1431,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "119719": {
@@ -17829,8 +17829,8 @@
    "amfi_category": "Solution Oriented Scheme - Retirement Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.66,
-   "data_points": 2557,
-   "last_updated": "2026-07-17",
+   "data_points": 2558,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "136465": {
@@ -17840,8 +17840,8 @@
    "amfi_category": "Solution Oriented Scheme - Retirement Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 1.02,
-   "data_points": 2512,
-   "last_updated": "2026-07-17",
+   "data_points": 2513,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "136464": {
@@ -17851,8 +17851,8 @@
    "amfi_category": "Solution Oriented Scheme - Retirement Fund",
    "amc": "HDFC Mutual Fund",
    "ter_pct": 0.93,
-   "data_points": 2557,
-   "last_updated": "2026-07-17",
+   "data_points": 2558,
+   "last_updated": "2026-07-20",
    "error": ""
   },
   "146721": {
