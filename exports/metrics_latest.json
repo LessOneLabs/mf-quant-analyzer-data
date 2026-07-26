@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T05:54:58.277350",
+  "generated_at": "2026-07-26T15:18:06.164436",
   "funds_processed": 1638,
   "errors": 8,
   "discovered_category_map": {
@@ -62,8 +62,8 @@
     "trading_days": 252,
     "norm_floor_pct": 10.0,
     "norm_anchor_pct": 90.0,
-    "ter_aum_generated_at": null,
-    "ter_aum_ter_month": null,
+    "ter_aum_generated_at": "2026-07-25T01:25:03.844791",
+    "ter_aum_ter_month": "07-2026",
     "classifications": {
       "EQ-LARGECAP": {
         "benchmark_code": "120716",
