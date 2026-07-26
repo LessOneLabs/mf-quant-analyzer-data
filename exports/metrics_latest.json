@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T03:21:04.584929",
+  "generated_at": "2026-07-26T03:46:55.909852",
   "funds_processed": 1638,
   "errors": 8,
   "discovered_category_map": {
@@ -62,72 +62,88 @@
     "trading_days": 252,
     "norm_floor_pct": 10.0,
     "norm_anchor_pct": 90.0,
-    "ter_aum_generated_at": "2026-07-25T01:25:03.844791",
-    "ter_aum_ter_month": "07-2026",
+    "ter_aum_generated_at": null,
+    "ter_aum_ter_month": null,
     "classifications": {
       "EQ-LARGECAP": {
         "benchmark_code": "120716",
-        "min_data_points": 756
+        "min_data_points": 756,
+        "aum_floor_cr": 40.0
       },
       "EQ-MIDCAP": {
         "benchmark_code": "147625",
-        "min_data_points": 756
+        "min_data_points": 756,
+        "aum_floor_cr": 200.0
       },
       "EQ-SMALLCAP": {
         "benchmark_code": "118778",
-        "min_data_points": 756
+        "min_data_points": 756,
+        "aum_floor_cr": 160.0
       },
       "EQ-LARGEMID": {
         "benchmark_code": "120578",
-        "min_data_points": 756
+        "min_data_points": 756,
+        "aum_floor_cr": 90.0
       },
       "EQ-FLEXICAP": {
         "benchmark_code": "120717",
-        "min_data_points": 756
+        "min_data_points": 756,
+        "aum_floor_cr": 80.0
       },
       "EQ-THEMATIC": {
         "benchmark_code": "120717",
-        "min_data_points": 504
+        "min_data_points": 504,
+        "aum_floor_cr": 50.0
       },
       "EQ-OTHER": {
         "benchmark_code": "120717",
-        "min_data_points": 252
+        "min_data_points": 252,
+        "aum_floor_cr": 70.0
       },
       "HYB-EQUITY": {
         "benchmark_code": "120716",
-        "min_data_points": 756
+        "min_data_points": 756,
+        "aum_floor_cr": 40.0
       },
       "HYB-ARBITRAGE": {
         "benchmark_code": "119568",
-        "min_data_points": 504
+        "min_data_points": 504,
+        "aum_floor_cr": 90.0
       },
       "HYB-OTHER": {
         "benchmark_code": "120716",
-        "min_data_points": 252
+        "min_data_points": 252,
+        "aum_floor_cr": 10.0
       },
       "DEBT-LONG": {
         "benchmark_code": "120590",
-        "min_data_points": 756
+        "min_data_points": 756,
+        "aum_floor_cr": 30.0
       },
       "DEBT-MEDIUM": {
         "benchmark_code": "146215",
-        "min_data_points": 504
+        "min_data_points": 504,
+        "aum_floor_cr": 40.0
       },
       "DEBT-SHORT": {
         "benchmark_code": "119568",
-        "min_data_points": 252
+        "min_data_points": 252,
+        "aum_floor_cr": 150.0
       },
       "DEBT-OTHER": {
         "benchmark_code": "120590",
-        "min_data_points": 252
+        "min_data_points": 252,
+        "aum_floor_cr": 10.0
       },
       "EQ-INDEX": {
         "benchmark_code": "120717",
-        "min_data_points": 252
+        "min_data_points": 252,
+        "aum_floor_cr": 20.0
       },
       "DEBT-INDEX": {
         "benchmark_code": "150706",
-        "min_data_points": 252
+        "min_data_points": 252,
+        "aum_floor_cr": 60.0
       }
     }
   },
