@@ -5,7 +5,7 @@
 > classifications on a transparent, 17-metric, 5-card composite score
 > (Returns, Risk, Consistency, Regime, Efficiency). All scoring weights
 > are user-adjustable, visible as plain Excel formulas — nothing is a
-> black-box model. Updated daily from official AMFI NAV data. Free, no
+> black-box model. Updated twice weekly (Tue/Thu) from official AMFI NAV data. Free, no
 > login, no account, no data collection, no affiliation with any Asset
 > Management Company, SEBI, or AMFI.
 
@@ -37,7 +37,7 @@ itself, and this file, make no such claim. See Disclaimer below.
 - No minimum track-record requirement — deliberately, so genuinely
   strong newer funds aren't filtered out before a user ever sees them
   (unlike CRISIL/Value Research, which require ~3 years minimum).
-- Update cadence: daily, automated, from AMFI's published NAV data.
+- Update cadence: twice weekly (Tuesday and Thursday), automated, from AMFI's published NAV data; data_health.nav_as_of in the JSON shows NAV freshness.
 - Cost: free. No login, account, subscription, or data collection.
 - Formats: a live-refreshing Excel workbook (macros), a static Excel
   snapshot (no macros, cross-platform), and raw JSON.

@@ -4,21 +4,21 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>MF Quant Analyzer — Free Quantitative Mutual Fund Ranking Tool (India)</title>
-<meta name="description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe — ~1,600+ funds across 16 classifications, ranked on a transparent 17-metric, 5-card score with fully user-adjustable weights. Updated daily. No login, no cost, no affiliation with any AMC.">
+<meta name="description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe — ~1,600+ funds across 16 classifications, ranked on a transparent 17-metric, 5-card score with fully user-adjustable weights. Updated twice weekly. No login, no cost, no affiliation with any AMC.">
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://lessonelabs.github.io/mf-quant-analyzer-data/">
 
 <!-- Open Graph -->
 <meta property="og:type" content="website">
 <meta property="og:title" content="MF Quant Analyzer — Free Quantitative Mutual Fund Ranking Tool (India)">
-<meta property="og:description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Transparent 17-metric scoring, fully adjustable weights, updated daily. No login required.">
+<meta property="og:description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Transparent 17-metric scoring, fully adjustable weights, updated twice weekly. No login required.">
 <meta property="og:url" content="https://lessonelabs.github.io/mf-quant-analyzer-data/">
 <meta property="og:site_name" content="MF Quant Analyzer">
 
 <!-- Twitter Card -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="MF Quant Analyzer — Free Quantitative Mutual Fund Ranking Tool (India)">
-<meta name="twitter:description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Transparent 17-metric scoring, fully adjustable weights, updated daily.">
+<meta name="twitter:description" content="A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Transparent 17-metric scoring, fully adjustable weights, updated twice weekly.">
 
 <!-- Structured data: what this is, in a form search/AI engines can parse directly -->
 <script type="application/ld+json">
@@ -29,7 +29,7 @@
   "applicationCategory": "FinanceApplication",
   "operatingSystem": "Windows, macOS, Web (Excel/Spreadsheet)",
   "url": "https://lessonelabs.github.io/mf-quant-analyzer-data/",
-  "description": "A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Ranks ~1,600+ funds across 16 classifications using a transparent, 17-metric, 5-card composite score (Returns, Risk, Consistency, Regime, Efficiency) computed within each fund's peer category. All scoring weights are user-adjustable in the spreadsheet itself. Updated daily via an automated pipeline. Distributed as an Excel workbook (with and without live-refresh macros) and as raw JSON. No login, no cost, no data collection, no affiliation with any Asset Management Company, SEBI, or AMFI.",
+  "description": "A free, open-source, quantitative ranking tool for the Indian direct-growth mutual fund universe. Ranks ~1,600+ funds across 16 classifications using a transparent, 17-metric, 5-card composite score (Returns, Risk, Consistency, Regime, Efficiency) computed within each fund's peer category. All scoring weights are user-adjustable in the spreadsheet itself. Updated twice weekly (Tuesday and Thursday) via an automated pipeline. Distributed as an Excel workbook (with and without live-refresh macros) and as raw JSON. No login, no cost, no data collection, no affiliation with any Asset Management Company, SEBI, or AMFI.",
   "offers": {
     "@type": "Offer",
     "price": "0",
@@ -44,7 +44,7 @@
     "Ranks Indian direct-growth mutual funds within 16 peer classifications",
     "17 independently-computed metrics across 5 weighted cards: Returns, Risk, Consistency, Regime, Efficiency",
     "All scoring weights are user-adjustable, live in the spreadsheet",
-    "Updated daily from AMFI NAV data",
+    "Updated twice weekly (Tue/Thu) from AMFI NAV data",
     "Transparent, documented methodology — no black-box score",
     "Available as a live-refreshing Excel workbook, a static Excel snapshot, and raw JSON",
     "Free, open, no login or account required"
@@ -85,7 +85,7 @@
     <div class="stat"><div class="num">16</div><div class="label">peer classifications</div></div>
     <div class="stat"><div class="num">17</div><div class="label">independently-scored metrics</div></div>
     <div class="stat"><div class="num">5</div><div class="label">weighted score cards</div></div>
-    <div class="stat"><div class="num">Daily</div><div class="label">automatic refresh</div></div>
+    <div class="stat"><div class="num">Tue/Thu</div><div class="label">automatic refresh</div></div>
   </div>
 
   <div class="card">
@@ -147,7 +147,7 @@
 
   <h2>How it works</h2>
   <ol>
-    <li>An automated daily pipeline pulls official NAV data published by
+    <li>An automated twice-weekly pipeline pulls official NAV data published by
     AMFI (Association of Mutual Funds in India) for the entire
     direct-growth fund universe.</li>
     <li>17 metrics are computed per fund — returns, risk, consistency,
@@ -156,7 +156,7 @@
     <li>The 17 metrics roll up into 5 cards, and the 5 cards roll up into
     one Final Score per fund — using weights you can see and change
     yourself, live, in the workbook.</li>
-    <li>Everything is republished daily: a live-refreshing Excel workbook,
+    <li>Everything is republished on each run: a live-refreshing Excel workbook,
     a static Excel snapshot for anyone without macros enabled, and the
     raw JSON behind both.</li>
   </ol>
@@ -202,7 +202,7 @@
   </details>
   <details>
     <summary>How often is it updated?</summary>
-    <p>Daily, via an automated pipeline that pulls the latest AMFI NAV
+    <p>Twice a week (Tuesday and Thursday mornings IST), via an automated pipeline that pulls the latest AMFI NAV
     data and republishes both workbooks and the raw JSON.</p>
   </details>
   <details>
@@ -215,7 +215,7 @@
   <details>
     <summary>Is the source code available?</summary>
     <p>The data pipeline and scoring engine are maintained privately;
-    the published data (daily JSON, both Excel workbooks, and this site)
+    the published data (the JSON, both Excel workbooks, and this site)
     are public and free to use, under LessOneLabs on GitHub.</p>
   </details>
   <details>
