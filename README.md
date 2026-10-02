@@ -12,7 +12,7 @@ ranking tool for the Indian direct-growth mutual fund universe.
   `data_health.recoveries` lists anything the pipeline had to work around
   on that run (empty means everything came from primary sources).
 
-This repo is auto-updated daily by a private companion repo that fetches
+This repo is auto-updated every Tuesday and Thursday by a private companion repo that fetches
 NAV data from AMFI/MFAPI.in, computes ranking scores, and publishes here.
 The scoring engine itself is not published — only its output.
 
