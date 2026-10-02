@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T08:07:26.722132",
+ "generated_at": "2026-10-02T15:42:06.183238",
  "count": 1638,
  "funds": {
   "135762": {
@@ -505,8 +505,8 @@
    "ter_pct": 0.08,
    "ter_date": "2026-10-01",
    "aum_cr": 5594.7476,
-   "data_points": 989,
-   "last_updated": "2026-10-01",
+   "data_points": 990,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "118364": {
@@ -518,8 +518,8 @@
    "ter_pct": 0.07,
    "ter_date": "2026-09-30",
    "aum_cr": 16727.2958,
-   "data_points": 4327,
-   "last_updated": "2026-10-01",
+   "data_points": 4328,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "119369": {
@@ -531,8 +531,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-10-01",
    "aum_cr": 1320.3818,
-   "data_points": 4222,
-   "last_updated": "2026-10-03",
+   "data_points": 4223,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "154011": {
@@ -544,8 +544,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-10-01",
    "aum_cr": 87.9317,
-   "data_points": 260,
-   "last_updated": "2026-10-01",
+   "data_points": 261,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "140196": {
@@ -570,8 +570,8 @@
    "ter_pct": null,
    "ter_date": null,
    "aum_cr": 3414.3793,
-   "data_points": 4250,
-   "last_updated": "2026-10-01",
+   "data_points": 4251,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "119091": {
@@ -583,8 +583,8 @@
    "ter_pct": 0.2,
    "ter_date": "2026-09-30",
    "aum_cr": 52628.4769,
-   "data_points": 4253,
-   "last_updated": "2026-10-01",
+   "data_points": 4254,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "120197": {
@@ -596,8 +596,8 @@
    "ter_pct": 0.2,
    "ter_date": "2026-09-30",
    "aum_cr": 44677.1522,
-   "data_points": 4336,
-   "last_updated": "2026-10-01",
+   "data_points": 4337,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "147157": {
@@ -609,8 +609,8 @@
    "ter_pct": 0.16,
    "ter_date": "2026-10-01",
    "aum_cr": 22.0479,
-   "data_points": 2264,
-   "last_updated": "2026-10-01",
+   "data_points": 2265,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120249": {
@@ -622,8 +622,8 @@
    "ter_pct": 0.13,
    "ter_date": "2026-10-02",
    "aum_cr": 14432.4296,
-   "data_points": 4334,
-   "last_updated": "2026-10-03",
+   "data_points": 4335,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "145834": {
@@ -648,8 +648,8 @@
    "ter_pct": 0.26,
    "ter_date": "2026-09-30",
    "aum_cr": 61.8951,
-   "data_points": 4168,
-   "last_updated": "2026-10-01",
+   "data_points": 4169,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "118701": {
@@ -661,8 +661,8 @@
    "ter_pct": 0.2,
    "ter_date": "2026-09-30",
    "aum_cr": 30400.8117,
-   "data_points": 4290,
-   "last_updated": "2026-10-01",
+   "data_points": 4291,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "138299": {
@@ -674,8 +674,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-10-02",
    "aum_cr": 583.5703,
-   "data_points": 3379,
-   "last_updated": "2026-10-02",
+   "data_points": 3380,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "143269": {
@@ -687,8 +687,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-10-01",
    "aum_cr": 4543.6725,
-   "data_points": 2374,
-   "last_updated": "2026-10-03",
+   "data_points": 2375,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120837": {
@@ -700,8 +700,8 @@
    "ter_pct": 0.31,
    "ter_date": "2026-10-01",
    "aum_cr": 861.4331,
-   "data_points": 4243,
-   "last_updated": "2026-10-01",
+   "data_points": 4244,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "103734": {
@@ -726,8 +726,8 @@
    "ter_pct": 0.2,
    "ter_date": "2026-09-30",
    "aum_cr": 66055.51,
-   "data_points": 4661,
-   "last_updated": "2026-10-01",
+   "data_points": 4662,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "149664": {
@@ -739,8 +739,8 @@
    "ter_pct": 0.14,
    "ter_date": "2026-09-30",
    "aum_cr": 6703.569,
-   "data_points": 1522,
-   "last_updated": "2026-10-01",
+   "data_points": 1523,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "119861": {
@@ -765,8 +765,8 @@
    "ter_pct": 0.1,
    "ter_date": "2026-10-01",
    "aum_cr": 518.7167,
-   "data_points": 313,
-   "last_updated": "2026-10-01",
+   "data_points": 314,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "148841": {
@@ -778,8 +778,8 @@
    "ter_pct": 0.1,
    "ter_date": "2026-10-01",
    "aum_cr": 882.9161,
-   "data_points": 1664,
-   "last_updated": "2026-10-01",
+   "data_points": 1665,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "153570": {
@@ -791,8 +791,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-10-01",
    "aum_cr": 84.9822,
-   "data_points": 421,
-   "last_updated": "2026-10-01",
+   "data_points": 422,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "119303": {
@@ -804,8 +804,8 @@
    "ter_pct": 0.07,
    "ter_date": "2026-10-01",
    "aum_cr": 7552.0583,
-   "data_points": 4294,
-   "last_updated": "2026-10-01",
+   "data_points": 4295,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "128006": {
@@ -1025,8 +1025,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-10-01",
    "aum_cr": 864.7812,
-   "data_points": 988,
-   "last_updated": "2026-10-01",
+   "data_points": 989,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "146191": {
@@ -1038,8 +1038,8 @@
    "ter_pct": 0.07,
    "ter_date": "2026-09-30",
    "aum_cr": 629.3052,
-   "data_points": 2396,
-   "last_updated": "2026-10-01",
+   "data_points": 2397,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "147951": {
@@ -1051,8 +1051,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-10-01",
    "aum_cr": 38.2846,
-   "data_points": 1828,
-   "last_updated": "2026-10-03",
+   "data_points": 1829,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "146062": {
@@ -1064,8 +1064,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-09-30",
    "aum_cr": 2055.5706,
-   "data_points": 2392,
-   "last_updated": "2026-10-01",
+   "data_points": 2393,
+   "last_updated": "2026-10-03",
    "error": ""
   },
   "147570": {
@@ -1090,8 +1090,8 @@
    "ter_pct": 0.07,
    "ter_date": "2026-10-01",
    "aum_cr": 479.8774,
-   "data_points": 2291,
-   "last_updated": "2026-10-01",
+   "data_points": 2292,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "119110": {
@@ -1103,8 +1103,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-09-30",
    "aum_cr": 8543.5525,
-   "data_points": 4244,
-   "last_updated": "2026-10-01",
+   "data_points": 4245,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "145536": {
@@ -1116,8 +1116,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-09-30",
    "aum_cr": 10845.1563,
-   "data_points": 2446,
-   "last_updated": "2026-10-01",
+   "data_points": 2447,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "147713": {
@@ -1129,8 +1129,8 @@
    "ter_pct": 0.15,
    "ter_date": "2026-10-01",
    "aum_cr": 28.3366,
-   "data_points": 2108,
-   "last_updated": "2026-10-01",
+   "data_points": 2109,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "146141": {
@@ -1142,8 +1142,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-09-29",
    "aum_cr": 7244.7199,
-   "data_points": 2380,
-   "last_updated": "2026-10-01",
+   "data_points": 2381,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "147515": {
@@ -1155,8 +1155,8 @@
    "ter_pct": 0.1,
    "ter_date": "2026-10-02",
    "aum_cr": 557.9027,
-   "data_points": 2266,
-   "last_updated": "2026-10-03",
+   "data_points": 2267,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "147564": {
@@ -1168,8 +1168,8 @@
    "ter_pct": 0.1,
    "ter_date": "2026-10-01",
    "aum_cr": 97.5062,
-   "data_points": 2011,
-   "last_updated": "2026-10-01",
+   "data_points": 2012,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "145810": {
@@ -1181,8 +1181,8 @@
    "ter_pct": 0.1,
    "ter_date": "2026-09-30",
    "aum_cr": 6181.5344,
-   "data_points": 2395,
-   "last_updated": "2026-10-01",
+   "data_points": 2396,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "147606": {
@@ -1194,8 +1194,8 @@
    "ter_pct": 0.18,
    "ter_date": "2026-10-02",
    "aum_cr": 72.2988,
-   "data_points": 2319,
-   "last_updated": "2026-10-02",
+   "data_points": 2320,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "151190": {
@@ -1207,8 +1207,8 @@
    "ter_pct": 0.19,
    "ter_date": "2026-10-01",
    "aum_cr": 34.1946,
-   "data_points": 1084,
-   "last_updated": "2026-10-01",
+   "data_points": 1085,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "119833": {
@@ -1220,8 +1220,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-09-30",
    "aum_cr": 25180.357,
-   "data_points": 4659,
-   "last_updated": "2026-10-01",
+   "data_points": 4660,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "146963": {
@@ -1233,8 +1233,8 @@
    "ter_pct": 0.08,
    "ter_date": "2026-09-30",
    "aum_cr": 1063.6846,
-   "data_points": 2404,
-   "last_updated": "2026-10-01",
+   "data_points": 2405,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "146980": {
@@ -1259,8 +1259,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-10-01",
    "aum_cr": 38.1009,
-   "data_points": 1442,
-   "last_updated": "2026-10-01",
+   "data_points": 1443,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "153520": {
@@ -1285,8 +1285,8 @@
    "ter_pct": 0.14,
    "ter_date": "2026-10-01",
    "aum_cr": 595.0551,
-   "data_points": 2124,
-   "last_updated": "2026-10-01",
+   "data_points": 2125,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120785": {
@@ -1298,8 +1298,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-10-01",
    "aum_cr": 4790.4032,
-   "data_points": 3864,
-   "last_updated": "2026-10-01",
+   "data_points": 3865,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "153436": {
@@ -1311,8 +1311,8 @@
    "ter_pct": 0.13,
    "ter_date": "2026-10-01",
    "aum_cr": 92.0909,
-   "data_points": 471,
-   "last_updated": "2026-10-01",
+   "data_points": 472,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "119498": {
@@ -4535,8 +4535,8 @@
    "ter_pct": 0.63,
    "ter_date": "2026-09-29",
    "aum_cr": 335.0418,
-   "data_points": 1701,
-   "last_updated": "2026-09-30",
+   "data_points": 1702,
+   "last_updated": "2026-10-01",
    "error": ""
   },
   "151881": {
@@ -5978,8 +5978,8 @@
    "ter_pct": 1.55,
    "ter_date": "2026-09-30",
    "aum_cr": 503.3679,
-   "data_points": 1347,
-   "last_updated": "2026-09-30",
+   "data_points": 1348,
+   "last_updated": "2026-10-01",
    "error": ""
   },
   "118494": {
@@ -12621,8 +12621,8 @@
    "ter_pct": 0.23,
    "ter_date": "2026-09-30",
    "aum_cr": 944.4522,
-   "data_points": 3686,
-   "last_updated": "2026-10-01",
+   "data_points": 3687,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "154051": {
@@ -12634,8 +12634,8 @@
    "ter_pct": 0.22,
    "ter_date": "2026-10-01",
    "aum_cr": 140.5004,
-   "data_points": 257,
-   "last_updated": "2026-10-01",
+   "data_points": 258,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "119568": {
@@ -12660,8 +12660,8 @@
    "ter_pct": 0.13,
    "ter_date": "2026-10-01",
    "aum_cr": null,
-   "data_points": 30,
-   "last_updated": "2026-10-01",
+   "data_points": 31,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120389": {
@@ -12673,8 +12673,8 @@
    "ter_pct": 0.13,
    "ter_date": "2026-10-01",
    "aum_cr": 45697.4983,
-   "data_points": 4545,
-   "last_updated": "2026-10-01",
+   "data_points": 4546,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "119415": {
@@ -12686,8 +12686,8 @@
    "ter_pct": 0.08,
    "ter_date": "2026-10-01",
    "aum_cr": 10869.4454,
-   "data_points": 4106,
-   "last_updated": "2026-10-01",
+   "data_points": 4107,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "118305": {
@@ -12712,8 +12712,8 @@
    "ter_pct": 0.12,
    "ter_date": "2026-09-30",
    "aum_cr": 18663.5769,
-   "data_points": 4320,
-   "last_updated": "2026-10-01",
+   "data_points": 4321,
+   "last_updated": "2026-10-03",
    "error": ""
   },
   "119135": {
@@ -12725,8 +12725,8 @@
    "ter_pct": null,
    "ter_date": null,
    "aum_cr": 224.0827,
-   "data_points": 4363,
-   "last_updated": "2026-10-01",
+   "data_points": 4364,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120038": {
@@ -12738,8 +12738,8 @@
    "ter_pct": 0.13,
    "ter_date": "2026-10-01",
    "aum_cr": 17421.0437,
-   "data_points": 4064,
-   "last_updated": "2026-10-01",
+   "data_points": 4065,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120537": {
@@ -12751,8 +12751,8 @@
    "ter_pct": 0.15,
    "ter_date": "2026-10-01",
    "aum_cr": 15588.6426,
-   "data_points": 4220,
-   "last_updated": "2026-10-01",
+   "data_points": 4221,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "139388": {
@@ -12790,8 +12790,8 @@
    "ter_pct": 0.1,
    "ter_date": "2026-10-01",
    "aum_cr": 8348.4406,
-   "data_points": 398,
-   "last_updated": "2026-10-01",
+   "data_points": 399,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120406": {
@@ -12803,8 +12803,8 @@
    "ter_pct": 0.16,
    "ter_date": "2026-10-01",
    "aum_cr": 2352.0717,
-   "data_points": 4215,
-   "last_updated": "2026-10-01",
+   "data_points": 4216,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "148414": {
@@ -12842,8 +12842,8 @@
    "ter_pct": 0.15,
    "ter_date": "2026-09-29",
    "aum_cr": 37260.6284,
-   "data_points": 4203,
-   "last_updated": "2026-10-01",
+   "data_points": 4204,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "139538": {
@@ -12855,8 +12855,8 @@
    "ter_pct": 0.15,
    "ter_date": "2026-10-01",
    "aum_cr": 969.2606,
-   "data_points": 2947,
-   "last_updated": "2026-10-01",
+   "data_points": 2948,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "118859": {
@@ -12881,8 +12881,8 @@
    "ter_pct": 0.16,
    "ter_date": "2026-10-02",
    "aum_cr": 109.0323,
-   "data_points": 611,
-   "last_updated": "2026-10-02",
+   "data_points": 612,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "120304": {
@@ -12894,8 +12894,8 @@
    "ter_pct": 0.15,
    "ter_date": "2026-10-01",
    "aum_cr": 26534.1318,
-   "data_points": 4540,
-   "last_updated": "2026-10-01",
+   "data_points": 4541,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "145971": {
@@ -13557,8 +13557,8 @@
    "ter_pct": 0.13,
    "ter_date": "2026-09-30",
    "aum_cr": 548.1916,
-   "data_points": 370,
-   "last_updated": "2026-10-01",
+   "data_points": 371,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "146675": {
@@ -13570,8 +13570,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-10-01",
    "aum_cr": 9879.4111,
-   "data_points": 2318,
-   "last_updated": "2026-10-01",
+   "data_points": 2319,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "147196": {
@@ -13583,8 +13583,8 @@
    "ter_pct": 0.08,
    "ter_date": "2026-10-01",
    "aum_cr": 696.1765,
-   "data_points": 2218,
-   "last_updated": "2026-10-01",
+   "data_points": 2219,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "147531": {
@@ -13622,8 +13622,8 @@
    "ter_pct": 0.16,
    "ter_date": "2026-10-01",
    "aum_cr": 148.1449,
-   "data_points": 2198,
-   "last_updated": "2026-10-01",
+   "data_points": 2199,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "152152": {
@@ -13648,8 +13648,8 @@
    "ter_pct": 0.07,
    "ter_date": "2026-10-01",
    "aum_cr": 3765.836,
-   "data_points": 2157,
-   "last_updated": "2026-10-01",
+   "data_points": 2158,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "147883": {
@@ -13661,8 +13661,8 @@
    "ter_pct": 0.09,
    "ter_date": "2026-10-01",
    "aum_cr": 306.6982,
-   "data_points": 2036,
-   "last_updated": "2026-10-01",
+   "data_points": 2037,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "153650": {
@@ -13674,8 +13674,8 @@
    "ter_pct": 0.12,
    "ter_date": "2026-10-01",
    "aum_cr": 1007.7371,
-   "data_points": 398,
-   "last_updated": "2026-10-01",
+   "data_points": 399,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "147837": {
@@ -13687,8 +13687,8 @@
    "ter_pct": 0.11,
    "ter_date": "2026-10-01",
    "aum_cr": 105.7967,
-   "data_points": 2117,
-   "last_updated": "2026-10-01",
+   "data_points": 2118,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "149829": {
@@ -13700,8 +13700,8 @@
    "ter_pct": null,
    "ter_date": null,
    "aum_cr": 0.3182,
-   "data_points": 1470,
-   "last_updated": "2026-10-01",
+   "data_points": 1471,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "149826": {
@@ -13713,8 +13713,8 @@
    "ter_pct": null,
    "ter_date": null,
    "aum_cr": 5.7027,
-   "data_points": 1470,
-   "last_updated": "2026-10-01",
+   "data_points": 1471,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "147736": {
@@ -13765,8 +13765,8 @@
    "ter_pct": 0.23,
    "ter_date": "2026-10-01",
    "aum_cr": 4.319,
-   "data_points": 1202,
-   "last_updated": "2026-10-01",
+   "data_points": 1203,
+   "last_updated": "2026-10-02",
    "error": ""
   },
   "154394": {
@@ -13778,8 +13778,8 @@
    "ter_pct": 0.19,
    "ter_date": "2026-10-02",
    "aum_cr": 106.5849,
-   "data_points": 122,
-   "last_updated": "2026-10-02",
+   "data_points": 123,
+   "last_updated": "2026-10-04",
    "error": ""
   },
   "154654": {
@@ -16638,8 +16638,8 @@
    "ter_pct": 0.42,
    "ter_date": "2026-09-30",
    "aum_cr": null,
-   "data_points": 4236,
-   "last_updated": "2026-09-30",
+   "data_points": 4237,
+   "last_updated": "2026-10-01",
    "error": ""
   },
   "117608": {
@@ -16651,8 +16651,8 @@
    "ter_pct": 0.13,
    "ter_date": "2026-09-30",
    "aum_cr": null,
-   "data_points": 3499,
-   "last_updated": "2026-09-30",
+   "data_points": 3500,
+   "last_updated": "2026-10-01",
    "error": ""
   },
   "153832": {
@@ -16846,8 +16846,8 @@
    "ter_pct": 1.18,
    "ter_date": "2026-09-30",
    "aum_cr": 313.496,
-   "data_points": 1040,
-   "last_updated": "2026-09-30",
+   "data_points": 1041,
+   "last_updated": "2026-10-01",
    "error": ""
   },
   "152528": {
@@ -17145,8 +17145,8 @@
    "ter_pct": 1.37,
    "ter_date": "2026-09-30",
    "aum_cr": 24.1049,
-   "data_points": 3293,
-   "last_updated": "2026-09-30",
+   "data_points": 3294,
+   "last_updated": "2026-10-01",
    "error": ""
   },
   "150702": {
@@ -20785,8 +20785,8 @@
    "ter_pct": 0.47,
    "ter_date": "2026-09-29",
    "aum_cr": 229.729,
-   "data_points": 1198,
-   "last_updated": "2026-09-30",
+   "data_points": 1199,
+   "last_updated": "2026-10-01",
    "error": ""
   },
   "148646": {
